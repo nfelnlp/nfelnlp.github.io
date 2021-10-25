@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/avatar.png?raw=true" width="200px" align="right"></img>  
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/avatar.jpg?raw=true" width="200px" align="right">  
+
 # Welcome
 Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD thesis in explainable natural language processing at the [German Research Center for Artificial Intelligence](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) and the [Technische Universität Berlin](https://www.tu.berlin/en/) under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/).
 
@@ -7,7 +8,7 @@ My main research interest is making (neural) language models more interpretable.
 
 # Publications
 
-<a href="https://github.com/DFKI-NLP/thermostat"><img src="https://raw.githubusercontent.com/DFKI-NLP/thermostat/main/figures/logo.png?raw=true" width="200px" align="right"></img></a>  
+<a href="https://github.com/DFKI-NLP/thermostat"><img src="https://raw.githubusercontent.com/DFKI-NLP/thermostat/main/figures/logo.png?raw=true" width="200px" align="right"></a>  
 ### Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools
 **Nils Feldhus**, Robert Schwarzenberg and Sebastian Möller  
 *2021 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*  
