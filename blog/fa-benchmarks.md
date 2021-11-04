@@ -57,13 +57,13 @@ Tsang et al. (2020) |
 Nguyen & Martínez (2020) |
 <abbr title="Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers (Chen & Ji, 2020) ★; Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks (Chen et al., 2021)">VMASK / GMASK</abbr> | <abbr title="Nguyen (2018)">AOPC</abbr>, <br> <abbr title="Post-hoc Accuracy (Chen et al., 2018)">Post-h Acc</abbr>, <br> <abbr title="Degradation test (Ancona et al., 2017; Schulz et al., 2020). Only used in Chen et al. (2021)">Degradation</abbr>* | | | | | <abbr title="Only used in Chen et al. (2021)">LIME</abbr> | | <abbr title="Restricting the Flow: Information Bottlenecks for Attribution (Schulz et al., 2020)">IBA</abbr> | L2X, <br> VMASK, <br> <abbr title="Only used in Chen et al. (2021)">IMASK</abbr>
 <abbr title="Order in the Court: Explainable AI Methods Prone to Disagreement">Court of XAI (Neely et al., 2021)</abbr> | <abbr title="Agreement via Kendall's τ">Correlation</abbr> | | x | DeepLIFT | Grad-SHAP, <br> Deep-SHAP | x
-Bodria et al. (2021)
-Ding & Koehn (2021)
-Yin et al. (2021)
-Hase et al. (2021)
-Kokhlikyan et al. (2021)
-Zafar et al. (2021)
-Sinha et al. (2021)
+Bodria et al. (2021) |
+Ding & Koehn (2021) |
+Yin et al. (2021) |
+Hase et al. (2021) |
+Kokhlikyan et al. (2021) |
+Zafar et al. (2021) |
+Sinha et al. (2021) |
 
 ---
 
@@ -74,43 +74,44 @@ Paper | Details
 Crowdsourcing Evaluations of Classifier Interpretability (Hutton et al., 2012) ★ |
 <abbr title="Explaining a black-box using Deep Variational Information Bottleneck Approach">VIBI (Bang et al., 2019)</abbr> ★ |
 <abbr title="A Diagnostic Study of Explainability Techniques for Text Classification">XAI Benchmark (Atanasova et al., 2020)</abbr> | Used only datasets that already provide human annotations (rationales)
-Lertvittayakumjorn & Toni (2019) |
+Lertvittayakumjorn & Toni (2019) |  
 
 ### Human forward prediction and Simulatability
 
 Paper | Details
 --- | ---
 <abbr title="Comparing Automatic and Human Evaluation of Local Explanations for Text Classification">Nguyen (2018)</abbr> |
-Hase & Bansal (2020) |
-<abbr title="On the Interaction of Belief Bias and Explanations">González et al. (2021)</abbr> | Grad, <br> IG
+Hase & Bansal (2020) |  
+<abbr title="On the Interaction of Belief Bias and Explanations">González et al. (2021)</abbr> | Grad, <br> IG  
 
 ---
 
-![](https://d3i71xaburhd42.cloudfront.net/9d4a144cc6b80d175164b1d2a969ad356743e1f7/6-Table3-1.png)
-<p style="text-align: center;">from Chen & Ji (2020)</sup>
-
 ## Incorporating feature attributions into model training
-* Zero-shot Sequence Labeling for Transformer-based Sentence Classifiers (Bujel et al., 2021) ★
+
+![](https://d3i71xaburhd42.cloudfront.net/9d4a144cc6b80d175164b1d2a969ad356743e1f7/6-Table3-1.png)
+<p style="text-align: center;">from Chen & Ji (2020)</sup>  
+
+* Zero-shot Sequence Labeling for Transformer-based Sentence Classifiers (Bujel et al., 2021) ★  
 
 ### Improving the prediction performance
-* Incorporating Priors with Feature Attribution on Text Classification (Liu & Avci, 2019)
-* Evaluating Explanations: How much do explanations from the teacher aid students? (Pruthi et al., 2020)
+* Incorporating Priors with Feature Attribution on Text Classification (Liu & Avci, 2019)  
+* Evaluating Explanations: How much do explanations from the teacher aid students? (Pruthi et al., 2020)  
 
 ### Improving the faithfulness
-* <abbr title="Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations">Right for the Right Reasons (Ross et al., 2017)</abbr>
-* <abbr title="Enjoy the Salience: Towards Better Transformer-based Faithful Explanations with Word Salience">SALOSS (Chrysostomou & Aletras, 2021)</abbr> ★
+* <abbr title="Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations">Right for the Right Reasons (Ross et al., 2017)</abbr>  
+* <abbr title="Enjoy the Salience: Towards Better Transformer-based Faithful Explanations with Word Salience">SALOSS (Chrysostomou & Aletras, 2021)</abbr> ★  
 
 ### Improving the interpretability
-* Improving the Interpretability of Neural Sentiment Classifiers via Data Augmentation (Chen & Ji, 2019) ★
-    * aligning with human judgment
-* Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers (Chen & Ji, 2020) ★
+* Improving the Interpretability of Neural Sentiment Classifiers via Data Augmentation (Chen & Ji, 2019) ★  
+    * aligning with human judgment  
+* Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers (Chen & Ji, 2020) ★  
 
 ---
 
 ## Dataset coverage
 
-Wiegreffe & Marasović (2021) compiled a great survey of human rationale datasets.
-The following table accumulates the papers that I mentioned in this blog post in a previous section.
+Wiegreffe & Marasović (2021) compiled a great survey of human rationale datasets.  
+The following table accumulates the papers that I mentioned in this blog post in a previous section.  
 
 Dataset | Papers
 --- | ---
