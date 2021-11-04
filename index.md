@@ -40,31 +40,29 @@ Georg Rehm et al.
 *1st International Workshop on Language Technology Platforms (c/w LREC 2020)*  
 [IWLTP 2020 Proceedings](https://aclanthology.org/2020.iwltp-1.15/)
 
+# Blog posts
+* [A Topography of Feature Attribution Benchmarks](https://nfelnlp.github.io/blog/fa-benchmarks)
+
 # Education
-* 2021-2024 – Computer Science, PhD, Technische Universität Berlin. Supervised by Sebastian Möller. Thesis title TBD.
-* 2016-2020 – Cognitive Systems: Language, Learning and Reasoning, MSc, University of Potsdam. Supervised by Manfred Stede: "Utilizing machine translation for bootstrapping abstractive text summarization".
-* 2013-2016 – Computational Linguistics, BA, Heidelberg University. Supervised by Katja Markert: "An in-depth investigation on timeline summarization evaluation".
+2021-2024 – Computer Science, PhD, Technische Universität Berlin. Supervised by Sebastian Möller. Thesis title TBD.  
+2016-2020 – Cognitive Systems: Language, Learning and Reasoning, MSc, University of Potsdam. Supervised by Manfred Stede: "Utilizing machine translation for bootstrapping abstractive text summarization".  
+2013-2016 – Computational Linguistics, BA, Heidelberg University. Supervised by Katja Markert: "An in-depth investigation on timeline summarization evaluation".  
 
 # Jobs
-* 2020-ongoing – Researcher/Software Engineer @ German Research Institute for Artificial Intelligence (DFKI), Berlin, [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) group.
-	* Part of the [European Language Grid](https://live.european-language-grid.eu/) technical team from January 2020 to March 2021, supervised by Georg Rehm.
-* 2014 – Student assistant at the Institute for Computational Linguistics @ Heidelberg University
+2020-ongoing – Researcher/Software Engineer @ German Research Institute for Artificial Intelligence (DFKI), Berlin, [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) group.  
+Part of the [European Language Grid](https://live.european-language-grid.eu/) technical team from January 2020 to March 2021, supervised by Georg Rehm.  
+2014 – Student assistant at the Institute for Computational Linguistics @ Heidelberg University  
 
 # Supervision
 All titles TBD.
-* Daniel Fernau (with Tim Polzehl) – MSc thesis @ TU Berlin: Personality-adaptive conversational agents
-* Kiran Rohra (with Philippe Thomas) – MSc thesis @ TU Berlin: Comparative error analysis of biomedical image captioning models
-* Ajay Madhavan Ravichandran (with Philippe Thomas) – MSc thesis @ TU Berlin: Evaluating text quality of generated radiology reports
 
-# Secondary Reviewer
-* BlackboxNLP 2021
-* EMNLP 2021
-* ACL 2021
-* NAACL 2021
-* WebConf 2021
-* IWLTP 2020
-* EMNLP 2020
-* ACL 2020
+Daniel Fernau (with Tim Polzehl) – MSc thesis @ TU Berlin: Personality-adaptive conversational agents  
+Kiran Rohra (with Philippe Thomas) – MSc thesis @ TU Berlin: Comparative error analysis of biomedical image captioning models  
+Ajay Madhavan Ravichandran (with Philippe Thomas) – MSc thesis @ TU Berlin: Evaluating text quality of generated radiology reports  
+
+# Reviews
+As secondary reviewer:  
+BlackboxNLP 2021, EMNLP 2021, ACL 2021, NAACL 2021, WebConf 2021, IWLTP 2020, EMNLP 2020, ACL 2020
 
 
 # Mail
