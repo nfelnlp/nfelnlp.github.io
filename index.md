@@ -12,12 +12,12 @@ My main research interest is making (neural) language models more interpretable.
 ### Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools
 **Nils Feldhus**, Robert Schwarzenberg and Sebastian Möller  
 *2021 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*  
-[EMNLP 2021 accepted papers](https://2021.emnlp.org/papers#demos) | [arXiv](https://arxiv.org/abs/2108.13961) | [GitHub](https://github.com/DFKI-NLP/thermostat)
+[EMNLP 2021 System Demonstrations proceedings](https://aclanthology.org/2021.emnlp-demo.11/) | [arXiv](https://arxiv.org/abs/2108.13961) | [GitHub](https://github.com/DFKI-NLP/thermostat)
 
 ### Efficient Explanations from Empirical Explainers
 Robert Schwarzenberg, **Nils Feldhus** and Sebastian Möller  
 *4th workshop on analyzing and interpreting neural networks for NLP (collocated with EMNLP 2021)*  
-[BlackboxNLP 2021 program](https://blackboxnlp.github.io/program.html) | [arXiv](https://arxiv.org/abs/2103.15429) | [GitHub](https://github.com/DFKI-NLP/emp-exp)
+[BlackboxNLP 2021 proceedings](https://aclanthology.org/2021.blackboxnlp-1.17/) | [arXiv](https://arxiv.org/abs/2103.15429) | [GitHub](https://github.com/DFKI-NLP/emp-exp)
 
 ### Evaluating German Transformer Language Models with Syntactic Agreement Tests
 Karolina Zaczynska, **Nils Feldhus**\*, Robert Schwarzenberg, Aleksandra Gabryszak and Sebastian Möller  
