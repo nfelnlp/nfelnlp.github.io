@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/avatar.png?raw=true" width="200px" align="right"></img>  
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/avatar.jpg?raw=true" width="200px" align="right">  
+
 # Welcome
 Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD thesis in explainable natural language processing at the [German Research Center for Artificial Intelligence](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) and the [Technische Universität Berlin](https://www.tu.berlin/en/) under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/).
 
@@ -7,16 +8,16 @@ My main research interest is making (neural) language models more interpretable.
 
 # Publications
 
-<a href="https://github.com/DFKI-NLP/thermostat"><img src="https://raw.githubusercontent.com/DFKI-NLP/thermostat/main/figures/logo.png?raw=true" width="200px" align="right"></img></a>  
+<a href="https://github.com/DFKI-NLP/thermostat"><img src="https://raw.githubusercontent.com/DFKI-NLP/thermostat/main/figures/logo.png?raw=true" width="200px" align="right"></a>  
 ### Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools
 **Nils Feldhus**, Robert Schwarzenberg and Sebastian Möller  
 *2021 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*  
-[EMNLP 2021 accepted papers](https://2021.emnlp.org/papers#demos) | [arXiv](https://arxiv.org/abs/2108.13961) | [GitHub](https://github.com/DFKI-NLP/thermostat)
+[EMNLP 2021 System Demonstrations proceedings](https://aclanthology.org/2021.emnlp-demo.11/) | [arXiv](https://arxiv.org/abs/2108.13961) | [GitHub](https://github.com/DFKI-NLP/thermostat)
 
 ### Efficient Explanations from Empirical Explainers
 Robert Schwarzenberg, **Nils Feldhus** and Sebastian Möller  
 *4th workshop on analyzing and interpreting neural networks for NLP (collocated with EMNLP 2021)*  
-[BlackboxNLP 2021 program](https://blackboxnlp.github.io/program.html) | [arXiv](https://arxiv.org/abs/2103.15429) | [GitHub](https://github.com/DFKI-NLP/emp-exp)
+[BlackboxNLP 2021 proceedings](https://aclanthology.org/2021.blackboxnlp-1.17/) | [arXiv](https://arxiv.org/abs/2103.15429) | [GitHub](https://github.com/DFKI-NLP/emp-exp)
 
 ### Evaluating German Transformer Language Models with Syntactic Agreement Tests
 Karolina Zaczynska, **Nils Feldhus**\*, Robert Schwarzenberg, Aleksandra Gabryszak and Sebastian Möller  
@@ -39,31 +40,29 @@ Georg Rehm et al.
 *1st International Workshop on Language Technology Platforms (c/w LREC 2020)*  
 [IWLTP 2020 Proceedings](https://aclanthology.org/2020.iwltp-1.15/)
 
+# Blog posts
+* [A Topography of Feature Attribution Benchmarks](https://nfelnlp.github.io/blog/fa-benchmarks)
+
 # Education
-* 2021-2024 – Computer Science, PhD, Technische Universität Berlin. Supervised by Sebastian Möller. Thesis title TBD.
-* 2016-2020 – Cognitive Systems: Language, Learning and Reasoning, MSc, University of Potsdam. Supervised by Manfred Stede: "Utilizing machine translation for bootstrapping abstractive text summarization".
-* 2013-2016 – Computational Linguistics, BA, Heidelberg University. Supervised by Katja Markert: "An in-depth investigation on timeline summarization evaluation".
+2021-2024 – Computer Science, PhD, Technische Universität Berlin. Supervised by Sebastian Möller. Thesis title TBD.  
+2016-2020 – Cognitive Systems: Language, Learning and Reasoning, MSc, University of Potsdam. Supervised by Manfred Stede: "Utilizing machine translation for bootstrapping abstractive text summarization".  
+2013-2016 – Computational Linguistics, BA, Heidelberg University. Supervised by Katja Markert: "An in-depth investigation on timeline summarization evaluation".  
 
 # Jobs
-* 2020-ongoing – Researcher/Software Engineer @ German Research Institute for Artificial Intelligence (DFKI), Berlin, [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) group.
-	* Part of the [European Language Grid](https://live.european-language-grid.eu/) technical team from January 2020 to March 2021, supervised by Georg Rehm.
-* 2014 – Student assistant at the Institute for Computational Linguistics @ Heidelberg University
+2020-ongoing – Researcher/Software Engineer @ German Research Institute for Artificial Intelligence (DFKI), Berlin, [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) group.  
+Part of the [European Language Grid](https://live.european-language-grid.eu/) technical team from January 2020 to March 2021, supervised by Georg Rehm.  
+2014 – Student assistant at the Institute for Computational Linguistics @ Heidelberg University  
 
 # Supervision
 All titles TBD.
-* Daniel Fernau (with Tim Polzehl) – MSc thesis @ TU Berlin: Personality-adaptive conversational agents
-* Kiran Rohra (with Philippe Thomas) – MSc thesis @ TU Berlin: Comparative error analysis of biomedical image captioning models
-* Ajay Madhavan Ravichandran (with Philippe Thomas) – MSc thesis @ TU Berlin: Evaluating text quality of generated radiology reports
 
-# Secondary Reviewer
-* BlackboxNLP 2021
-* EMNLP 2021
-* ACL 2021
-* NAACL 2021
-* WebConf 2021
-* IWLTP 2020
-* EMNLP 2020
-* ACL 2020
+Daniel Fernau (with Tim Polzehl) – MSc thesis @ TU Berlin: Personality-adaptive conversational agents  
+Kiran Rohra (with Philippe Thomas) – MSc thesis @ TU Berlin: Comparative error analysis of biomedical image captioning models  
+Ajay Madhavan Ravichandran (with Philippe Thomas) – MSc thesis @ TU Berlin: Evaluating text quality of generated radiology reports  
+
+# Reviews
+As secondary reviewer:  
+BlackboxNLP 2021, EMNLP 2021, ACL 2021, NAACL 2021, WebConf 2021, IWLTP 2020, EMNLP 2020, ACL 2020
 
 
 # Mail
