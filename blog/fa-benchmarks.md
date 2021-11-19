@@ -59,6 +59,7 @@ Paper | CNN | LSTM/RNN | Transformers
 **VMASK (Chen & Ji, 2020)** ★ | Kim (2014) | <abbr title="one hidden-layer bi-directional LSTM (Hochreiter & Schmidhuber, 1997)">LSTM</abbr> <br> + <abbr title="Word2Vec (Mikolov et al., 2013)">W2V</abbr> | BERT
 **GMASK (Chen et al., 2021)** | | <abbr title="A Decomposable Attention Model for Natural Language Inference (Parikh et al., 2016)">DAttn</abbr> | BERT
 **Court of XAI (Neely et al., 2021)** | | BiLSTM | DistilBERT
+**Ding & Koehn (2021)** | | LSTM, <br> QRNN | Transformer
 
 ### Benchmark papers
 
@@ -73,6 +74,8 @@ Chen, Hanjie, Song Feng, Jatin Ganhotra, Hui Wan, Chulaka Gunasekara, Sachindra 
 Chen, Hanjie and Yangfeng Ji. “[Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers.](https://api.semanticscholar.org/CorpusID:222124889)” EMNLP (2020).  
 
 De Cao, Nicola, M. Schlichtkrull, W. Aziz and Ivan Titov. “[How Do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking.](https://api.semanticscholar.org/CorpusID:216867610)” EMNLP (2020).  
+
+Ding, Shuoyang and Philipp Koehn. “[Evaluating Saliency Methods for Neural Language Models.](https://api.semanticscholar.org/CorpusID:233219418)” NAACL (2021).  
 
 Neely, Michael, Stefan F. Schouten, Maurits Bleeker and Ana Lucic. “[Order in the Court: Explainable AI Methods Prone to Disagreement.](https://api.semanticscholar.org/CorpusID:234096057)” ICML (2021).  
 
@@ -105,8 +108,8 @@ Paper | Analysis | <abbr title="Simple Gradient Saliency (Simonyan et al., 2013)
 **Nguyen & Rodriǵuez Martínez (2020)** | Complexity, <br> Monotonicity, <br> <abbr title="Effective Complexity">Eff. Complex.</abbr>, <br> <abbr title="Non-Sensitivity">Non-Sensitiv.</abbr>, <br> Perturbation | x | x | Input x Grad
 **VMASK (Chen & Ji, 2020)** ★ / **GMASK (Chen et al., 2021)** | <abbr title="Nguyen (2018)">AOPC</abbr>, <br> <abbr title="Post-hoc Accuracy (Chen et al., 2018)">Post-h Acc</abbr>, <br> <abbr title="Degradation test (Ancona et al., 2017; Schulz et al., 2020). Only used in Chen et al. (2021)">Degradation</abbr>* | | | | | <abbr title="Only used in Chen et al. (2021)">LIME</abbr> | | <abbr title="Restricting the Flow: Information Bottlenecks for Attribution (Schulz et al., 2020)">IBA</abbr> | L2X, <br> VMASK, <br> <abbr title="Variation of GMASK only used in Chen et al. (2021)">IMASK</abbr>, <br> <abbr title="Only used in Chen et al. (2021)">GMASK</abbr>
 **Court of XAI (Neely et al., 2021)** | <abbr title="Agreement via Kendall's τ">Correlation</abbr> | | x | DeepLIFT | <abbr title="Grad-SHAP, Deep-SHAP (both Lundberg & Lee, 2017)">SHAP</abbr> | x
-Bodria et al. (2021) |
-Ding & Koehn (2021) |
+**Bodria et al. (2021)** | Deletion, <br> Insertion | | x | Input x Grad, <br> DeepLIFT | | LIME
+**Ding & Koehn (2021)** | <abbr title="Agreement test following Pörner et al. (2018)">Plausability</abbr>, <br> <abbr title="Model Consistency test & Input Consistency test (Jacovi & Goldberg, 2020)">Faithfulness</abbr>  | x | x | <abbr title="SmoothGrad (Smilkov et al., 2017)">SmoothGr</abbr>
 Yin et al. (2021) |
 Hase et al. (2021) |
 Kokhlikyan et al. (2021) |
@@ -129,6 +132,8 @@ Tsang, Michael, Sirisha Rambhatla and Yan Liu. “[How does this interaction aff
 Ancona, Marco, Enea Ceolini, A. Cengiz Öztireli and Markus H. Gross. “[A unified view of gradient-based attribution methods for Deep Neural Networks.](https://api.semanticscholar.org/CorpusID:1809062)” ICLR (2018).  
 
 Chen, Jianbo, Le Song, Martin J. Wainwright and Michael I. Jordan. “[Learning to Explain: An Information-Theoretic Perspective on Model Interpretation.](https://api.semanticscholar.org/CorpusID:3500834)” ICML (2018).  
+
+Jacovi, Alon and Yoav Goldberg. “[Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness?](https://api.semanticscholar.org/CorpusID:215416110)” ACL (2020).  
 
 Samek, Wojciech, Alexander Binder, Grégoire Montavon, Sebastian Lapuschkin and Klaus-Robert Müller. “[Evaluating the Visualization of What a Deep Neural Network Has Learned.](https://api.semanticscholar.org/CorpusID:7689122)” IEEE Transactions on Neural Networks and Learning Systems 28 (2017): 2660-2673.  
 
@@ -162,6 +167,8 @@ Ribeiro, Marco Tulio, Sameer Singh and Carlos Guestrin. “["Why Should I Trust 
 Schulz, Karl, Leon Sixt, Federico Tombari and Tim Landgraf. “[Restricting the Flow: Information Bottlenecks for Attribution.](https://api.semanticscholar.org/CorpusID:209532057)” ICLR (2020).
 
 Simonyan, Karen, Andrea Vedaldi and Andrew Zisserman. “[Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps.](https://api.semanticscholar.org/CorpusID:1450294)” ICLR (2014).  
+
+Smilkov, Daniel, Nikhil Thorat, Been Kim, Fernanda B. Viégas and Martin Wattenberg. “[SmoothGrad: removing noise by adding noise.](https://api.semanticscholar.org/CorpusID:11695878)” CoRR, abs/1706.03825 (2017).  
 
 Sundararajan, Mukund, Ankur Taly and Qiqi Yan. “[Axiomatic Attribution for Deep Networks.](https://api.semanticscholar.org/CorpusID:16747630)” ICML (2017).  
 
@@ -224,20 +231,24 @@ The following table accumulates the papers that I mentioned in this blog post in
 
 Dataset | Papers
 --- | ---
-<abbr title="IMDb Large Movie Review Dataset from 'Learning Word Vectors for Sentiment Analysis' (Maas et al., 2011)">IMDb</abbr> | <abbr title="Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers">VMASK (Chen & Ji, 2020)</abbr> ★, <br> <abbr title="A Diagnostic Study of Explainability Techniques for Text Classification">XAI Benchmark (Atanasova et al., 2020)</abbr>, <br> <abbr title="Order in the Court: Explainable AI Methods Prone to Disagreement">Court of XAI (Neely et al., 2021)</abbr>
-20Newsgroups | <abbr title="Explaining Predictions of Non-Linear Classifiers in NLP">Arras et al. (2016)</abbr>, <br> <abbr title="Evaluating neural network explanation methods using hybrid documents and morphosyntactic agreement">LIMSSE (Pörner et al., 2018)</abbr>, <br> <abbr title="Comparing Automatic and Human Evaluation of Local Explanations for Text Classification">Nguyen (2018)</abbr>
-<abbr title="Stanford Sentiment Treebank (Socher et al., 2013)">SST</abbr> | <abbr title="Explaining Recurrent Neural Network Predictions in Sentiment Analysis (Arras et al., 2017)">Arras et al. (2017)</abbr>, <br> <abbr title="How Do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking">DiffMask (De Cao et al., 2020)</abbr>, <br> <abbr title="Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers">VMASK (Chen & Ji, 2020)</abbr> ★
-<abbr title="Zaidan et al. (2007)">Movie Reviews</abbr> | <abbr title="Comparing Automatic and Human Evaluation of Local Explanations for Text Classification">Nguyen (2018)</abbr>
-SST-2 | <abbr title="Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers">VMASK (Chen & Ji, 2020)</abbr> ★, <br> <abbr title="Order in the Court: Explainable AI Methods Prone to Disagreement">Court of XAI (Neely et al., 2021)</abbr>
-Yelp | <abbr title="Evaluating neural network explanation methods using hybrid documents and morphosyntactic agreement">LIMSSE (Pörner et al., 2018)</abbr>, <br> <abbr title="Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers">VMASK (Chen & Ji, 2020)</abbr> ★
-AG News | <abbr title="Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers">VMASK (Chen & Ji, 2020)</abbr> ★
-TREC | <abbr title="Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers">VMASK (Chen & Ji, 2020)</abbr> ★
-Subj | <abbr title="Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers">VMASK (Chen & Ji, 2020)</abbr> ★
-SNLI | <abbr title="Order in the Court: Explainable AI Methods Prone to Disagreement">Court of XAI (Neely et al., 2021)</abbr>
-e-SNLI | <abbr title="Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks">GMASK (Chen et al., 2021)</abbr>, <br> <abbr title="A Diagnostic Study of Explainability Techniques for Text Classification">XAI Benchmark (Atanasova et al., 2020)</abbr>
-MNLI | <abbr title="Order in the Court: Explainable AI Methods Prone to Disagreement">Court of XAI (Neely et al., 2021)</abbr>
-Quora | <abbr title="Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks">GMASK (Chen et al., 2021)</abbr>
-QQP | <abbr title="Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks">GMASK (Chen et al., 2021)</abbr>, <br> <abbr title="Order in the Court: Explainable AI Methods Prone to Disagreement">Court of XAI (Neely et al., 2021)</abbr>
-MRPC | <abbr title="Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks">GMASK (Chen et al., 2021)</abbr>
-TSE | <abbr title="A Diagnostic Study of Explainability Techniques for Text Classification">XAI Benchmark (Atanasova et al., 2020)</abbr>
-SQuAD | <abbr title="How Do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking">DiffMask (De Cao et al., 2020)</abbr>
+<abbr title="IMDb Large Movie Review Dataset from 'Learning Word Vectors for Sentiment Analysis' (Maas et al., 2011)">**IMDb**</abbr> | VMASK (Chen & Ji, 2020) ★, <br> XAI Benchmark (Atanasova et al., 2020), <br> Court of XAI (Neely et al., 2021), <br> Bodria et al. (2021)
+**20Newsgroups** | Arras et al. (2016), <br> LIMSSE (Pörner et al., 2018), <br> Nguyen (2018)
+<abbr title="Stanford Sentiment Treebank (Socher et al., 2013)">**SST**</abbr> | Arras et al. (2017), <br> DiffMask (De Cao et al., 2020), <br> VMASK (Chen & Ji, 2020) ★, <br> Tsang et al. (2020), <br> Bodria et al. (2021)
+<abbr title="Zaidan et al. (2007)">**Movie Reviews**</abbr> | <abbr title="Comparing Automatic and Human Evaluation of Local Explanations for Text Classification">Nguyen (2018)</abbr>
+**SST-2** | <abbr title="Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers">VMASK (Chen & Ji, 2020)</abbr> ★, <br> <abbr title="Order in the Court: Explainable AI Methods Prone to Disagreement">Court of XAI (Neely et al., 2021)</abbr>
+**Yelp** | <abbr title="Evaluating neural network explanation methods using hybrid documents and morphosyntactic agreement">LIMSSE (Pörner et al., 2018)</abbr>, <br> <abbr title="Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers">VMASK (Chen & Ji, 2020)</abbr> ★, <br> Bodria et al. (2021)
+**AG News** | <abbr title="Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers">VMASK (Chen & Ji, 2020)</abbr> ★
+**TREC** | <abbr title="Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers">VMASK (Chen & Ji, 2020)</abbr> ★
+**Subj** | <abbr title="Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers">VMASK (Chen & Ji, 2020)</abbr> ★
+**SNLI** | <abbr title="Order in the Court: Explainable AI Methods Prone to Disagreement">Court of XAI (Neely et al., 2021)</abbr>
+**e-SNLI** | <abbr title="Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks">GMASK (Chen et al., 2021)</abbr>, <br> <abbr title="A Diagnostic Study of Explainability Techniques for Text Classification">XAI Benchmark (Atanasova et al., 2020)</abbr>
+**MNLI** | <abbr title="Order in the Court: Explainable AI Methods Prone to Disagreement">Court of XAI (Neely et al., 2021)</abbr>
+**Quora** | <abbr title="Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks">GMASK (Chen et al., 2021)</abbr>
+**QQP** | <abbr title="Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks">GMASK (Chen et al., 2021)</abbr>, <br> <abbr title="Order in the Court: Explainable AI Methods Prone to Disagreement">Court of XAI (Neely et al., 2021)</abbr>
+**MRPC** | <abbr title="Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks">GMASK (Chen et al., 2021)</abbr>
+**TSE** | <abbr title="A Diagnostic Study of Explainability Techniques for Text Classification">XAI Benchmark (Atanasova et al., 2020)</abbr>
+**SQuAD** | <abbr title="How Do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking">DiffMask (De Cao et al., 2020)</abbr>
+**PTB** | Ding & Koehn (2021)
+**Syneval** | Ding & Koehn (2021)
+**CoNLL** | Ding & Koehn (2021)
+**Winobias** | Ding & Koehn (2021)
