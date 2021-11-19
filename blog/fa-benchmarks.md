@@ -52,42 +52,42 @@ Papers with more than one type of model architecture.
 
 Paper | CNN | LSTM/RNN | Transformers
 --- | --- | --- | ---
-Arras et al. (2016; 2017) | Kim (2014) | <abbr title="one hidden-layer bi-directional LSTM (Hochreiter & Schmidhuber, 1997)">LSTM</abbr>
-LIMSSE (Pörner et al., 2018) | CNN | GRU, <br> QGRU, <br> LSTM, <br> QLSTM
-DiffMask (De Cao et al., 2020) | | GRU | BERT
-XAI Benchmark (Atanasova et al., 2020) | <abbr title="Layers: GloVe embeddings (Pennington et al., 2014) + Conv + Max-Pool + Linear">GloVe</abbr> | <abbr title="Layers: GloVe embeddings (Pennington et al., 2014) + multiple bidirectional recurrent + 3x linear + Dropout">GloVe</abbr> | BERT
-VMASK (Chen & Ji, 2020) ★ | Kim (2014) | <abbr title="one hidden-layer bi-directional LSTM (Hochreiter & Schmidhuber, 1997)">LSTM</abbr> <br> + <abbr title="Word2Vec (Mikolov et al., 2013)">W2V</abbr> | BERT
-GMASK (Chen et al., 2021) | | <abbr title="A Decomposable Attention Model for Natural Language Inference (Parikh et al., 2016)">DAttn</abbr> | BERT
-Court of XAI (Neely et al., 2021) | | BiLSTM | DistilBERT
+**Arras et al. (2016; 2017)** | Kim (2014) | <abbr title="one hidden-layer bi-directional LSTM (Hochreiter & Schmidhuber, 1997)">LSTM</abbr>
+**LIMSSE (Pörner et al., 2018)** | CNN | GRU, <br> QGRU, <br> LSTM, <br> QLSTM
+**DiffMask (De Cao et al., 2020)** | | GRU | BERT
+**XAI Benchmark (Atanasova et al., 2020)** | <abbr title="Layers: GloVe embeddings (Pennington et al., 2014) + Conv + Max-Pool + Linear">GloVe</abbr> | <abbr title="Layers: GloVe embeddings (Pennington et al., 2014) + multiple bidirectional recurrent + 3x linear + Dropout">GloVe</abbr> | BERT
+**VMASK (Chen & Ji, 2020)** ★ | Kim (2014) | <abbr title="one hidden-layer bi-directional LSTM (Hochreiter & Schmidhuber, 1997)">LSTM</abbr> <br> + <abbr title="Word2Vec (Mikolov et al., 2013)">W2V</abbr> | BERT
+**GMASK (Chen et al., 2021)** | | <abbr title="A Decomposable Attention Model for Natural Language Inference (Parikh et al., 2016)">DAttn</abbr> | BERT
+**Court of XAI (Neely et al., 2021)** | | BiLSTM | DistilBERT
 
 ### Benchmark papers
 
-> Arras, Leila, F. Horn, Grégoire Montavon, Klaus-Robert Müller and Wojciech Samek. “[Explaining Predictions of Non-Linear Classifiers in NLP.](https://api.semanticscholar.org/CorpusID:5247929)” RepL4NLP @ ACL (2016).  
+Arras, Leila, F. Horn, Grégoire Montavon, Klaus-Robert Müller and Wojciech Samek. “[Explaining Predictions of Non-Linear Classifiers in NLP.](https://api.semanticscholar.org/CorpusID:5247929)” RepL4NLP @ ACL (2016).  
 
-> Arras, Leila, Grégoire Montavon, Klaus-Robert Müller and Wojciech Samek. “[Explaining Recurrent Neural Network Predictions in Sentiment Analysis.](https://api.semanticscholar.org/CorpusID:19624082)” WASSA@EMNLP (2017).  
+Arras, Leila, Grégoire Montavon, Klaus-Robert Müller and Wojciech Samek. “[Explaining Recurrent Neural Network Predictions in Sentiment Analysis.](https://api.semanticscholar.org/CorpusID:19624082)” WASSA@EMNLP (2017).  
 
-> Atanasova, Pepa, Jakob Grue Simonsen, Christina Lioma and Isabelle Augenstein. “[A Diagnostic Study of Explainability Techniques for Text Classification.](https://api.semanticscholar.org/CorpusID:221970112)” EMNLP (2020).  
+Atanasova, Pepa, Jakob Grue Simonsen, Christina Lioma and Isabelle Augenstein. “[A Diagnostic Study of Explainability Techniques for Text Classification.](https://api.semanticscholar.org/CorpusID:221970112)” EMNLP (2020).  
 
-> Chen, Hanjie, Song Feng, Jatin Ganhotra, Hui Wan, Chulaka Gunasekara, Sachindra Joshi and Yangfeng Ji. “[Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks.](https://api.semanticscholar.org/CorpusID:233204288)” NAACL (2021).  
+Chen, Hanjie, Song Feng, Jatin Ganhotra, Hui Wan, Chulaka Gunasekara, Sachindra Joshi and Yangfeng Ji. “[Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks.](https://api.semanticscholar.org/CorpusID:233204288)” NAACL (2021).  
 
-> Chen, Hanjie and Yangfeng Ji. “[Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers.](https://api.semanticscholar.org/CorpusID:222124889)” EMNLP (2020).  
+Chen, Hanjie and Yangfeng Ji. “[Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers.](https://api.semanticscholar.org/CorpusID:222124889)” EMNLP (2020).  
 
-> De Cao, Nicola, M. Schlichtkrull, W. Aziz and Ivan Titov. “[How Do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking.](https://api.semanticscholar.org/CorpusID:216867610)” EMNLP (2020).  
+De Cao, Nicola, M. Schlichtkrull, W. Aziz and Ivan Titov. “[How Do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking.](https://api.semanticscholar.org/CorpusID:216867610)” EMNLP (2020).  
 
-> Neely, Michael, Stefan F. Schouten, Maurits Bleeker and Ana Lucic. “[Order in the Court: Explainable AI Methods Prone to Disagreement.](https://api.semanticscholar.org/CorpusID:234096057)” ICML (2021).  
+Neely, Michael, Stefan F. Schouten, Maurits Bleeker and Ana Lucic. “[Order in the Court: Explainable AI Methods Prone to Disagreement.](https://api.semanticscholar.org/CorpusID:234096057)” ICML (2021).  
 
-> Pörner, Nina, Hinrich Schütze and Benjamin Roth. “[Evaluating neural network explanation methods using hybrid documents and morphosyntactic agreement.](https://api.semanticscholar.org/CorpusID:51692044)” ACL (2018).  
+Pörner, Nina, Hinrich Schütze and Benjamin Roth. “[Evaluating neural network explanation methods using hybrid documents and morphosyntactic agreement.](https://api.semanticscholar.org/CorpusID:51692044)” ACL (2018).  
 
 ### Models
 <details><summary>Click to expand</summary>
 
-> Kim, Yoon. “[Convolutional Neural Networks for Sentence Classification.](https://api.semanticscholar.org/CorpusID:9672033)” EMNLP (2014).  
+Kim, Yoon. “[Convolutional Neural Networks for Sentence Classification.](https://api.semanticscholar.org/CorpusID:9672033)” EMNLP (2014).  
 
-> Mikolov, Tomas, Ilya Sutskever, Kai Chen, Gregory S. Corrado and Jeffrey Dean. “[Distributed Representations of Words and Phrases and their Compositionality.](https://api.semanticscholar.org/CorpusID:16447573)” NIPS (2013).
+Mikolov, Tomas, Ilya Sutskever, Kai Chen, Gregory S. Corrado and Jeffrey Dean. “[Distributed Representations of Words and Phrases and their Compositionality.](https://api.semanticscholar.org/CorpusID:16447573)” NIPS (2013).
 
-> Parikh, Ankur P., Oscar Täckström, Dipanjan Das and Jakob Uszkoreit. “[A Decomposable Attention Model for Natural Language Inference.](https://api.semanticscholar.org/CorpusID:8495258)” EMNLP (2016).  
+Parikh, Ankur P., Oscar Täckström, Dipanjan Das and Jakob Uszkoreit. “[A Decomposable Attention Model for Natural Language Inference.](https://api.semanticscholar.org/CorpusID:8495258)” EMNLP (2016).  
 
-> Pennington, Jeffrey, Richard Socher and Christopher D. Manning. “[GloVe: Global Vectors for Word Representation.](https://api.semanticscholar.org/CorpusID:1957433)” EMNLP (2014).  
+Pennington, Jeffrey, Richard Socher and Christopher D. Manning. “[GloVe: Global Vectors for Word Representation.](https://api.semanticscholar.org/CorpusID:1957433)” EMNLP (2014).  
 
 </details>
 
@@ -96,33 +96,43 @@ Court of XAI (Neely et al., 2021) | | BiLSTM | DistilBERT
 ## Comparing explainers with count-based or automated metrics
 Paper | Analysis | <abbr title="Simple Gradient Saliency (Simonyan et al., 2013), sometimes referred to as Vanilla Gradient">Grad</abbr> | <abbr title="Integrated Gradients (Sundararajan et al., 2017)">IG</abbr> | <abbr title="Other gradient-based or propagation-based explainers">Grad/Prop</abbr> | <abbr title="Types of Shapley Value explainers">Shapley</abbr> | <abbr title="Why Should I Trust You?: Explaining the Predictions of Any Classifier (Ribeiro et al., 2016)">LIME</abbr> | <abbr title="Occlusion and Erasure-based explainers">Occl</abbr> | <abbr title="Information Bottleneck">IB</abbr> | <abbr title="Other NLP-specific explainers">NLP-spec.</abbr>
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Arras et al. (2016; 2017) | Word Deletion | | | <abbr title="Layer-Wise Relevance Propagation for Neural Networks with Local Renormalization Layers (Binder et al., 2016)">LRP</abbr> | | | | |
-LIMSSE (Pörner et al., 2018) | <abbr title="Hybrid document paradigm">Faithfulness</abbr>, <br> <abbr title="Morphosyntactic agreement paradigm">Agreement</abbr> | x | x | <abbr title="Layer-Wise Relevance Propagation for Neural Networks with Local Renormalization Layers (Binder et al., 2016)">LRP</abbr>, <br> DeepLIFT | | LIMSSE | <abbr title="Occlusion (Zeiler & Fergus, 2013)">Z&F</abbr>, <br> <abbr title="Omission (Kádár et al., 2017)">Omiss</abbr>
-Nguyen (2018) | <abbr title="Switching point (inspired by Arras et al., 2016)">SwitchP</abbr>, <br> <abbr title="Area over the Perturbation Curve (Samek et al., 2017)">AOPC</abbr>, <br> <abbr title="Forward prediction / simulation (Doshi-Velez & Kim, 2017)">Forward pred</abbr> | x | | <abbr title="First derivate saliency (Aubakirova & Bansal, 2016; Li et al., 2016)">1st Deriv</abbr> | | x | <abbr title="Omission (Kádár et al., 2017)">Omiss</abbr>
-DiffMask (De Cao et al., 2020) | <abbr title="Kullback-Leibler and Jensen-Shannon divergences from gold-truth across test set">Divergence</abbr>, <br> Faithfulness, <br> Plausability, <br> Amortization | | x | | | | <abbr title="Erasure exact search optima">EESO</abbr> | <abbr title="Restricting the Flow: Information Bottlenecks for Attribution (Schulz et al., 2020)">IBA</abbr> | <abbr title="Towards a Deep and Unified Understanding of Deep Neural Models in NLP (Guan et al., 2019)">NLPEx</abbr>, <br> DiffMask
-XAI Benchmark (Atanasova et al., 2020) | <abbr title="Confidence Indication via Mean Absolute Error (MAE)">Confidence</abbr>, <br> <abbr title="Rationale and dataset consistency via Spearman's ρ">Consistency</abbr>, <br> <abbr title="Human evaluation via Mean Average Precision">Human</abbr>, <br> <abbr title="FLOPs">Compute</abbr> | x | x | Input x Grad | <abbr title="Shapley Value Sampling (Castro et al., 2009)">SVS</abbr> | x | <abbr title="Occlusion (Zeiler & Fergus, 2013)">Z&F</abbr>
-Archipelago (Tsang et al., 2020) | <abbr title="Pearson's correlation between estimated phrase attributions and labels from SST; Word correlation to coefficients of global BOW linear model (Section 5.3)">Correlation</abbr> | | x, <br> <abbr title="Integrated Hessians (Janizek et al., 2020)">IH</abbr> | | <abbr title="Shapley Interaction Index (Grabisch & Roubens, 1999)">SI</abbr>, <br> <abbr title="Shapley Taylor Interaction Index (Sundararajan et al., 2019)">STI</abbr> | <abbr title="Model-Agnostic Hierarchical Explanations (Tsang et al., 2018)">MAHE</abbr> | <abbr title="Sampling Occlusion (Jin et al., 2020)">SOC</abbr> | | <abbr title="Sampling Contextual Decomposition (Jin et al., 2020)">SCD</abbr>
-Nguyen & Martínez (2020) |
-<abbr title="Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers (Chen & Ji, 2020) ★; Explaining Neural Network Predictions on Sentence Pairs via Learning Word-Group Masks (Chen et al., 2021)">VMASK / GMASK</abbr> | <abbr title="Nguyen (2018)">AOPC</abbr>, <br> <abbr title="Post-hoc Accuracy (Chen et al., 2018)">Post-h Acc</abbr>, <br> <abbr title="Degradation test (Ancona et al., 2017; Schulz et al., 2020). Only used in Chen et al. (2021)">Degradation</abbr>* | | | | | <abbr title="Only used in Chen et al. (2021)">LIME</abbr> | | <abbr title="Restricting the Flow: Information Bottlenecks for Attribution (Schulz et al., 2020)">IBA</abbr> | L2X, <br> VMASK, <br> <abbr title="Only used in Chen et al. (2021)">IMASK</abbr>
-<abbr title="Order in the Court: Explainable AI Methods Prone to Disagreement">Court of XAI (Neely et al., 2021)</abbr> | <abbr title="Agreement via Kendall's τ">Correlation</abbr> | | x | DeepLIFT | Grad-SHAP, <br> Deep-SHAP | x
+**Arras et al. (2016; 2017)** | Word Deletion | | | <abbr title="Layer-Wise Relevance Propagation for Neural Networks with Local Renormalization Layers (Binder et al., 2016)">LRP</abbr> | | | | | -
+**LIMSSE (Pörner et al., 2018)** | <abbr title="Hybrid document paradigm">Faithfulness</abbr>, <br> <abbr title="Morphosyntactic agreement paradigm">Agreement</abbr> | x | x | <abbr title="Layer-Wise Relevance Propagation for Neural Networks with Local Renormalization Layers (Binder et al., 2016)">LRP</abbr>, <br> DeepLIFT | | LIMSSE | <abbr title="Occlusion (Zeiler & Fergus, 2013)">Z&F</abbr>, <br> <abbr title="Omission (Kádár et al., 2017)">Omiss</abbr>
+**Nguyen (2018)** | <abbr title="Switching point (inspired by Arras et al., 2016)">SwitchP</abbr>, <br> <abbr title="Area over the Perturbation Curve (Samek et al., 2017)">AOPC</abbr>, <br> <abbr title="Forward prediction / simulation (Doshi-Velez & Kim, 2017)">Forward pred</abbr> | x | | <abbr title="First derivate saliency (Aubakirova & Bansal, 2016; Li et al., 2016)">1st Deriv</abbr> | | x | <abbr title="Omission (Kádár et al., 2017)">Omiss</abbr>
+**DiffMask (De Cao et al., 2020)** | <abbr title="Kullback-Leibler and Jensen-Shannon divergences from gold-truth across test set">Divergence</abbr>, <br> Faithfulness, <br> Plausability, <br> Amortization | | x | | | | <abbr title="Erasure exact search optima">EESO</abbr> | <abbr title="Restricting the Flow: Information Bottlenecks for Attribution (Schulz et al., 2020)">IBA</abbr> | <abbr title="Towards a Deep and Unified Understanding of Deep Neural Models in NLP (Guan et al., 2019)">NLPEx</abbr>, <br> DiffMask
+**XAI Benchmark (Atanasova et al., 2020)** | <abbr title="Confidence Indication via Mean Absolute Error (MAE)">Confidence</abbr>, <br> <abbr title="Rationale and dataset consistency via Spearman's ρ">Consistency</abbr>, <br> <abbr title="Human evaluation via Mean Average Precision">Human</abbr>, <br> <abbr title="FLOPs">Compute</abbr> | x | x | Input x Grad | <abbr title="Shapley Value Sampling (Castro et al., 2009)">SVS</abbr> | x | <abbr title="Occlusion (Zeiler & Fergus, 2013)">Z&F</abbr>
+**Archipelago (Tsang et al., 2020)** | <abbr title="Pearson's correlation between estimated phrase attributions and labels from SST; Word correlation to coefficients of global BOW linear model (Section 5.3)">Correlation</abbr> | | x, <br> <abbr title="Integrated Hessians (Janizek et al., 2020)">IH</abbr> | | <abbr title="Shapley Interaction Index (Grabisch & Roubens, 1999)">SI</abbr>, <br> <abbr title="Shapley Taylor Interaction Index (Sundararajan et al., 2019)">STI</abbr> | <abbr title="Model-Agnostic Hierarchical Explanations (Tsang et al., 2018)">MAHE</abbr> | <abbr title="Sampling Occlusion (Jin et al., 2020)">SOC</abbr> | | <abbr title="Sampling Contextual Decomposition (Jin et al., 2020)">SCD</abbr>
+**Nguyen & Rodriǵuez Martínez (2020)** | Complexity, <br> Monotonicity, <br> <abbr title="Effective Complexity">Eff. Complex.</abbr>, <br> <abbr title="Non-Sensitivity">Non-Sensitiv.</abbr>, <br> Perturbation | x | x | Input x Grad
+**VMASK (Chen & Ji, 2020)** ★ / **GMASK (Chen et al., 2021)** | <abbr title="Nguyen (2018)">AOPC</abbr>, <br> <abbr title="Post-hoc Accuracy (Chen et al., 2018)">Post-h Acc</abbr>, <br> <abbr title="Degradation test (Ancona et al., 2017; Schulz et al., 2020). Only used in Chen et al. (2021)">Degradation</abbr>* | | | | | <abbr title="Only used in Chen et al. (2021)">LIME</abbr> | | <abbr title="Restricting the Flow: Information Bottlenecks for Attribution (Schulz et al., 2020)">IBA</abbr> | L2X, <br> VMASK, <br> <abbr title="Variation of GMASK only used in Chen et al. (2021)">IMASK</abbr>, <br> <abbr title="Only used in Chen et al. (2021)">GMASK</abbr>
+**Court of XAI (Neely et al., 2021)** | <abbr title="Agreement via Kendall's τ">Correlation</abbr> | | x | DeepLIFT | <abbr title="Grad-SHAP, Deep-SHAP (both Lundberg & Lee, 2017)">SHAP</abbr> | x
 Bodria et al. (2021) |
 Ding & Koehn (2021) |
 Yin et al. (2021) |
 Hase et al. (2021) |
 Kokhlikyan et al. (2021) |
 Zafar et al. (2021) |
-Sinha et al. (2021) |
+Sinha et al. (2021) | | | | | | | | | -
 
 
 ### Benchmark papers
+Nguyen, An-phi and María Rodríguez Martínez. “[On quantitative aspects of model interpretability.](https://api.semanticscholar.org/CorpusID:220525899)” ArXiv abs/2007.07584 (2020).  
+
 Nguyen, Dong. “[Comparing Automatic and Human Evaluation of Local Explanations for Text Classification.](https://api.semanticscholar.org/CorpusID:44130060)” NAACL (2018).  
 
-Tsang, Michael, Sirisha Rambhatla and Yan Liu. “[How does this interaction affect me? Interpretable attribution for feature interactions.](https://api.semanticscholar.org/CorpusID:219955933)” NeurIPS (2020).
+Tsang, Michael, Sirisha Rambhatla and Yan Liu. “[How does this interaction affect me? Interpretable attribution for feature interactions.](https://api.semanticscholar.org/CorpusID:219955933)” NeurIPS (2020).  
 
 
 ### Analysis methods
+
+<details><summary>Click to expand</summary>
+
+Ancona, Marco, Enea Ceolini, A. Cengiz Öztireli and Markus H. Gross. “[A unified view of gradient-based attribution methods for Deep Neural Networks.](https://api.semanticscholar.org/CorpusID:1809062)” ICLR (2018).  
+
+Chen, Jianbo, Le Song, Martin J. Wainwright and Michael I. Jordan. “[Learning to Explain: An Information-Theoretic Perspective on Model Interpretation.](https://api.semanticscholar.org/CorpusID:3500834)” ICML (2018).  
+
 Samek, Wojciech, Alexander Binder, Grégoire Montavon, Sebastian Lapuschkin and Klaus-Robert Müller. “[Evaluating the Visualization of What a Deep Neural Network Has Learned.](https://api.semanticscholar.org/CorpusID:7689122)” IEEE Transactions on Neural Networks and Learning Systems 28 (2017): 2660-2673.  
 
+</details>
 
 
 ### Explainability methods
@@ -144,6 +154,8 @@ Janizek, Joseph D., Pascal Sturmfels and Su-In Lee. “[Explaining Explanations:
 Jin, Xisen, Junyi Du, Zhongyu Wei, X. Xue and Xiang Ren. “[Towards Hierarchical Importance Attribution: Explaining Compositional Semantics for Neural Sequence Models.](https://api.semanticscholar.org/CorpusID:208006294)” ICLR (2020).  
 
 Kádár, Ákos, Grzegorz Chrupała and A. Alishahi. “[Representation of Linguistic Form and Function in Recurrent Neural Networks.](https://api.semanticscholar.org/CorpusID:611341)” Computational Linguistics 43 (2017): 761-780.  
+
+Lundberg, Scott M. and Su-In Lee. “[A Unified Approach to Interpreting Model Predictions.](https://api.semanticscholar.org/CorpusID:21889700)” NIPS (2017).  
 
 Ribeiro, Marco Tulio, Sameer Singh and Carlos Guestrin. “["Why Should I Trust You?": Explaining the Predictions of Any Classifier.](https://api.semanticscholar.org/CorpusID:13029170)” Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (2016).  
 
@@ -185,7 +197,7 @@ Hase & Bansal (2020) |
 ## Incorporating feature attributions into model training
 
 ![](https://d3i71xaburhd42.cloudfront.net/9d4a144cc6b80d175164b1d2a969ad356743e1f7/6-Table3-1.png)
-<p style="text-align: center;">from Chen & Ji (2020)</sup>  
+<p style="text-align: center;">from Chen & Ji (2020)</p>  
 
 * Zero-shot Sequence Labeling for Transformer-based Sentence Classifiers (Bujel et al., 2021) ★  
 
