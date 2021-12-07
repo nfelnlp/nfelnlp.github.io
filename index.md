@@ -40,8 +40,6 @@ Georg Rehm et al.
 *1st International Workshop on Language Technology Platforms (c/w LREC 2020)*  
 [IWLTP 2020 Proceedings](https://aclanthology.org/2020.iwltp-1.15/)
 
-# Blog posts
-* [A Topography of Feature Attribution Benchmarks](https://nfelnlp.github.io/blog/fa-benchmarks)
 
 # Education
 2021-2024 – Computer Science, PhD, Technische Universität Berlin. Supervised by Sebastian Möller. Thesis title TBD.  
