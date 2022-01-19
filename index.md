@@ -14,6 +14,11 @@ My main research interest is making (neural) language models more interpretable.
 *2021 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*  
 [EMNLP 2021 System Demonstrations proceedings](https://aclanthology.org/2021.emnlp-demo.11/) | [arXiv](https://arxiv.org/abs/2108.13961) | [GitHub](https://github.com/DFKI-NLP/thermostat)
 
+### An Annotated Corpus of Textual Explanations for Clinical Decision Support
+Roland Roller, Aljoscha Burchardt, **Nils Feldhus**, Laura Seiffe, Klemens Budde, Simon Ronicke and Bilgin Osmanodja  
+*Submitted to LREC 2022*  
+Pre-print available soon.  
+
 ### Efficient Explanations from Empirical Explainers
 Robert Schwarzenberg, **Nils Feldhus** and Sebastian Möller  
 *4th workshop on analyzing and interpreting neural networks for NLP (collocated with EMNLP 2021)*  
@@ -42,23 +47,33 @@ Georg Rehm et al.
 
 
 # Education
-2021-2024 – Computer Science, PhD, Technische Universität Berlin. Supervised by Sebastian Möller. Thesis title TBD.  
+2021-2024 – Computer Science, PhD, Technische Universität Berlin. Supervised by Sebastian Möller: "Generating and evaluating human-centric explanations of language models"  
+
 2016-2020 – Cognitive Systems: Language, Learning and Reasoning, MSc, University of Potsdam. Supervised by Manfred Stede: "Utilizing machine translation for bootstrapping abstractive text summarization".  
+
 2013-2016 – Computational Linguistics, BA, Heidelberg University. Supervised by Katja Markert: "An in-depth investigation on timeline summarization evaluation".  
 
 # Jobs
-2020-ongoing – Researcher/Software Engineer @ German Research Institute for Artificial Intelligence (DFKI), Berlin, [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) group.  
-Part of the [European Language Grid](https://live.european-language-grid.eu/) technical team from January 2020 to March 2021, supervised by Georg Rehm.  
+2021-ongoing – Researcher/Software Engineer @ German Research Institute for Artificial Intelligence (DFKI), Berlin, [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) group.  
+[XAINES - Explaining AI with Narratives](https://www.dfki.de/en/web/research/projects-and-publications/projects-overview/project/xaines) project, supervised by Sebastian Möller.  
+
+2020-2021 – Researcher/Software Engineer @ German Research Institute for Artificial Intelligence (DFKI), Berlin, [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) group.  
+[European Language Grid](https://live.european-language-grid.eu/) project, supervised by Georg Rehm.  
+
 2014 – Student assistant at the Institute for Computational Linguistics @ Heidelberg University  
 
 # Supervision
-All titles TBD.
+Daniel Fernau (with Tim Polzehl & Stefan Hillmann) – MSc thesis @ TU Berlin: Towards Adaptive Conversational Agents: Fine-tuning Language-Models for User Classification to enhance Usability    
 
-Daniel Fernau (with Tim Polzehl) – MSc thesis @ TU Berlin: Personality-adaptive conversational agents  
-Kiran Rohra (with Philippe Thomas) – MSc thesis @ TU Berlin: Comparative error analysis of biomedical image captioning models  
-Ajay Madhavan Ravichandran (with Philippe Thomas) – MSc thesis @ TU Berlin: Evaluating text quality of generated radiology reports  
+Kiran Rohra (with Philippe Thomas) – MSc thesis @ TU Berlin: Comparative error analysis of biomedical image captioning models (title TBD)  
+
+Ajay Madhavan Ravichandran (with Philippe Thomas) – MSc thesis @ TU Berlin: Evaluating text quality of generated radiology reports (title TBD)  
+
+Mika Rebensburg (with Tim Polzehl & Stefan Hillmann) - BSc thesis @ TU Berlin : Automatic Evaluation of Chatbot Dialogs Using Pre-Trained Language Models in the Customer Support Domain  
 
 # Reviews
+**ACL 2022** (+ Emergency Reviews)
+
 As secondary reviewer:  
 BlackboxNLP 2021, EMNLP 2021, ACL 2021, NAACL 2021, WebConf 2021, IWLTP 2020, EMNLP 2020, ACL 2020
 
