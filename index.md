@@ -7,7 +7,8 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable. This entails building applications that make use of explainability methods and aim to democratize access to explanations.
 
 # News 🤩
-2022-03-06 : Paper on image captioning in the biomedical domain (see Publications) and two new dialogue-related papers submitted this week (NLP ConvAI, CUI). More info soon.  
+2022-04-04 : Paper on "Textual Explanations for Clinical Decision Support" accepted to LREC as a poster. New paper on user modelling in dialogue systems submitted to INTERSPEECH.  
+2022-03-06 : Paper on image captioning in the biomedical domain (see Publications) and a new paper on dialogue and usability submitted this week to CUI. More info soon.  
 2022-01-19 : Paper on "Textual Explanations for Clinical Decision Support" submitted to LREC.  
 
 
@@ -21,8 +22,13 @@ My main research interest is making (neural) language models more interpretable.
 
 ### An Annotated Corpus of Textual Explanations for Clinical Decision Support
 Roland Roller, Aljoscha Burchardt, **Nils Feldhus**, Laura Seiffe, Klemens Budde, Simon Ronicke and Bilgin Osmanodja  
-*Submitted to LREC 2022*  
-Pre-print available soon.  
+*LREC 2022 (Poster)*  
+Proceedings available in June.  
+
+### Efficient Explanations from Empirical Explainers
+Robert Schwarzenberg, **Nils Feldhus** and Sebastian Möller  
+*4th workshop on analyzing and interpreting neural networks for NLP (collocated with EMNLP 2021)*  
+[BlackboxNLP 2021 proceedings](https://aclanthology.org/2021.blackboxnlp-1.17/) | [arXiv](https://arxiv.org/abs/2103.15429) | [GitHub](https://github.com/DFKI-NLP/emp-exp)
 
 ### What to explain when explaining is difficult? An interdisciplinary primer on XAI and meaningful information in automated decision-making  
 Hadi Asghari, Aljoscha Burchardt, **Nils Feldhus**, Vincent Hofmann, Matthias C. Kettemann, Wolfgang Schulz, Judith Simon, Theresa Züger  
@@ -32,11 +38,6 @@ Hadi Asghari, Aljoscha Burchardt, **Nils Feldhus**, Vincent Hofmann, Matthias C.
 ### A Comparison of Feature Extraction Models for Medical Image Captioning  
 Sebastian Germer, Hristina Uzunova, Jan Ehrhardt, **Nils Feldhus**, Philippe Thomas, Heinz Handels  
 *Submitted to GMDS-TMF 2022*  
-
-### Efficient Explanations from Empirical Explainers
-Robert Schwarzenberg, **Nils Feldhus** and Sebastian Möller  
-*4th workshop on analyzing and interpreting neural networks for NLP (collocated with EMNLP 2021)*  
-[BlackboxNLP 2021 proceedings](https://aclanthology.org/2021.blackboxnlp-1.17/) | [arXiv](https://arxiv.org/abs/2103.15429) | [GitHub](https://github.com/DFKI-NLP/emp-exp)
 
 ### Evaluating German Transformer Language Models with Syntactic Agreement Tests
 Karolina Zaczynska, **Nils Feldhus**\*, Robert Schwarzenberg, Aleksandra Gabryszak and Sebastian Möller  
@@ -107,6 +108,7 @@ BlackboxNLP 2021, EMNLP 2021, ACL 2021, NAACL 2021, WebConf 2021, IWLTP 2020, EM
 * [GitLab](https://gitlab.com/nfel)
 * [Semantic Scholar](https://www.semanticscholar.org/author/Nils-Feldhus/1641658310)
 * [Google Scholar](https://scholar.google.com/citations?user=nM50iv8AAAAJ)
+* [OpenReview](https://openreview.net/profile?id=~Nils_Feldhus1)
 * [Twitter](https://twitter.com/nfelnlp)
 
 
