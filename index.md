@@ -7,6 +7,7 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable. This entails building applications that make use of explainability methods and aim to democratize access to explanations.
 
 # News 🤩
+2022-05-09 : First author paper on "Dialogue-based Language Model Explanations" submitted. More info soon!  
 2022-04-04 : Paper on "Textual Explanations for Clinical Decision Support" accepted to LREC as a poster.  
 2022-03-31 : Two papers I reviewed for my colleagues were accepted to the NLP-Power! and Repl4NLP workshops at [ACL 2022](https://dfki-nlp.github.io/post/acl2022/)  
 2022-03-22 : [Project report](https://graphite.page/explainable-ai-report/) on "XAI and meaningful information in automated decision-making" (joint work between HIIG and DFKI) now available in full.  
@@ -86,6 +87,8 @@ Kiran Rohra (with Philippe Thomas) – MSc thesis @ TU Berlin: Comparative error
 
 Ajay Madhavan Ravichandran (with Philippe Thomas) – MSc thesis @ TU Berlin: Evaluating text quality of generated radiology reports  
 
+Konstantin Biskupski (with Eleftherios Avramidis) – MSc thesis @ TU Berlin: Quality estimation of machine-translated texts with fine-grained classification of errors  
+
 Mika Rebensburg (with Tim Polzehl & Stefan Hillmann) - BSc thesis @ TU Berlin : Automatic Evaluation of Chatbot Dialogs Using Pre-Trained Language Models in the Customer Support Domain  
 
 ## Completed
@@ -96,8 +99,9 @@ Daniel Fernau (with Tim Polzehl & Stefan Hillmann) – MSc thesis @ TU Berlin: T
 
 # Reviews ⭐
 ACL Rolling Review including:  
-**ACL 2022** (+ Emergency Reviews) (2021-11)  
+INLG 2022 (2022-03)  
 NAACL 2022 (2021-12, 2022-01)  
+**ACL 2022** (+ Emergency Reviews) (2021-11)  
 
 As secondary reviewer:  
 NLDB 2022, BlackboxNLP 2021, EMNLP 2021, ACL 2021, NAACL 2021, WebConf 2021, IWLTP 2020, EMNLP 2020, ACL 2020
