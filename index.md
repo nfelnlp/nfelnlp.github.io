@@ -7,7 +7,8 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable. This entails building applications that make use of explainability methods and aim to democratize access to explanations.
 
 # News 🤩
-2022-05-09 : First author paper on "Dialogue-based Language Model Explanations" submitted. More info soon!  
+2022-06-04 : First-author paper "Mediators: Conversational Agents Explaining Language Model Behavior" accepted to the IJCAI-ECAI 2022 Workshop on XAI.  
+2022-05-09 : First-author paper on "Dialogue-based Language Model Explanations" submitted. More info soon!  
 2022-04-04 : Paper on "Textual Explanations for Clinical Decision Support" accepted to LREC as a poster.  
 2022-03-31 : Two papers I reviewed for my colleagues were accepted to the NLP-Power! and Repl4NLP workshops at [ACL 2022](https://dfki-nlp.github.io/post/acl2022/)  
 2022-03-22 : [Project report](https://graphite.page/explainable-ai-report/) on "XAI and meaningful information in automated decision-making" (joint work between HIIG and DFKI) now available in full.  
@@ -16,6 +17,11 @@ My main research interest is making (neural) language models more interpretable.
 # Publications 📚
 
 ## 2022
+
+### Mediators: Conversational Agents Explaining Language Model Behavior
+**Nils Feldhus**, Ajay Madhavan Ravichandran and Sebastian Möller  
+[*Accepted to IJCAI-ECAI 2022 Workshop on XAI*](https://sites.google.com/view/xai2022/)  
+Pre-print available in June.  
 
 ### An Annotated Corpus of Textual Explanations for Clinical Decision Support
 Roland Roller, Aljoscha Burchardt, **Nils Feldhus**, Laura Seiffe, Klemens Budde, Simon Ronicke and Bilgin Osmanodja  
