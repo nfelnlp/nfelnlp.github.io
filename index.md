@@ -21,7 +21,7 @@ My main research interest is making (neural) language models more interpretable.
 ### Mediators: Conversational Agents Explaining Language Model Behavior
 **Nils Feldhus**, Ajay Madhavan Ravichandran and Sebastian Möller  
 [*Accepted to IJCAI-ECAI 2022 Workshop on XAI*](https://sites.google.com/view/xai2022/)  
-Pre-print available in June.  
+[arXiv](https://arxiv.org/abs/2206.06029)  
 
 ### An Annotated Corpus of Textual Explanations for Clinical Decision Support
 Roland Roller, Aljoscha Burchardt, **Nils Feldhus**, Laura Seiffe, Klemens Budde, Simon Ronicke and Bilgin Osmanodja  
