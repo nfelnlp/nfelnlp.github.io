@@ -7,8 +7,8 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable. This entails building applications that make use of explainability methods and aim to democratize access to explanations.
 
 # News 🤩
-2022-06-15 : Paper on "Personalized Conversational Agents" accepted to INTERSPEECH 2022.
-2022-06-14 : "Mediators" is now available on arXiv.
+2022-06-15 : Paper on "Personalized Conversational Agents" accepted to INTERSPEECH 2022.  
+2022-06-14 : "Mediators" is now available on arXiv.  
 2022-06-04 : First-author paper "Mediators: Conversational Agents Explaining Language Model Behavior" accepted to the IJCAI-ECAI 2022 Workshop on XAI.  
 2022-05-09 : First-author paper on "Dialogue-based Language Model Explanations" submitted. More info soon!  
 2022-04-04 : Paper on "Textual Explanations for Clinical Decision Support" accepted to LREC as a poster.  
