@@ -7,6 +7,8 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable. This entails building applications that make use of explainability methods and aim to democratize access to explanations.
 
 # News 🤩
+2022-06-15 : Paper on "Personalized Conversational Agents" accepted to INTERSPEECH 2022.
+2022-06-14 : "Mediators" is now available on arXiv.
 2022-06-04 : First-author paper "Mediators: Conversational Agents Explaining Language Model Behavior" accepted to the IJCAI-ECAI 2022 Workshop on XAI.  
 2022-05-09 : First-author paper on "Dialogue-based Language Model Explanations" submitted. More info soon!  
 2022-04-04 : Paper on "Textual Explanations for Clinical Decision Support" accepted to LREC as a poster.  
@@ -23,9 +25,14 @@ My main research interest is making (neural) language models more interpretable.
 [*Accepted to IJCAI-ECAI 2022 Workshop on XAI*](https://sites.google.com/view/xai2022/)  
 [arXiv](https://arxiv.org/abs/2206.06029)  
 
+### Towards Automated Dialog Personalization using MBTI Personality Indicators
+Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl  
+*Accepted to [INTERSPEECH 2022](http://interspeech2022.org/)*  
+Pre-print available soon.  
+
 ### An Annotated Corpus of Textual Explanations for Clinical Decision Support
 Roland Roller, Aljoscha Burchardt, **Nils Feldhus**, Laura Seiffe, Klemens Budde, Simon Ronicke and Bilgin Osmanodja  
-*LREC 2022 (Poster)*  
+*Accepted to [LREC 2022](https://lrec2022.lrec-conf.org/en/conference-programme/accepted-papers/) (Poster)*  
 Proceedings available in June.  
 
 ### What to explain when explaining is difficult? An interdisciplinary primer on XAI and meaningful information in automated decision-making  
