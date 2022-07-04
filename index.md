@@ -7,6 +7,7 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable. This entails building applications that make use of explainability methods and aim to democratize access to explanations.
 
 # News 🤩
+2022-07-04 : Paper on "Personality-aware Chatbots" accepted to SIGDIAL 2022.  
 2022-06-15 : Paper on "Personalized Conversational Agents" accepted to INTERSPEECH 2022.  
 2022-06-14 : "Mediators" is now available on arXiv.  
 2022-06-04 : First-author paper "Mediators: Conversational Agents Explaining Language Model Behavior" accepted to the IJCAI-ECAI 2022 Workshop on XAI.  
@@ -22,18 +23,28 @@ My main research interest is making (neural) language models more interpretable.
 
 ### Mediators: Conversational Agents Explaining Language Model Behavior
 **Nils Feldhus**, Ajay Madhavan Ravichandran and Sebastian Möller  
-[*Accepted to IJCAI-ECAI 2022 Workshop on XAI*](https://sites.google.com/view/xai2022/)  
+[*IJCAI-ECAI 2022 Workshop on XAI*](https://sites.google.com/view/xai2022/)  
 [arXiv](https://arxiv.org/abs/2206.06029)  
+
+### Towards Personality-aware Chatbots
+Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl, Sebastian Möller  
+*Accepted to [SIGDIAL 2022](https://2022.sigdial.org/)*  
+Proceedings to be released in September.  
 
 ### Towards Automated Dialog Personalization using MBTI Personality Indicators
 Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl  
 *Accepted to [INTERSPEECH 2022](http://interspeech2022.org/)*  
-Pre-print available soon.  
+Proceedings to be released in September.  
+
+### A Comparison of Feature Extraction Models for Medical Image Captioning  
+Sebastian Germer, Hristina Uzunova, Jan Ehrhardt, **Nils Feldhus**, Philippe Thomas, Heinz Handels  
+*Accepted to GMDS-TMF 2022*  
+Proceedings to be released in August.  
 
 ### An Annotated Corpus of Textual Explanations for Clinical Decision Support
 Roland Roller, Aljoscha Burchardt, **Nils Feldhus**, Laura Seiffe, Klemens Budde, Simon Ronicke and Bilgin Osmanodja  
-*Accepted to [LREC 2022](https://lrec2022.lrec-conf.org/en/conference-programme/accepted-papers/) (Poster)*  
-Proceedings available in June.  
+*LREC 2022*  
+[LREC 2022 Proceedings](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.248)  
 
 ### What to explain when explaining is difficult? An interdisciplinary primer on XAI and meaningful information in automated decision-making  
 Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Fassbinder, **Nils Feldhus**, Freya Hewett, Vincent Hofmann, Matthias C. Kettemann, Wolfgang Schulz, Judith Simon, Jakob Stolberg-Larsen, Theresa Züger  
@@ -111,7 +122,12 @@ Daniel Fernau (with Tim Polzehl & Stefan Hillmann) – MSc thesis @ TU Berlin: T
 
 
 # Reviews ⭐
-ACL Rolling Review including:  
+**EMNLP 2022**  
+Interpretability, Interactivity and Analysis of Models (Track)  
+BlackboxNLP 2022 (Workshop)  
+
+**ACL Rolling Review** including:  
+EMNLP 2022 (2022-04)  
 INLG 2022 (2022-03)  
 NAACL 2022 (2021-12, 2022-01)  
 **ACL 2022** (+ Emergency Reviews) (2021-11)  
