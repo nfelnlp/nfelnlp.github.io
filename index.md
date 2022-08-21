@@ -7,10 +7,10 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable. This entails building applications that make use of explainability methods and aim to democratize access to explanations.
 
 # News 🤩
-2022-07-04 : Paper on "Personality-aware Chatbots" accepted to SIGDIAL 2022.  
+2022-07-04 : Companion paper to "Personalized Conversational Agents" accepted to SIGDIAL 2022.  
 2022-06-15 : Paper on "Personalized Conversational Agents" accepted to INTERSPEECH 2022.  
 2022-06-14 : "Mediators" is now available on arXiv.  
-2022-06-04 : First-author paper "Mediators: Conversational Agents Explaining Language Model Behavior" accepted to the IJCAI-ECAI 2022 Workshop on XAI.  
+2022-06-04 : First-author paper "Mediators: Conversational Agents Explaining Language Model Behavior" (announced on 2022-05-09) accepted to the IJCAI-ECAI 2022 Workshop on XAI.  
 2022-05-09 : First-author paper on "Dialogue-based Language Model Explanations" submitted. More info soon!  
 2022-04-04 : Paper on "Textual Explanations for Clinical Decision Support" accepted to LREC as a poster.  
 2022-03-31 : Two papers I reviewed for my colleagues were accepted to the NLP-Power! and Repl4NLP workshops at [ACL 2022](https://dfki-nlp.github.io/post/acl2022/)  
@@ -21,6 +21,7 @@ My main research interest is making (neural) language models more interpretable.
 
 ## 2022
 
+<a href="https://arxiv.org/abs/2206.06029"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/Mediators_Logo.png?raw=true" width="200px" align="right"></a>  
 ### Mediators: Conversational Agents Explaining Language Model Behavior
 **Nils Feldhus**, Ajay Madhavan Ravichandran and Sebastian Möller  
 [*IJCAI-ECAI 2022 Workshop on XAI*](https://sites.google.com/view/xai2022/)  
@@ -113,9 +114,9 @@ Ajay Madhavan Ravichandran (with Philippe Thomas) – MSc thesis @ TU Berlin: Ev
 
 Konstantin Biskupski (with Eleftherios Avramidis) – MSc thesis @ TU Berlin: Quality estimation of machine-translated texts with fine-grained classification of errors  
 
+## Completed
 Mika Rebensburg (with Tim Polzehl & Stefan Hillmann) - BSc thesis @ TU Berlin : Automatic Evaluation of Chatbot Dialogs Using Pre-Trained Language Models in the Customer Support Domain  
 
-## Completed
 Konstantin Biskupski, Lea Junack & Janis Piskol (with Eleftherios Avramidis & Vivien Macketanz) – MSc/BSc software project @ TU Berlin: Assessing the Quality of Machine-translated Text  
 
 Daniel Fernau (with Tim Polzehl & Stefan Hillmann) – MSc thesis @ TU Berlin: Towards Adaptive Conversational Agents: Fine-tuning Language-Models for User Classification to enhance Usability  
@@ -134,6 +135,10 @@ NAACL 2022 (2021-12, 2022-01)
 
 As secondary reviewer:  
 NLDB 2022, BlackboxNLP 2021, EMNLP 2021, ACL 2021, NAACL 2021, WebConf 2021, IWLTP 2020, EMNLP 2020, ACL 2020
+
+
+# Recommended
+[Video tutorials and publications I recommend]({{ site.url }}/recommended.md)  
 
 
 # Mail 📨
