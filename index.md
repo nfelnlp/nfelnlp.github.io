@@ -138,7 +138,7 @@ NLDB 2022, BlackboxNLP 2021, EMNLP 2021, ACL 2021, NAACL 2021, WebConf 2021, IWL
 
 
 # Recommended
-[Video tutorials and publications I recommend]({{ site.url }}/recommended.md)  
+<a href="{{ site.url }}/recommended">Video tutorials and publications I recommend</a>
 
 
 # Mail 📨
