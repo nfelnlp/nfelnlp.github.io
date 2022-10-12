@@ -7,6 +7,7 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable. This entails building applications that make use of explainability methods and aim to democratize access to explanations.
 
 # News 🤩
+2022-10-12 : Two new papers about "Saliency Map Verbalization" and "Machine Translation Quality Estimation" in submission.  
 2022-07-04 : Companion paper to "Personalized Conversational Agents" accepted to SIGDIAL 2022.  
 2022-06-15 : Paper on "Personalized Conversational Agents" accepted to INTERSPEECH 2022.  
 2022-06-14 : "Mediators" is now available on arXiv.  
@@ -21,31 +22,39 @@ My main research interest is making (neural) language models more interpretable.
 
 ## 2022
 
+### Generating Natural Language Explanations via Saliency Map Verbalization
+**Nils Feldhus**, Leonhard Hennig, Maximilian Dustin Nasert, Christopher Ebert, Robert Schwarzenberg and Sebastian Möller  
+*In submission*  
+
+### Quality Estimation with Fine-grained Classification of Errors
+Konstantin Biskupski, **Nils Feldhus**, Eleftherios Avramidis  
+*In submission*  
+
 <a href="https://arxiv.org/abs/2206.06029"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/Mediators_Logo.png?raw=true" width="200px" align="right"></a>  
 ### Mediators: Conversational Agents Explaining Language Model Behavior
 **Nils Feldhus**, Ajay Madhavan Ravichandran and Sebastian Möller  
 [*IJCAI-ECAI 2022 Workshop on XAI*](https://sites.google.com/view/xai2022/)  
-[arXiv](https://arxiv.org/abs/2206.06029)  
+[arXiv](https://arxiv.org/abs/2206.06029) | <a href="{{ site.url }}/slides/Mediators_IJCAI_2022.pdf">Slides</a>  
 
 ### Towards Personality-aware Chatbots
 Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl, Sebastian Möller  
 *Accepted to [SIGDIAL 2022](https://2022.sigdial.org/)*  
-Proceedings to be released in September.  
+[SIGDIAL 2022 Proceedings](https://www.dropbox.com/s/abpj7vrsiqo488g/proceedings-book-V3.pdf?dl=0)  
 
 ### Towards Automated Dialog Personalization using MBTI Personality Indicators
 Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl  
 *Accepted to [INTERSPEECH 2022](http://interspeech2022.org/)*  
-Proceedings to be released in September.  
+[ISCA Proceedings](doi.org/10.21437/Interspeech.2022-376)  
 
 ### A Comparison of Feature Extraction Models for Medical Image Captioning  
 Sebastian Germer, Hristina Uzunova, Jan Ehrhardt, **Nils Feldhus**, Philippe Thomas, Heinz Handels  
 *Accepted to GMDS-TMF 2022*  
-Proceedings to be released in August.  
+[PDF](https://access.online-registry.net/gmds2022/temp/export/exp_1665555575167_e3b7.pdf)  
 
 ### An Annotated Corpus of Textual Explanations for Clinical Decision Support
 Roland Roller, Aljoscha Burchardt, **Nils Feldhus**, Laura Seiffe, Klemens Budde, Simon Ronicke and Bilgin Osmanodja  
 *LREC 2022*  
-[LREC 2022 Proceedings](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.248)  
+[LREC Proceedings @ ACL Anthology](https://aclanthology.org/2022.lrec-1.248/)  
 
 ### What to explain when explaining is difficult? An interdisciplinary primer on XAI and meaningful information in automated decision-making  
 Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Fassbinder, **Nils Feldhus**, Freya Hewett, Vincent Hofmann, Matthias C. Kettemann, Wolfgang Schulz, Judith Simon, Jakob Stolberg-Larsen, Theresa Züger  
@@ -59,7 +68,7 @@ Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Fassbinde
 ### Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools
 **Nils Feldhus**, Robert Schwarzenberg and Sebastian Möller  
 *2021 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*  
-[EMNLP 2021 System Demonstrations proceedings](https://aclanthology.org/2021.emnlp-demo.11/) | [arXiv](https://arxiv.org/abs/2108.13961) | [GitHub](https://github.com/DFKI-NLP/thermostat)
+[EMNLP 2021 System Demonstrations proceedings](https://aclanthology.org/2021.emnlp-demo.11/) | [arXiv](https://arxiv.org/abs/2108.13961) | [GitHub](https://github.com/DFKI-NLP/thermostat) | [Video](https://aclanthology.org/2021.emnlp-demo.11.mp4)
 
 ### Efficient Explanations from Empirical Explainers
 Robert Schwarzenberg, **Nils Feldhus** and Sebastian Möller  
@@ -110,16 +119,19 @@ Georg Rehm et al.
 # Supervision 👨‍‍🏫
 Kiran Rohra (with Philippe Thomas) – MSc thesis @ TU Berlin: Comparative error analysis of biomedical image labelling and captioning models  
 
-Ajay Madhavan Ravichandran (with Philippe Thomas) – MSc thesis @ TU Berlin: Evaluating text quality of generated radiology reports  
-
 Konstantin Biskupski (with Eleftherios Avramidis) – MSc thesis @ TU Berlin: Quality estimation of machine-translated texts with fine-grained classification of errors  
 
 ## Completed
+Ajay Madhavan Ravichandran (with Philippe Thomas) – MSc thesis @ TU Berlin: Evaluating text quality of generated radiology reports  
+
 Mika Rebensburg (with Tim Polzehl & Stefan Hillmann) - BSc thesis @ TU Berlin : Automatic Evaluation of Chatbot Dialogs Using Pre-Trained Language Models in the Customer Support Domain  
 
 Konstantin Biskupski, Lea Junack & Janis Piskol (with Eleftherios Avramidis & Vivien Macketanz) – MSc/BSc software project @ TU Berlin: Assessing the Quality of Machine-translated Text  
 
 Daniel Fernau (with Tim Polzehl & Stefan Hillmann) – MSc thesis @ TU Berlin: Towards Adaptive Conversational Agents: Fine-tuning Language-Models for User Classification to enhance Usability  
+
+## Courses
+2022-10 - 2023-03 : Explainability in Natural Language Processing @ TU Berlin. More details soon.  
 
 
 # Reviews ⭐
