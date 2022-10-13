@@ -22,12 +22,12 @@ My main research interest is making (neural) language models more interpretable.
 
 ## 2022
 
-### Generating Natural Language Explanations via Saliency Map Verbalization
+### Constructing Natural Language Explanations via Saliency Map Verbalization
 **Nils Feldhus**, Leonhard Hennig, Maximilian Dustin Nasert, Christopher Ebert, Robert Schwarzenberg and Sebastian Möller  
 *In submission*  
 
-### Quality Estimation with Fine-grained Classification of Errors
-Konstantin Biskupski, **Nils Feldhus**, Eleftherios Avramidis  
+### Quality Estimation with Fine-grained Classification of Errors in German-English Corpora
+Konstantin Biskupski, **Nils Feldhus**, Vivien Macketanz, Eleftherios Avramidis  
 *In submission*  
 
 <a href="https://arxiv.org/abs/2206.06029"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/Mediators_Logo.png?raw=true" width="200px" align="right"></a>  
@@ -44,7 +44,7 @@ Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl, Sebastian Möller
 ### Towards Automated Dialog Personalization using MBTI Personality Indicators
 Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl  
 *Accepted to [INTERSPEECH 2022](http://interspeech2022.org/)*  
-[ISCA Proceedings](doi.org/10.21437/Interspeech.2022-376)  
+[ISCA Proceedings](https://doi.org/10.21437/Interspeech.2022-376)  
 
 ### A Comparison of Feature Extraction Models for Medical Image Captioning  
 Sebastian Germer, Hristina Uzunova, Jan Ehrhardt, **Nils Feldhus**, Philippe Thomas, Heinz Handels  
