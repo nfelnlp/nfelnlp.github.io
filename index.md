@@ -8,7 +8,7 @@ My main research interest is making (neural) language models more interpretable.
 
 # News 🤩
 2022-10-13 : One paper I reviewed for my colleagues was accepted to the [EMNLP 2022](https://github.com/DFKI-NLP/meffi-prompt) main track.  
-2022-10-12 : Two new papers about "Saliency Map Verbalization" and "Machine Translation Quality Estimation" in submission.
+2022-10-12 : Two new papers about "Saliency Map Verbalization" and "Machine Translation Quality Estimation" in submission.  
 2022-07-04 : Companion paper to "Personalized Conversational Agents" accepted to SIGDIAL 2022.  
 2022-06-15 : Paper on "Personalized Conversational Agents" accepted to INTERSPEECH 2022.  
 2022-06-14 : "Mediators" is now available on arXiv.  
