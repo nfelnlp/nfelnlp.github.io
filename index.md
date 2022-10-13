@@ -7,7 +7,8 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable. This entails building applications that make use of explainability methods and aim to democratize access to explanations.
 
 # News 🤩
-2022-10-12 : Two new papers about "Saliency Map Verbalization" and "Machine Translation Quality Estimation" in submission.  
+2022-10-13 : One paper I reviewed for my colleagues was accepted to the [EMNLP 2022](https://github.com/DFKI-NLP/meffi-prompt) main track.  
+2022-10-12 : Two new papers about "Saliency Map Verbalization" and "Machine Translation Quality Estimation" in submission.
 2022-07-04 : Companion paper to "Personalized Conversational Agents" accepted to SIGDIAL 2022.  
 2022-06-15 : Paper on "Personalized Conversational Agents" accepted to INTERSPEECH 2022.  
 2022-06-14 : "Mediators" is now available on arXiv.  
@@ -31,7 +32,7 @@ Konstantin Biskupski, **Nils Feldhus**, Vivien Macketanz, Eleftherios Avramidis
 *In submission*  
 
 <a href="https://arxiv.org/abs/2206.06029"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/Mediators_Logo.png?raw=true" width="200px" align="right"></a>  
-### Mediators: Conversational Agents Explaining Language Model Behavior
+### Mediators: Conversational Agents Explaining NLP Model Behavior
 **Nils Feldhus**, Ajay Madhavan Ravichandran and Sebastian Möller  
 [*IJCAI-ECAI 2022 Workshop on XAI*](https://sites.google.com/view/xai2022/)  
 [arXiv](https://arxiv.org/abs/2206.06029) | <a href="{{ site.url }}/slides/Mediators_IJCAI_2022.pdf">Slides</a>  
@@ -39,7 +40,7 @@ Konstantin Biskupski, **Nils Feldhus**, Vivien Macketanz, Eleftherios Avramidis
 ### Towards Personality-aware Chatbots
 Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl, Sebastian Möller  
 *Accepted to [SIGDIAL 2022](https://2022.sigdial.org/)*  
-[SIGDIAL 2022 Proceedings](https://www.dropbox.com/s/abpj7vrsiqo488g/proceedings-book-V3.pdf?dl=0)  
+[SIGDIAL 2022 Proceedings](https://www.dropbox.com/s/abpj7vrsiqo488g/proceedings-book-V3.pdf?dl=0) | [Video (Live presentation)](https://www.youtube.com/watch?v=06hrn65ypxE)  
 
 ### Towards Automated Dialog Personalization using MBTI Personality Indicators
 Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl  
