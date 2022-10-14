@@ -7,6 +7,7 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable. This entails building applications that make use of explainability methods and aim to democratize access to explanations.
 
 # News 🤩
+2022-10-14 : First-author paper on "Saliency Map Verbalization" is now on [arXiv](https://arxiv.org/abs/2210.07222).  
 2022-10-13 : One paper I reviewed for my colleagues was accepted to the [EMNLP 2022](https://github.com/DFKI-NLP/meffi-prompt) main track.  
 2022-10-12 : Two new papers about "Saliency Map Verbalization" and "Machine Translation Quality Estimation" in submission.  
 2022-07-04 : Companion paper to "Personalized Conversational Agents" accepted to SIGDIAL 2022.  
@@ -26,6 +27,7 @@ My main research interest is making (neural) language models more interpretable.
 ### Constructing Natural Language Explanations via Saliency Map Verbalization
 **Nils Feldhus**, Leonhard Hennig, Maximilian Dustin Nasert, Christopher Ebert, Robert Schwarzenberg and Sebastian Möller  
 *In submission*  
+[arXiv](https://arxiv.org/abs/2210.07222)  
 
 ### Quality Estimation with Fine-grained Classification of Errors in German-English Corpora
 Konstantin Biskupski, **Nils Feldhus**, Vivien Macketanz, Eleftherios Avramidis  
@@ -40,7 +42,7 @@ Konstantin Biskupski, **Nils Feldhus**, Vivien Macketanz, Eleftherios Avramidis
 ### Towards Personality-aware Chatbots
 Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl, Sebastian Möller  
 *Accepted to [SIGDIAL 2022](https://2022.sigdial.org/)*  
-[SIGDIAL 2022 Proceedings](https://www.dropbox.com/s/abpj7vrsiqo488g/proceedings-book-V3.pdf?dl=0) | [Video (Live presentation)](https://www.youtube.com/watch?v=06hrn65ypxE)  
+[SIGDIAL 2022 Proceedings (ACL Anthology)](https://aclanthology.org/2022.sigdial-1.15/) | [Video (Live presentation)](https://www.youtube.com/watch?v=06hrn65ypxE)  
 
 ### Towards Automated Dialog Personalization using MBTI Personality Indicators
 Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl  
