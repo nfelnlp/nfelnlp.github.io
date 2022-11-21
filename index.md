@@ -7,6 +7,7 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable. This entails building applications that make use of explainability methods and aim to democratize access to explanations.
 
 # News 🤩
+2022-11-21 : Journal paper about "Interactive Explainable AI" accepted to KI.  
 2022-10-14 : First-author paper on "Saliency Map Verbalization" is now on [arXiv](https://arxiv.org/abs/2210.07222).  
 2022-10-13 : One paper I reviewed for my colleagues was accepted to the [EMNLP 2022](https://github.com/DFKI-NLP/meffi-prompt) main track.  
 2022-10-12 : Two new papers about "Saliency Map Verbalization" and "Machine Translation Quality Estimation" in submission.  
@@ -24,13 +25,17 @@ My main research interest is making (neural) language models more interpretable.
 
 ## 2022
 
+### XAINES: Explaining AI with Narratives
+Mareike Hartmann, Han Du, **Nils Feldhus**, Ivana Kruijff-Korbayová and Daniel Sonntag  
+*Accepted to [KI - Künstliche Intelligenz](https://www.springer.com/journal/13218/)* | Link available soon.  
+
 ### Constructing Natural Language Explanations via Saliency Map Verbalization
 **Nils Feldhus**, Leonhard Hennig, Maximilian Dustin Nasert, Christopher Ebert, Robert Schwarzenberg and Sebastian Möller  
 *In submission*  
 [arXiv](https://arxiv.org/abs/2210.07222)  
 
 ### Quality Estimation with Fine-grained Classification of Errors in German-English Corpora
-Konstantin Biskupski, **Nils Feldhus**, Vivien Macketanz, Eleftherios Avramidis  
+Konstantin Biskupski, **Nils Feldhus**, Vivien Macketanz and Eleftherios Avramidis  
 *In submission*  
 
 <a href="https://arxiv.org/abs/2206.06029"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/Mediators_Logo.png?raw=true" width="200px" align="right"></a>  
@@ -40,18 +45,18 @@ Konstantin Biskupski, **Nils Feldhus**, Vivien Macketanz, Eleftherios Avramidis
 [arXiv](https://arxiv.org/abs/2206.06029) | <a href="{{ site.url }}/slides/Mediators_IJCAI_2022.pdf">Slides</a>  
 
 ### Towards Personality-aware Chatbots
-Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl, Sebastian Möller  
-*Accepted to [SIGDIAL 2022](https://2022.sigdial.org/)*  
+Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl and Sebastian Möller  
+*[SIGDIAL 2022](https://2022.sigdial.org/)*  
 [SIGDIAL 2022 Proceedings (ACL Anthology)](https://aclanthology.org/2022.sigdial-1.15/) | [Video (Live presentation)](https://www.youtube.com/watch?v=06hrn65ypxE)  
 
 ### Towards Automated Dialog Personalization using MBTI Personality Indicators
-Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl  
-*Accepted to [INTERSPEECH 2022](http://interspeech2022.org/)*  
+Daniel Fernau, Stefan Hillmann, **Nils Feldhus** and Tim Polzehl  
+*[INTERSPEECH 2022](http://interspeech2022.org/)*  
 [ISCA Proceedings](https://doi.org/10.21437/Interspeech.2022-376)  
 
 ### A Comparison of Feature Extraction Models for Medical Image Captioning  
-Sebastian Germer, Hristina Uzunova, Jan Ehrhardt, **Nils Feldhus**, Philippe Thomas, Heinz Handels  
-*Accepted to GMDS-TMF 2022*  
+Sebastian Germer, Hristina Uzunova, Jan Ehrhardt, **Nils Feldhus**, Philippe Thomas and Heinz Handels  
+*GMDS-TMF 2022*  
 [PDF](https://access.online-registry.net/gmds2022/temp/export/exp_1665555575167_e3b7.pdf)  
 
 ### An Annotated Corpus of Textual Explanations for Clinical Decision Support
@@ -60,7 +65,7 @@ Roland Roller, Aljoscha Burchardt, **Nils Feldhus**, Laura Seiffe, Klemens Budde
 [LREC Proceedings @ ACL Anthology](https://aclanthology.org/2022.lrec-1.248/)  
 
 ### What to explain when explaining is difficult? An interdisciplinary primer on XAI and meaningful information in automated decision-making  
-Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Fassbinder, **Nils Feldhus**, Freya Hewett, Vincent Hofmann, Matthias C. Kettemann, Wolfgang Schulz, Judith Simon, Jakob Stolberg-Larsen, Theresa Züger  
+Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Fassbinder, **Nils Feldhus**, Freya Hewett, Vincent Hofmann, Matthias C. Kettemann, Wolfgang Schulz, Judith Simon, Jakob Stolberg-Larsen and Theresa Züger  
 *Project report* (published 2022-03-22)  
 [Full report](https://graphite.page/explainable-ai-report/)  
 
@@ -120,11 +125,11 @@ Georg Rehm et al.
 2014 – Student assistant at the Institute for Computational Linguistics @ Heidelberg University  
 
 # Supervision 👨‍‍🏫
-Kiran Rohra (with Philippe Thomas) – MSc thesis @ TU Berlin: Comparative error analysis of biomedical image labelling and captioning models  
-
 Konstantin Biskupski (with Eleftherios Avramidis) – MSc thesis @ TU Berlin: Quality estimation of machine-translated texts with fine-grained classification of errors  
 
 ## Completed
+Kiran Rohra (with Philippe Thomas) – MSc thesis @ TU Berlin: Comparative error analysis of biomedical image labelling and captioning models  
+
 Ajay Madhavan Ravichandran (with Philippe Thomas) – MSc thesis @ TU Berlin: Evaluating text quality of generated radiology reports  
 
 Mika Rebensburg (with Tim Polzehl & Stefan Hillmann) - BSc thesis @ TU Berlin : Automatic Evaluation of Chatbot Dialogs Using Pre-Trained Language Models in the Customer Support Domain  
@@ -134,19 +139,14 @@ Konstantin Biskupski, Lea Junack & Janis Piskol (with Eleftherios Avramidis & Vi
 Daniel Fernau (with Tim Polzehl & Stefan Hillmann) – MSc thesis @ TU Berlin: Towards Adaptive Conversational Agents: Fine-tuning Language-Models for User Classification to enhance Usability  
 
 ## Courses
-2022-10 - 2023-03 : Explainability in Natural Language Processing @ TU Berlin. More details soon.  
+2022-10 - 2023-03 : Explainability in Natural Language Processing @ TU Berlin. Topics: (1) Contrastive Explanations of Text Generation Models. (2) Explainable Fact Checking.  
 
 
 # Reviews ⭐
-**EMNLP 2022**  
-Interpretability, Interactivity and Analysis of Models (Track)  
-BlackboxNLP 2022 (Workshop)  
-
-**ACL Rolling Review** including:  
-EMNLP 2022 (2022-04)  
-INLG 2022 (2022-03)  
-NAACL 2022 (2021-12, 2022-01)  
-**ACL 2022** (+ Emergency Reviews) (2021-11)  
+**EACL 2023**  
+**EMNLP 2022** (Interpretability, Interactivity and Analysis of Models track; BlackboxNLP 2022 workshop)  
+**ACL Rolling Review** (2021 November – ongoing)  
+**ACL 2022** (+ Emergency Reviews)  
 
 As secondary reviewer:  
 NLDB 2022, BlackboxNLP 2021, EMNLP 2021, ACL 2021, NAACL 2021, WebConf 2021, IWLTP 2020, EMNLP 2020, ACL 2020

@@ -1,5 +1,5 @@
 # Recommended Material
-(last updated: 2022-08-21)
+(last updated: 2022-11-21)
 
 This page contains my favorite survey papers and tutorials related to my research.
 
@@ -25,7 +25,7 @@ This page contains my favorite survey papers and tutorials related to my researc
 * NLG evaluation: [Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text (Gehrmann et al., 2022)](https://arxiv.org/abs/2202.06935)
 * Causal Inference: [Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond (Feder et al., 2022)](https://arxiv.org/abs/2109.00725) (TACL 2022)
 * Question Answering: [QA Dataset Explosion: A Taxonomy of NLP Resources for Question Answering and Reading Comprehension (Rogers et al., 2022)](https://arxiv.org/abs/2107.12708) (ACM CSUR 2022)
-* Prompting: [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing (Liu et al., 2021)](http://pretrain.nlpedia.ai/)
+* Prompting: [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing (Liu et al., 2022)](https://dl.acm.org/doi/10.1145/3560815) (ACM CSUR 2022)
 * BERTology: [A Primer in BERTology: What We Know About How BERT Works (Rogers et al., 2020)](https://doi.org/10.1162/tacl_a_00349) (TACL 2020)
 
 ## Writing
