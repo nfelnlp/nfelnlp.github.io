@@ -27,7 +27,8 @@ My main research interest is making (neural) language models more interpretable.
 
 ### XAINES: Explaining AI with Narratives
 Mareike Hartmann, Han Du, **Nils Feldhus**, Ivana Kruijff-Korbayová and Daniel Sonntag  
-*Accepted to [KI - Künstliche Intelligenz](https://www.springer.com/journal/13218/)* | Link available soon.  
+*Accepted to [KI - Künstliche Intelligenz](https://www.springer.com/journal/13218/)*  
+[Journal article on Springer](https://doi.org/10.1007/s13218-022-00780-8)  
 
 ### Constructing Natural Language Explanations via Saliency Map Verbalization
 **Nils Feldhus**, Leonhard Hennig, Maximilian Dustin Nasert, Christopher Ebert, Robert Schwarzenberg and Sebastian Möller  
