@@ -4,13 +4,14 @@
 Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD thesis in explainable natural language processing at the [German Research Center for Artificial Intelligence](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) and the [Technische Universität Berlin](https://www.tu.berlin/en/) under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/).
 
 # Research interests 👀
-My main research interest is making (neural) language models more interpretable. This entails building applications that make use of explainability methods and aim to democratize access to explanations.
+My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Related topics and keywords are human-centric XAI, dataset analysis, information-seeking dialogue, rationale generation, and evaluation measures for generated text.  
 
 # News 🤩
+2022-12-26 : Three papers accepted to ESSV and HUCAPP. New interpretability library Inseq (project led by Gabriele Sarti) now available on GitHub.  
 2022-11-21 : Journal paper about "Interactive Explainable AI" accepted to KI.  
 2022-10-14 : First-author paper on "Saliency Map Verbalization" is now on [arXiv](https://arxiv.org/abs/2210.07222).  
 2022-10-13 : One paper I reviewed for my colleagues was accepted to the [EMNLP 2022](https://github.com/DFKI-NLP/meffi-prompt) main track.  
-2022-10-12 : Two new papers about "Saliency Map Verbalization" and "Machine Translation Quality Estimation" in submission.  
+2022-10-12 : Two papers about "Saliency Map Verbalization" and "Machine Translation Quality Estimation" in submission.  
 2022-07-04 : Companion paper to "Personalized Conversational Agents" accepted to SIGDIAL 2022.  
 2022-06-15 : Paper on "Personalized Conversational Agents" accepted to INTERSPEECH 2022.  
 2022-06-14 : "Mediators" is now available on arXiv.  
@@ -23,11 +24,34 @@ My main research interest is making (neural) language models more interpretable.
 
 # Publications 📚
 
+## 2023
+
+<a href="https://github.com/inseq-team/inseq"><img src="https://raw.githubusercontent.com/inseq-team/inseq/main/docs/source/images/inseq_logo.png" width="200px" align="right"></a>  
+### Inseq: Interpretability for Sequence Generation Models
+Gabriele Sarti, *Co-Authors TBD*  
+[GitHub](https://github.com/inseq-team/inseq)  
+
+### Pre-trained Language Models for the Automatic Evaluation of Customer Chatbot Dialogs
+Mika Rebensburg, Stefan Hillmann, **Nils Feldhus**  
+*ESSV 2023*  
+PDF available in February.  
+
+### Adapters for Resource-Efficient Deployment of NLU Models
+Jan Nehring, Akhyar Ahmed, **Nils Feldhus**  
+*ESSV 2023*  
+PDF available in February.  
+
+### Fighting Disinformation - Overview of Recent AI-based Collaborative Human-Computer Interaction for Intelligent Decision Support Systems
+Tim Polzehl, Vera Schmitt, **Nils Feldhus**, Joachim Meyer, Sebastian Möller  
+*HUCAPP 2023*  
+PDF available in February.  
+
+
 ## 2022
 
 ### XAINES: Explaining AI with Narratives
 Mareike Hartmann, Han Du, **Nils Feldhus**, Ivana Kruijff-Korbayová and Daniel Sonntag  
-*Accepted to [KI - Künstliche Intelligenz](https://www.springer.com/journal/13218/)*  
+*[KI - Künstliche Intelligenz](https://www.springer.com/journal/13218/)*  
 [Journal article on Springer](https://doi.org/10.1007/s13218-022-00780-8)  
 
 ### Constructing Natural Language Explanations via Saliency Map Verbalization
@@ -144,6 +168,7 @@ Daniel Fernau (with Tim Polzehl & Stefan Hillmann) – MSc thesis @ TU Berlin: T
 
 
 # Reviews ⭐
+**ACL 2023**  
 **EACL 2023**  
 **EMNLP 2022** (Interpretability, Interactivity and Analysis of Models track; BlackboxNLP 2022 workshop)  
 **ACL Rolling Review** (2021 November – ongoing)  
@@ -169,6 +194,7 @@ feldhusnlp (at) gmail (dot) com
 [Google Scholar](https://scholar.google.com/citations?user=nM50iv8AAAAJ)  
 [OpenReview](https://openreview.net/profile?id=~Nils_Feldhus1)  
 [Twitter](https://twitter.com/nfelnlp)  
+[Mastodon (sigmoid.social)](https://sigmoid.social/@feldhus)  
 
 
 # Tools I love to work with 🧰
