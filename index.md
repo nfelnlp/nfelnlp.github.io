@@ -4,9 +4,10 @@
 Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD thesis in explainable natural language processing at the [German Research Center for Artificial Intelligence](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) and the [Technische Universität Berlin](https://www.tu.berlin/en/) under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/).
 
 # Research interests 👀
-My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Related topics and keywords are human-centric XAI, dataset analysis, information-seeking dialogue, rationale generation, and evaluation measures for generated text.  
+My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Topics of interest are rationale generation, data-centric interpretability, information-seeking dialogue, and evaluation measures for generated text.  
 
 # News 🤩
+2023-02-27 : Inseq pre-print published on arXiv.  
 2022-12-26 : Three papers accepted to ESSV and HUCAPP. New interpretability library Inseq (project led by Gabriele Sarti) now available on GitHub.  
 2022-11-21 : Journal paper about "Interactive Explainable AI" accepted to KI.  
 2022-10-14 : First-author paper on "Saliency Map Verbalization" is now on [arXiv](https://arxiv.org/abs/2210.07222).  
@@ -27,24 +28,24 @@ My main research interest is making (neural) language models more interpretable 
 ## 2023
 
 <a href="https://github.com/inseq-team/inseq"><img src="https://raw.githubusercontent.com/inseq-team/inseq/main/docs/source/images/inseq_logo.png" width="200px" align="right"></a>  
-### Inseq: Interpretability for Sequence Generation Models
-Gabriele Sarti, *Co-Authors TBD*  
-[GitHub](https://github.com/inseq-team/inseq)  
+### Inseq: An Interpretability Toolkit for Sequence Generation Models  
+Gabriele Sarti, **Nils Feldhus**, Ludwig Sickert, Oskar van der Wal  
+[arXiv](http://arxiv.org/abs/2302.13942) | [GitHub](https://github.com/inseq-team/inseq) | [Project page](https://gsarti.com/project/inseq/)  
 
 ### Pre-trained Language Models for the Automatic Evaluation of Customer Chatbot Dialogs
 Mika Rebensburg, Stefan Hillmann, **Nils Feldhus**  
 *ESSV 2023*  
-PDF available in February.  
+[Conference](https://www.phonetik.uni-muenchen.de/ESSV2023/)  
 
 ### Adapters for Resource-Efficient Deployment of NLU Models
 Jan Nehring, Akhyar Ahmed, **Nils Feldhus**  
 *ESSV 2023*  
-PDF available in February.  
+[Preprint](https://openreview.net/forum?id=Hn4GBegblWc) | [Conference](https://www.phonetik.uni-muenchen.de/ESSV2023/) | [GitHub](https://github.com/jnehring/ESSV2023-Adapters-for-Resource-Efficient-Deployment-of-NLU-models)  
 
 ### Fighting Disinformation - Overview of Recent AI-based Collaborative Human-Computer Interaction for Intelligent Decision Support Systems
 Tim Polzehl, Vera Schmitt, **Nils Feldhus**, Joachim Meyer, Sebastian Möller  
 *HUCAPP 2023*  
-PDF available in February.  
+[SciTePress](https://www.scitepress.org/Link.aspx?doi=10.5220/0011788900003417)  
 
 
 ## 2022
@@ -54,7 +55,8 @@ Mareike Hartmann, Han Du, **Nils Feldhus**, Ivana Kruijff-Korbayová and Daniel 
 *[KI - Künstliche Intelligenz](https://www.springer.com/journal/13218/)*  
 [Journal article on Springer](https://doi.org/10.1007/s13218-022-00780-8)  
 
-### Constructing Natural Language Explanations via Saliency Map Verbalization
+<a href="https://arxiv.org/abs/2210.07222"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/SMV_FontLogo.png?raw=true" width="200px" align="right"></a>  
+### Saliency Map Verbalization
 **Nils Feldhus**, Leonhard Hennig, Maximilian Dustin Nasert, Christopher Ebert, Robert Schwarzenberg and Sebastian Möller  
 *In submission*  
 [arXiv](https://arxiv.org/abs/2210.07222)  
