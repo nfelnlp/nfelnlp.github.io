@@ -30,6 +30,7 @@ My main research interest is making (neural) language models more interpretable 
 <a href="https://github.com/inseq-team/inseq"><img src="https://raw.githubusercontent.com/inseq-team/inseq/main/docs/source/images/inseq_logo.png" width="200px" align="right"></a>  
 ### Inseq: An Interpretability Toolkit for Sequence Generation Models  
 Gabriele Sarti, **Nils Feldhus**, Ludwig Sickert, Oskar van der Wal  
+*In submission*  
 [arXiv](http://arxiv.org/abs/2302.13942) | [GitHub](https://github.com/inseq-team/inseq) | [Project page](https://gsarti.com/project/inseq/)  
 
 ### Pre-trained Language Models for the Automatic Evaluation of Customer Chatbot Dialogs
@@ -152,9 +153,14 @@ Georg Rehm et al.
 2014 – Student assistant at the Institute for Computational Linguistics @ Heidelberg University  
 
 # Supervision 👨‍‍🏫
-Konstantin Biskupski (with Eleftherios Avramidis) – MSc thesis @ TU Berlin: Quality estimation of machine-translated texts with fine-grained classification of errors  
+Qianli Wang, Sahil Chopra, Althis Mendes – Research assistants for XAINES (more info soon)  
+
+Currently not accepting new supervisions.  
+
 
 ## Completed
+Konstantin Biskupski (with Eleftherios Avramidis) – MSc thesis @ TU Berlin: Quality estimation of machine-translated texts with fine-grained classification of errors  
+
 Kiran Rohra (with Philippe Thomas) – MSc thesis @ TU Berlin: Comparative error analysis of biomedical image labelling and captioning models  
 
 Ajay Madhavan Ravichandran (with Philippe Thomas) – MSc thesis @ TU Berlin: Evaluating text quality of generated radiology reports  
@@ -170,7 +176,7 @@ Daniel Fernau (with Tim Polzehl & Stefan Hillmann) – MSc thesis @ TU Berlin: T
 
 
 # Reviews ⭐
-**ACL 2023**  
+**ACL 2023** (Reality Check theme track)  
 **EACL 2023**  
 **EMNLP 2022** (Interpretability, Interactivity and Analysis of Models track; BlackboxNLP 2022 workshop)  
 **ACL Rolling Review** (2021 November – ongoing)  
