@@ -7,6 +7,7 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Topics of interest are rationale generation, data-centric interpretability, information-seeking dialogue, and evaluation measures for generated text.  
 
 # News 🤩
+2023-05-19 : Inseq accepted to ACL 2023! [MultiTACRED](https://arxiv.org/abs/2305.04582) which I reviewed for my colleagues has been accepted as well.  
 2023-02-27 : Inseq pre-print published on arXiv.  
 2022-12-26 : Three papers accepted to ESSV and HUCAPP. New interpretability library Inseq (project led by Gabriele Sarti) now available on GitHub.  
 2022-11-21 : Journal paper about "Interactive Explainable AI" accepted to KI.  
@@ -29,8 +30,8 @@ My main research interest is making (neural) language models more interpretable 
 
 <a href="https://github.com/inseq-team/inseq"><img src="https://raw.githubusercontent.com/inseq-team/inseq/main/docs/source/images/inseq_logo.png" width="200px" align="right"></a>  
 ### Inseq: An Interpretability Toolkit for Sequence Generation Models  
-Gabriele Sarti, **Nils Feldhus**, Ludwig Sickert, Oskar van der Wal  
-*In submission*  
+Gabriele Sarti, **Nils Feldhus**, Ludwig Sickert, Oskar van der Wal, Malvina Nissim, Arianna Bisazza  
+*ACL 2023 System Demonstrations*  
 [arXiv](http://arxiv.org/abs/2302.13942) | [GitHub](https://github.com/inseq-team/inseq) | [Project page](https://gsarti.com/project/inseq/)  
 
 ### Pre-trained Language Models for the Automatic Evaluation of Customer Chatbot Dialogs
@@ -61,10 +62,6 @@ Mareike Hartmann, Han Du, **Nils Feldhus**, Ivana Kruijff-Korbayová and Daniel 
 **Nils Feldhus**, Leonhard Hennig, Maximilian Dustin Nasert, Christopher Ebert, Robert Schwarzenberg and Sebastian Möller  
 *In submission*  
 [arXiv](https://arxiv.org/abs/2210.07222)  
-
-### Quality Estimation with Fine-grained Classification of Errors in German-English Corpora
-Konstantin Biskupski, **Nils Feldhus**, Vivien Macketanz and Eleftherios Avramidis  
-*In submission*  
 
 <a href="https://arxiv.org/abs/2206.06029"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/Mediators_Logo.png?raw=true" width="200px" align="right"></a>  
 ### Mediators: Conversational Agents Explaining NLP Model Behavior
@@ -137,7 +134,7 @@ Georg Rehm et al.
 
 
 # Education 👨‍🎓
-2021-2024 – Computer Science, PhD, Technische Universität Berlin. Supervised by Sebastian Möller: "Generating and evaluating human-centric explanations of language models"  
+2021-2025 – Computer Science, PhD, Technische Universität Berlin. Supervised by Sebastian Möller: "Generating and evaluating human-centric explanations of language models"  
 
 2016-2020 – Cognitive Systems: Language, Learning and Reasoning, MSc, University of Potsdam. Supervised by Manfred Stede: "Utilizing machine translation for bootstrapping abstractive text summarization".  
 
@@ -153,9 +150,9 @@ Georg Rehm et al.
 2014 – Student assistant at the Institute for Computational Linguistics @ Heidelberg University  
 
 # Supervision 👨‍‍🏫
-Qianli Wang, Sahil Chopra, Althis Mendes – Research assistants for XAINES (more info soon)  
-
-Currently not accepting new supervisions.  
+Qianli Wang – Interactive NLP model exploration through dialogue systems  
+Sahil Chopra – Evaluation measures for free-text rationales  
+Althis Mendes – Concept explanations in human-to-human dialogues  
 
 
 ## Completed
@@ -176,7 +173,8 @@ Daniel Fernau (with Tim Polzehl & Stefan Hillmann) – MSc thesis @ TU Berlin: T
 
 
 # Reviews ⭐
-**ACL 2023** (Reality Check theme track)  
+**BlackboxNLP @ EMNLP 2023**  
+**ACL 2023** (Reality Check theme track & Interpretability track)  
 **EACL 2023**  
 **EMNLP 2022** (Interpretability, Interactivity and Analysis of Models track; BlackboxNLP 2022 workshop)  
 **ACL Rolling Review** (2021 November – ongoing)  
