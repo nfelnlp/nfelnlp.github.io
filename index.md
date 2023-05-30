@@ -7,7 +7,7 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Topics of interest are rationale generation, data-centric interpretability, information-seeking dialogue, and evaluation measures for generated text.  
 
 # News 🤩
-2023-05-30 : [Saliency Map Verbalization](https://arxiv.org/abs/2210.07222) (first-author paper) accepted to ACL 2023!  
+2023-05-30 : [Saliency Map Verbalization](https://arxiv.org/abs/2210.07222) (first-author paper) accepted to ACL 2023! See you in Toronto! 🍁  
 2023-05-19 : [Inseq](https://gsarti.com/project/inseq/) accepted to ACL 2023!   [MultiTACRED](https://arxiv.org/abs/2305.04582) which I reviewed for my colleagues has been accepted as well.  
 2023-02-27 : Inseq pre-print published on arXiv.  
 2022-12-26 : Three papers accepted to ESSV and HUCAPP. New interpretability library Inseq (project led by Gabriele Sarti) now available on GitHub.  
@@ -30,7 +30,7 @@ My main research interest is making (neural) language models more interpretable 
 ## 2023
 
 <a href="https://arxiv.org/abs/2210.07222"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/SMV_FontLogo.png?raw=true" width="200px" align="right"></a>  
-### Saliency Map Verbalization  
+### Saliency Map Verbalization: Comparing Feature Importance Representations from Model-free and Instruction-based Methods  
 **Nils Feldhus**, Leonhard Hennig, Maximilian Dustin Nasert, Christopher Ebert, Robert Schwarzenberg and Sebastian Möller  
 *ACL 2023 Workshop on Natural Language Reasoning and Structured Explanations (NLRSE)*  
 [arXiv](https://arxiv.org/abs/2210.07222) | [GitHub](https://github.com/DFKI-NLP/SMV)  
