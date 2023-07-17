@@ -19,7 +19,6 @@ My main research interest is making (neural) language models more interpretable 
 2022-06-15 : Paper on "Personalized Conversational Agents" accepted to INTERSPEECH 2022.  
 2022-06-14 : "Mediators" is now available on arXiv.  
 2022-06-04 : First-author paper "Mediators: Conversational Agents Explaining Language Model Behavior" (announced on 2022-05-09) accepted to the IJCAI-ECAI 2022 Workshop on XAI.  
-2022-05-09 : First-author paper on "Dialogue-based Language Model Explanations" submitted. More info soon!  
 2022-04-04 : Paper on "Textual Explanations for Clinical Decision Support" accepted to LREC as a poster.  
 2022-03-31 : Two papers I reviewed for my colleagues were accepted to the NLP-Power! and Repl4NLP workshops at [ACL 2022](https://dfki-nlp.github.io/post/acl2022/)  
 2022-03-22 : [Project report](https://graphite.page/explainable-ai-report/) on "XAI and meaningful information in automated decision-making" (joint work between HIIG and DFKI) now available in full.  
@@ -33,23 +32,23 @@ My main research interest is making (neural) language models more interpretable 
 ### Saliency Map Verbalization: Comparing Feature Importance Representations from Model-free and Instruction-based Methods  
 **Nils Feldhus**, Leonhard Hennig, Maximilian Dustin Nasert, Christopher Ebert, Robert Schwarzenberg and Sebastian Möller  
 *ACL 2023 Workshop on Natural Language Reasoning and Structured Explanations (NLRSE)*  
-[arXiv](https://arxiv.org/abs/2210.07222) | [GitHub](https://github.com/DFKI-NLP/SMV)  
+[ACL Anthology](https://aclanthology.org/2023.nlrse-1.4/) | [arXiv](https://arxiv.org/abs/2210.07222) | [GitHub](https://github.com/DFKI-NLP/SMV)  
 
 <a href="https://github.com/inseq-team/inseq"><img src="https://raw.githubusercontent.com/inseq-team/inseq/main/docs/source/images/inseq_logo.png" width="200px" align="right"></a>  
 ### Inseq: An Interpretability Toolkit for Sequence Generation Models  
 Gabriele Sarti, **Nils Feldhus**, Ludwig Sickert, Oskar van der Wal, Malvina Nissim, Arianna Bisazza  
 *ACL 2023 System Demonstrations*  
-[arXiv](http://arxiv.org/abs/2302.13942) | [GitHub](https://github.com/inseq-team/inseq) | [Project page](https://gsarti.com/project/inseq/)  
+[ACL Anthology](https://aclanthology.org/2023.acl-demo.40/) | [arXiv](http://arxiv.org/abs/2302.13942) | [GitHub](https://github.com/inseq-team/inseq) | [Project page](https://gsarti.com/project/inseq/)  
 
 ### Pre-trained Language Models for the Automatic Evaluation of Customer Chatbot Dialogs
 Mika Rebensburg, Stefan Hillmann, **Nils Feldhus**  
 *ESSV 2023*  
-[Conference](https://www.phonetik.uni-muenchen.de/ESSV2023/)  
+[Proceedings](https://www.essv.de/paper.php?id=1170)  
 
 ### Adapters for Resource-Efficient Deployment of NLU Models
 Jan Nehring, Akhyar Ahmed, **Nils Feldhus**  
 *ESSV 2023*  
-[Preprint](https://openreview.net/forum?id=Hn4GBegblWc) | [Conference](https://www.phonetik.uni-muenchen.de/ESSV2023/) | [GitHub](https://github.com/jnehring/ESSV2023-Adapters-for-Resource-Efficient-Deployment-of-NLU-models)  
+[Proceedings](https://www.essv.de/paper.php?id=1196) | [GitHub](https://github.com/jnehring/ESSV2023-Adapters-for-Resource-Efficient-Deployment-of-NLU-models)  
 
 ### Fighting Disinformation - Overview of Recent AI-based Collaborative Human-Computer Interaction for Intelligent Decision Support Systems
 Tim Polzehl, Vera Schmitt, **Nils Feldhus**, Joachim Meyer, Sebastian Möller  
