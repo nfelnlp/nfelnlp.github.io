@@ -7,6 +7,7 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Topics of interest are rationale generation, data-centric interpretability, information-seeking dialogue, and evaluation measures for generated text.  
 
 # News 🤩
+2023-10-08 : "InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations" accepted to EMNLP 2023 Findings! 🦁 This is my fourth first-author paper and an implementation of the Mediators precursor paper.  
 2023-05-30 : [Saliency Map Verbalization](https://arxiv.org/abs/2210.07222) (first-author paper) accepted to ACL 2023! See you in Toronto! 🍁  
 2023-05-19 : [Inseq](https://gsarti.com/project/inseq/) accepted to ACL 2023!   [MultiTACRED](https://arxiv.org/abs/2305.04582) which I reviewed for my colleagues has been accepted as well.  
 2023-02-27 : Inseq pre-print published on arXiv.  
@@ -14,19 +15,24 @@ My main research interest is making (neural) language models more interpretable 
 2022-11-21 : Journal paper about "Interactive Explainable AI" accepted to KI.  
 2022-10-14 : First-author paper on "Saliency Map Verbalization" is now on [arXiv](https://arxiv.org/abs/2210.07222).  
 2022-10-13 : One paper I reviewed for my colleagues was accepted to the [EMNLP 2022](https://github.com/DFKI-NLP/meffi-prompt) main track.  
-2022-10-12 : Two papers about "Saliency Map Verbalization" and "Machine Translation Quality Estimation" in submission.  
 2022-07-04 : Companion paper to "Personalized Conversational Agents" accepted to SIGDIAL 2022.  
 2022-06-15 : Paper on "Personalized Conversational Agents" accepted to INTERSPEECH 2022.  
 2022-06-14 : "Mediators" is now available on arXiv.  
-2022-06-04 : First-author paper "Mediators: Conversational Agents Explaining Language Model Behavior" (announced on 2022-05-09) accepted to the IJCAI-ECAI 2022 Workshop on XAI.  
+2022-06-04 : First-author paper "Mediators: Conversational Agents Explaining Language Model Behavior" accepted to the IJCAI-ECAI 2022 Workshop on XAI.  
 2022-04-04 : Paper on "Textual Explanations for Clinical Decision Support" accepted to LREC as a poster.  
 2022-03-31 : Two papers I reviewed for my colleagues were accepted to the NLP-Power! and Repl4NLP workshops at [ACL 2022](https://dfki-nlp.github.io/post/acl2022/)  
-2022-03-22 : [Project report](https://graphite.page/explainable-ai-report/) on "XAI and meaningful information in automated decision-making" (joint work between HIIG and DFKI) now available in full.  
+2022-03-22 : [Project report](https://graphite.page/explainable-ai-report/) on "XAI and meaningful information in automated decision-making" now available in full.  
 
 
 # Publications 📚
 
 ## 2023
+
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InterroLang_Logo.png?raw=true" width="200px" align="right">  
+### InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations  
+**Nils Feldhus**, Qianli Wang, Tatiana Anikina, Sahil Chopra, Cennet Oguz and Sebastian Möller  
+*EMNLP 2023 Findings*  
+ACL Anthology | arXiv | [GitHub](https://github.com/DFKI-NLP/InterroLang)  
 
 <a href="https://arxiv.org/abs/2210.07222"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/SMV_FontLogo.png?raw=true" width="200px" align="right"></a>  
 ### Saliency Map Verbalization: Comparing Feature Importance Representations from Model-free and Instruction-based Methods  
@@ -72,7 +78,7 @@ Mareike Hartmann, Han Du, **Nils Feldhus**, Ivana Kruijff-Korbayová and Daniel 
 ### Towards Personality-aware Chatbots
 Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl and Sebastian Möller  
 *[SIGDIAL 2022](https://2022.sigdial.org/)*  
-[SIGDIAL 2022 Proceedings (ACL Anthology)](https://aclanthology.org/2022.sigdial-1.15/) | [Video (Live presentation)](https://www.youtube.com/watch?v=06hrn65ypxE)  
+[ACL Anthology](https://aclanthology.org/2022.sigdial-1.15/) | [Video (Live presentation)](https://www.youtube.com/watch?v=06hrn65ypxE)  
 
 ### Towards Automated Dialog Personalization using MBTI Personality Indicators
 Daniel Fernau, Stefan Hillmann, **Nils Feldhus** and Tim Polzehl  
@@ -87,7 +93,7 @@ Sebastian Germer, Hristina Uzunova, Jan Ehrhardt, **Nils Feldhus**, Philippe Tho
 ### An Annotated Corpus of Textual Explanations for Clinical Decision Support
 Roland Roller, Aljoscha Burchardt, **Nils Feldhus**, Laura Seiffe, Klemens Budde, Simon Ronicke and Bilgin Osmanodja  
 *LREC 2022*  
-[LREC Proceedings @ ACL Anthology](https://aclanthology.org/2022.lrec-1.248/)  
+[ACL Anthology](https://aclanthology.org/2022.lrec-1.248/)  
 
 ### What to explain when explaining is difficult? An interdisciplinary primer on XAI and meaningful information in automated decision-making  
 Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Fassbinder, **Nils Feldhus**, Freya Hewett, Vincent Hofmann, Matthias C. Kettemann, Wolfgang Schulz, Judith Simon, Jakob Stolberg-Larsen and Theresa Züger  
@@ -101,7 +107,7 @@ Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Fassbinde
 ### Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools
 **Nils Feldhus**, Robert Schwarzenberg and Sebastian Möller  
 *2021 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*  
-[EMNLP 2021 System Demonstrations proceedings](https://aclanthology.org/2021.emnlp-demo.11/) | [arXiv](https://arxiv.org/abs/2108.13961) | [GitHub](https://github.com/DFKI-NLP/thermostat) | [Video](https://aclanthology.org/2021.emnlp-demo.11.mp4)
+[ACL Anthology](https://aclanthology.org/2021.emnlp-demo.11/) | [arXiv](https://arxiv.org/abs/2108.13961) | [GitHub](https://github.com/DFKI-NLP/thermostat) | [Video](https://aclanthology.org/2021.emnlp-demo.11.mp4)
 
 ### Efficient Explanations from Empirical Explainers
 Robert Schwarzenberg, **Nils Feldhus** and Sebastian Möller  
@@ -151,11 +157,15 @@ Georg Rehm et al.
 
 # Supervision 👨‍‍🏫
 Qianli Wang – Interactive NLP model exploration through dialogue systems  
-Sahil Chopra – Evaluation measures for free-text rationales  
-Althis Mendes – Concept explanations in human-to-human dialogues  
+Maximilian Bleick – Explaining Political Biases in LLMs  
+Maximilian Dustin Nasert & Christopher Ebert – Examining Self-Rationalizing LLMs
 
 
 ## Completed
+João Lucas Mendes de Lemos Lins – Instructional explanations  
+
+Sahil Chopra – Rationale generation for dialogue-based explanations  
+
 Konstantin Biskupski (with Eleftherios Avramidis) – MSc thesis @ TU Berlin: Quality estimation of machine-translated texts with fine-grained classification of errors  
 
 Kiran Rohra (with Philippe Thomas) – MSc thesis @ TU Berlin: Comparative error analysis of biomedical image labelling and captioning models  
@@ -172,8 +182,12 @@ Daniel Fernau (with Tim Polzehl & Stefan Hillmann) – MSc thesis @ TU Berlin: T
 2022-10 - 2023-03 : Explainability in Natural Language Processing @ TU Berlin. Topics: (1) Contrastive Explanations of Text Generation Models. (2) Explainable Fact Checking.  
 
 
+# Invited Talks
+2023-11-03 : NEC Labs Europe, Heidelberg  
+
+
 # Reviews ⭐
-**BlackboxNLP @ EMNLP 2023**  
+**EMNLP 2023** (Main conference & BlackboxNLP workshop)  
 **ACL 2023** (Reality Check theme track & Interpretability track)  
 **EACL 2023**  
 **EMNLP 2022** (Interpretability, Interactivity and Analysis of Models track; BlackboxNLP 2022 workshop)  
