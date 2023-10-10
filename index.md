@@ -32,7 +32,7 @@ My main research interest is making (neural) language models more interpretable 
 ### InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations  
 **Nils Feldhus**, Qianli Wang, Tatiana Anikina, Sahil Chopra, Cennet Oguz and Sebastian Möller  
 *EMNLP 2023 Findings*  
-ACL Anthology | arXiv | [GitHub](https://github.com/DFKI-NLP/InterroLang)  
+ACL Anthology | [arXiv](https://arxiv.org/abs/2310.05592) | [GitHub](https://github.com/DFKI-NLP/InterroLang)  
 
 <a href="https://arxiv.org/abs/2210.07222"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/SMV_FontLogo.png?raw=true" width="200px" align="right"></a>  
 ### Saliency Map Verbalization: Comparing Feature Importance Representations from Model-free and Instruction-based Methods  
