@@ -7,7 +7,7 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Topics of interest are rationale generation, data-centric interpretability, information-seeking dialogue, and evaluation measures for generated text.  
 
 # News 🤩
-2023-11-13 : InterroLang will be presented as an in-person poster at BlackboxNLP and Findings (details TBA).  
+2023-11-13 : InterroLang will be presented as an in-person poster at BlackboxNLP (Thu, Dec 7, 11:00 AM) and Findings (Sat, Dec 9, 09:00 AM).  
 2023-11-03 : Invited talk at [Human-Centric AI group of NEC Labs Europe, Heidelberg](https://www.neclab.eu/research-areas/data-science/human-centric-ai)  
 2023-10-08 : "InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations" accepted to EMNLP 2023 Findings! 🦁 This is my fourth first-author paper and an implementation of the Mediators precursor paper.  
 2023-05-30 : [Saliency Map Verbalization](https://arxiv.org/abs/2210.07222) (first-author paper) accepted to ACL 2023! See you in Toronto! 🍁  
@@ -33,7 +33,7 @@ My main research interest is making (neural) language models more interpretable 
 <img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InterroLang_Logo.png?raw=true" width="200px" align="right">  
 ### InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations  
 **Nils Feldhus**, Qianli Wang, Tatiana Anikina, Sahil Chopra, Cennet Oguz and Sebastian Möller  
-*EMNLP 2023 Findings* & *[BlackboxNLP](https://blackboxnlp.github.io/) Workshop @ EMNLP 2023*  
+*EMNLP 2023 Findings* & *[BlackboxNLP](https://blackboxnlp.github.io/) Workshop*  
 ACL Anthology | [arXiv](https://arxiv.org/abs/2310.05592) | [GitHub](https://github.com/DFKI-NLP/InterroLang)  
 
 <a href="https://arxiv.org/abs/2210.07222"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/SMV_FontLogo.png?raw=true" width="200px" align="right"></a>  
