@@ -28,15 +28,22 @@ My main research interest is making (neural) language models more interpretable 
 
 # Publications 📚
 
+## 2024
+
+### ReWIRED: Instructional Explanations in Teacher-Student Dialogues
+**Nils Feldhus**, João Lucas Mendes de Lemos Lins, Aliki Anagnostopoulou, Qianli Wang, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag (*order TBD*)
+*Work in progress*
+
+
 ## 2023
 
-<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InterroLang_Logo.png?raw=true" width="200px" align="right">  
+<a href="https://aclanthology.org/2023.findings-emnlp.359/"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InterroLang_Logo.png?raw=true" width="200px" align="right"></a>  
 ### InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations  
 **Nils Feldhus**, Qianli Wang, Tatiana Anikina, Sahil Chopra, Cennet Oguz and Sebastian Möller  
 *EMNLP 2023 Findings* & *[BlackboxNLP](https://blackboxnlp.github.io/) Workshop*  
-ACL Anthology | [arXiv](https://arxiv.org/abs/2310.05592) | [GitHub](https://github.com/DFKI-NLP/InterroLang)  
+[ACL Anthology](https://aclanthology.org/2023.findings-emnlp.359/) | [arXiv](https://arxiv.org/abs/2310.05592) | [GitHub](https://github.com/DFKI-NLP/InterroLang)  
 
-<a href="https://arxiv.org/abs/2210.07222"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/SMV_FontLogo.png?raw=true" width="200px" align="right"></a>  
+<a href="https://aclanthology.org/2023.nlrse-1.4/"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/SMV_FontLogo.png?raw=true" width="200px" align="right"></a>  
 ### Saliency Map Verbalization: Comparing Feature Importance Representations from Model-free and Instruction-based Methods  
 **Nils Feldhus**, Leonhard Hennig, Maximilian Dustin Nasert, Christopher Ebert, Robert Schwarzenberg and Sebastian Möller  
 *ACL 2023 Workshop on Natural Language Reasoning and Structured Explanations (NLRSE)*  
@@ -189,6 +196,7 @@ Daniel Fernau (with Tim Polzehl & Stefan Hillmann) – MSc thesis @ TU Berlin: T
 
 
 # Reviews ⭐
+**NAACL 2024**  
 **EACL 2024**  
 **EMNLP 2023** (Main conference & BlackboxNLP workshop)  
 **ACL 2023** (Reality Check theme track & Interpretability track)  
