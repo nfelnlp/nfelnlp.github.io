@@ -31,42 +31,47 @@ My main research interest is making (neural) language models more interpretable 
 ## 2024
 
 ### ReWIRED: Instructional Explanations in Teacher-Student Dialogues
-**Nils Feldhus**, João Lucas Mendes de Lemos Lins, Aliki Anagnostopoulou, Qianli Wang, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag (*order TBD*)
+**Nils Feldhus**, João Lucas Mendes de Lemos Lins, Aliki Anagnostopoulou, Qianli Wang, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag (*order TBD*)  
 *Work in progress*
+
+### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools
+Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
+*In submission*  
+[GitHub](https://github.com/DFKI-NLP/LLMCheckup)
 
 
 ## 2023
 
-<a href="https://aclanthology.org/2023.findings-emnlp.359/"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InterroLang_Logo.png?raw=true" width="200px" align="right"></a>  
+<a href="https://aclanthology.org/2023.findings-emnlp.359/"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InterroLang_Logo.png?raw=true" width="150px" align="right"></a>  
 ### InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations  
-**Nils Feldhus**, Qianli Wang, Tatiana Anikina, Sahil Chopra, Cennet Oguz and Sebastian Möller  
+**Nils Feldhus**, Qianli Wang, Tatiana Anikina, Sahil Chopra, Cennet Oguz, and Sebastian Möller  
 *EMNLP 2023 Findings* & *[BlackboxNLP](https://blackboxnlp.github.io/) Workshop*  
 [ACL Anthology](https://aclanthology.org/2023.findings-emnlp.359/) | [arXiv](https://arxiv.org/abs/2310.05592) | [GitHub](https://github.com/DFKI-NLP/InterroLang)  
 
-<a href="https://aclanthology.org/2023.nlrse-1.4/"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/SMV_FontLogo.png?raw=true" width="200px" align="right"></a>  
+<a href="https://aclanthology.org/2023.nlrse-1.4/"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/SMV_FontLogo.png?raw=true" width="175px" align="right"></a>  
 ### Saliency Map Verbalization: Comparing Feature Importance Representations from Model-free and Instruction-based Methods  
-**Nils Feldhus**, Leonhard Hennig, Maximilian Dustin Nasert, Christopher Ebert, Robert Schwarzenberg and Sebastian Möller  
+**Nils Feldhus**, Leonhard Hennig, Maximilian Dustin Nasert, Christopher Ebert, Robert Schwarzenberg, and Sebastian Möller  
 *ACL 2023 Workshop on Natural Language Reasoning and Structured Explanations (NLRSE)*  
 [ACL Anthology](https://aclanthology.org/2023.nlrse-1.4/) | [arXiv](https://arxiv.org/abs/2210.07222) | [GitHub](https://github.com/DFKI-NLP/SMV)  
 
 <a href="https://github.com/inseq-team/inseq"><img src="https://raw.githubusercontent.com/inseq-team/inseq/main/docs/source/images/inseq_logo.png" width="200px" align="right"></a>  
 ### Inseq: An Interpretability Toolkit for Sequence Generation Models  
-Gabriele Sarti, **Nils Feldhus**, Ludwig Sickert, Oskar van der Wal, Malvina Nissim, Arianna Bisazza  
+Gabriele Sarti, **Nils Feldhus**, Ludwig Sickert, Oskar van der Wal, Malvina Nissim, and Arianna Bisazza  
 *ACL 2023 System Demonstrations*  
 [ACL Anthology](https://aclanthology.org/2023.acl-demo.40/) | [arXiv](http://arxiv.org/abs/2302.13942) | [GitHub](https://github.com/inseq-team/inseq) | [Project page](https://gsarti.com/project/inseq/)  
 
 ### Pre-trained Language Models for the Automatic Evaluation of Customer Chatbot Dialogs
-Mika Rebensburg, Stefan Hillmann, **Nils Feldhus**  
+Mika Rebensburg, Stefan Hillmann, and **Nils Feldhus**  
 *ESSV 2023*  
 [Proceedings](https://www.essv.de/paper.php?id=1170)  
 
 ### Adapters for Resource-Efficient Deployment of NLU Models
-Jan Nehring, Akhyar Ahmed, **Nils Feldhus**  
+Jan Nehring, Akhyar Ahmed, and **Nils Feldhus**  
 *ESSV 2023*  
 [Proceedings](https://www.essv.de/paper.php?id=1196) | [GitHub](https://github.com/jnehring/ESSV2023-Adapters-for-Resource-Efficient-Deployment-of-NLU-models)  
 
 ### Fighting Disinformation - Overview of Recent AI-based Collaborative Human-Computer Interaction for Intelligent Decision Support Systems
-Tim Polzehl, Vera Schmitt, **Nils Feldhus**, Joachim Meyer, Sebastian Möller  
+Tim Polzehl, Vera Schmitt, **Nils Feldhus**, Joachim Meyer, and Sebastian Möller  
 *HUCAPP 2023*  
 [SciTePress](https://www.scitepress.org/Link.aspx?doi=10.5220/0011788900003417)  
 
@@ -74,38 +79,38 @@ Tim Polzehl, Vera Schmitt, **Nils Feldhus**, Joachim Meyer, Sebastian Möller
 ## 2022
 
 ### XAINES: Explaining AI with Narratives
-Mareike Hartmann, Han Du, **Nils Feldhus**, Ivana Kruijff-Korbayová and Daniel Sonntag  
+Mareike Hartmann, Han Du, **Nils Feldhus**, Ivana Kruijff-Korbayová, and Daniel Sonntag  
 *[KI - Künstliche Intelligenz](https://www.springer.com/journal/13218/)*  
 [Journal article on Springer](https://doi.org/10.1007/s13218-022-00780-8)  
 
 <a href="https://arxiv.org/abs/2206.06029"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/Mediators_Logo.png?raw=true" width="200px" align="right"></a>  
 ### Mediators: Conversational Agents Explaining NLP Model Behavior
-**Nils Feldhus**, Ajay Madhavan Ravichandran and Sebastian Möller  
+**Nils Feldhus**, Ajay Madhavan Ravichandran, and Sebastian Möller  
 [*IJCAI-ECAI 2022 Workshop on XAI*](https://sites.google.com/view/xai2022/)  
 [arXiv](https://arxiv.org/abs/2206.06029) | <a href="{{ site.url }}/slides/Mediators_IJCAI_2022.pdf">Slides</a>  
 
 ### Towards Personality-aware Chatbots
-Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl and Sebastian Möller  
+Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl, and Sebastian Möller  
 *[SIGDIAL 2022](https://2022.sigdial.org/)*  
 [ACL Anthology](https://aclanthology.org/2022.sigdial-1.15/) | [Video (Live presentation)](https://www.youtube.com/watch?v=06hrn65ypxE)  
 
 ### Towards Automated Dialog Personalization using MBTI Personality Indicators
-Daniel Fernau, Stefan Hillmann, **Nils Feldhus** and Tim Polzehl  
+Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, and Tim Polzehl  
 *[INTERSPEECH 2022](http://interspeech2022.org/)*  
 [ISCA Proceedings](https://doi.org/10.21437/Interspeech.2022-376)  
 
 ### A Comparison of Feature Extraction Models for Medical Image Captioning  
-Sebastian Germer, Hristina Uzunova, Jan Ehrhardt, **Nils Feldhus**, Philippe Thomas and Heinz Handels  
+Sebastian Germer, Hristina Uzunova, Jan Ehrhardt, **Nils Feldhus**, Philippe Thomas, and Heinz Handels  
 *GMDS-TMF 2022*  
 [PDF](https://access.online-registry.net/gmds2022/temp/export/exp_1665555575167_e3b7.pdf)  
 
 ### An Annotated Corpus of Textual Explanations for Clinical Decision Support
-Roland Roller, Aljoscha Burchardt, **Nils Feldhus**, Laura Seiffe, Klemens Budde, Simon Ronicke and Bilgin Osmanodja  
+Roland Roller, Aljoscha Burchardt, **Nils Feldhus**, Laura Seiffe, Klemens Budde, Simon Ronicke, and Bilgin Osmanodja  
 *LREC 2022*  
 [ACL Anthology](https://aclanthology.org/2022.lrec-1.248/)  
 
 ### What to explain when explaining is difficult? An interdisciplinary primer on XAI and meaningful information in automated decision-making  
-Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Fassbinder, **Nils Feldhus**, Freya Hewett, Vincent Hofmann, Matthias C. Kettemann, Wolfgang Schulz, Judith Simon, Jakob Stolberg-Larsen and Theresa Züger  
+Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Fassbinder, **Nils Feldhus**, Freya Hewett, Vincent Hofmann, Matthias C. Kettemann, Wolfgang Schulz, Judith Simon, Jakob Stolberg-Larsen, and Theresa Züger  
 *Project report* (published 2022-03-22)  
 [Full report](https://graphite.page/explainable-ai-report/)  
 
@@ -114,17 +119,17 @@ Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Fassbinde
 
 <a href="https://github.com/DFKI-NLP/thermostat"><img src="https://raw.githubusercontent.com/DFKI-NLP/thermostat/main/figures/logo.png?raw=true" width="200px" align="right"></a>  
 ### Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools
-**Nils Feldhus**, Robert Schwarzenberg and Sebastian Möller  
+**Nils Feldhus**, Robert Schwarzenberg, and Sebastian Möller  
 *2021 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*  
 [ACL Anthology](https://aclanthology.org/2021.emnlp-demo.11/) | [arXiv](https://arxiv.org/abs/2108.13961) | [GitHub](https://github.com/DFKI-NLP/thermostat) | [Video](https://aclanthology.org/2021.emnlp-demo.11.mp4)
 
 ### Efficient Explanations from Empirical Explainers
-Robert Schwarzenberg, **Nils Feldhus** and Sebastian Möller  
+Robert Schwarzenberg, **Nils Feldhus**, and Sebastian Möller  
 *4th workshop on analyzing and interpreting neural networks for NLP (collocated with EMNLP 2021)*  
 [BlackboxNLP 2021 proceedings](https://aclanthology.org/2021.blackboxnlp-1.17/) | [arXiv](https://arxiv.org/abs/2103.15429) | [GitHub](https://github.com/DFKI-NLP/emp-exp)  
 
 ### Combining Open Domain Question Answering with a Task-Oriented Dialog System
-Jan Nehring, **Nils Feldhus**, Harleen Kaur and Akhyar Ahmed  
+Jan Nehring, **Nils Feldhus**, Harleen Kaur, and Akhyar Ahmed  
 *1st Workshop on Document-grounded Dialogue and Conversational Question Answering (DialDoc 2021)*  
 [ACL Anthology](https://aclanthology.org/2021.dialdoc-1.5/)  
 
@@ -137,7 +142,7 @@ Georg Rehm et al.
 ## 2020
 
 ### Evaluating German Transformer Language Models with Syntactic Agreement Tests
-Karolina Zaczynska, **Nils Feldhus**\*, Robert Schwarzenberg, Aleksandra Gabryszak and Sebastian Möller  
+Karolina Zaczynska, **Nils Feldhus**\*, Robert Schwarzenberg, Aleksandra Gabryszak, and Sebastian Möller  
 *5th Swiss Text Analytics Conference (SwissText) & 16th Conference on Natural Language Processing (KONVENS)*  
 [SwissText/KONVENS 2020 Proceedings](http://ceur-ws.org/Vol-2624/) | [arXiv](https://arxiv.org/pdf/2007.03765.pdf) | [GitHub](https://github.com/dfki-nlp/gevalm)  
 <sup>* joint first authorship</sup>
