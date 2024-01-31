@@ -1,18 +1,24 @@
-# Thesis supervisions
+# Supervision
 
 ## Open topics
 
-InquAIrer: Conversational Model Refinement from Eliciting Expert Human Feedback using Targeted Question Generation <sup>[1](https://arxiv.org/abs/2103.10415) [2](https://arxiv.org/abs/2311.09613) [3](https://arxiv.org/abs/2311.09558) [4](https://aclanthology.org/2023.acl-long.474/)</sup>  
+InquAIrer: Conversational Model Refinement from Eliciting Expert Human Feedback using Targeted Question Generation  
+<sup>[1](https://arxiv.org/abs/2103.10415) [2](https://arxiv.org/abs/2311.09613) [3](https://arxiv.org/abs/2311.09558) [4](https://aclanthology.org/2023.acl-long.474/)</sup>  
 
-Analyzing User Behavior in Fact Checking Systems with Retrieval- and Tool-augmented Generation <sup>[1](https://arxiv.org/abs/2310.12558) [2](https://doi.org/10.1609/icwsm.v15i1.18072) [3](https://doi.org/10.1609/icwsm.v15i1.18072)</sup>  
+Analyzing User Behavior in Fact Checking Systems with Retrieval- and Tool-augmented Generation  
+<sup>[1](https://arxiv.org/abs/2310.12558) [2](https://doi.org/10.1609/icwsm.v15i1.18072) [3](https://doi.org/10.1609/icwsm.v15i1.18072)</sup>  
 
-LLM-based Evaluation of Instructional Explanations on Different Expertise Levels <sup>[1](https://aclanthology.org/2022.coling-1.27/) [2](http://arxiv.org/abs/2311.10749) [3](https://dl.acm.org/doi/10.1145/3544548.3581369) [4](https://arxiv.org/abs/2312.02065)</sup>  
+LLM-based Evaluation of Instructional Explanations on Different Expertise Levels  
+<sup>[1](https://aclanthology.org/2022.coling-1.27/) [2](http://arxiv.org/abs/2311.10749) [3](https://dl.acm.org/doi/10.1145/3544548.3581369) [4](https://arxiv.org/abs/2312.02065)</sup>  
 
-Efficiently Evaluating the Faithfulness of Free-text Rationales <sup>[1](http://arxiv.org/abs/2311.07466) [2](https://aclanthology.org/2023.findings-emnlp.7/) [3](https://aclanthology.org/2021.blackboxnlp-1.17/) </sup>  
+Efficiently Evaluating the Faithfulness of Free-text Rationales  
+<sup>[1](http://arxiv.org/abs/2311.07466) [2](https://aclanthology.org/2023.findings-emnlp.7/) [3](https://aclanthology.org/2021.blackboxnlp-1.17/)</sup>  
 
-Explaining Disagreements in Automated Text Simplification Evaluation <sup>[1](https://arxiv.org/abs/2310.00752) [2](https://aclanthology.org/2023.emnlp-main.714/) [3](http://arxiv.org/abs/2305.14770) [4](https://aclanthology.org/2023.acl-long.674/)</sup>  
+Explaining Disagreements in Automated Text Simplification Evaluation  
+<sup>[1](https://arxiv.org/abs/2310.00752) [2](https://aclanthology.org/2023.emnlp-main.714/) [3](http://arxiv.org/abs/2305.14770) [4](https://aclanthology.org/2023.acl-long.674/)</sup>  
 
-Synthesizing Training Data from Human Feedback to Natural Language Explanations <sup>[1](https://aclanthology.org/2022.findings-acl.75/) [2](https://aclanthology.org/2023.findings-emnlp.791/) [3](https://aclanthology.org/2022.findings-emnlp.269/)</sup>  
+Synthesizing Training Data from Human Feedback to Natural Language Explanations  
+<sup>[1](https://aclanthology.org/2022.findings-acl.75/) [2](https://aclanthology.org/2023.findings-emnlp.791/) [3](https://aclanthology.org/2022.findings-emnlp.269/)</sup>  
 
 
 
@@ -35,6 +41,8 @@ Mika Rebensburg (with [Tim Polzehl](https://www.tu.berlin/en/qu/ueber-uns/team-p
 
 Daniel Fernau (with [Tim Polzehl](https://www.tu.berlin/en/qu/ueber-uns/team-personen/gast-wissenschaftler-partner/dr-tim-polzehl) & [Stefan Hillmann](https://www.tu.berlin/index.php?id=29495)) – MSc thesis @ TU Berlin: Towards Adaptive Conversational Agents: Fine-tuning Language-Models for User Classification to enhance Usability  
 
+---
+
 
 # Research assistant supervisions
 
@@ -51,6 +59,8 @@ João Lucas Mendes de Lemos Lins – Instructional explanations
 
 [Ajay Madhavan Ravichandran](https://github.com/aj280192) – Conceptualizing dialogue-based explanations  
 
+
+---
 
 
 # Courses

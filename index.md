@@ -37,7 +37,7 @@ My main research interest is making (neural) language models more interpretable 
 ### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
 *In submission*  
-[arXiv](https://arxiv.org/abs/2310.05592) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)
+[arXiv](https://arxiv.org/abs/2401.12576) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)
 
 
 ## 2023
