@@ -37,7 +37,7 @@ My main research interest is making (neural) language models more interpretable 
 ### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
 *In submission*  
-[GitHub](https://github.com/DFKI-NLP/LLMCheckup)
+[arXiv](https://arxiv.org/abs/2310.05592) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)
 
 
 ## 2023
@@ -170,30 +170,7 @@ Georg Rehm et al.
 2014 – Student assistant at the Institute for Computational Linguistics @ Heidelberg University  
 
 # Supervision 👨‍‍🏫
-Qianli Wang – Interactive NLP model exploration through dialogue systems  
-Maximilian Bleick – Explaining Political Biases in LLMs  
-Maximilian Dustin Nasert & Christopher Ebert – Examining Self-Rationalizing LLMs
-
-
-## Completed
-João Lucas Mendes de Lemos Lins – Instructional explanations  
-
-Sahil Chopra – Rationale generation for dialogue-based explanations  
-
-Konstantin Biskupski (with Eleftherios Avramidis) – MSc thesis @ TU Berlin: Quality estimation of machine-translated texts with fine-grained classification of errors  
-
-Kiran Rohra (with Philippe Thomas) – MSc thesis @ TU Berlin: Comparative error analysis of biomedical image labelling and captioning models  
-
-Ajay Madhavan Ravichandran (with Philippe Thomas) – MSc thesis @ TU Berlin: Evaluating text quality of generated radiology reports  
-
-Mika Rebensburg (with Tim Polzehl & Stefan Hillmann) - BSc thesis @ TU Berlin : Automatic Evaluation of Chatbot Dialogs Using Pre-Trained Language Models in the Customer Support Domain  
-
-Konstantin Biskupski, Lea Junack & Janis Piskol (with Eleftherios Avramidis & Vivien Macketanz) – MSc/BSc software project @ TU Berlin: Assessing the Quality of Machine-translated Text  
-
-Daniel Fernau (with Tim Polzehl & Stefan Hillmann) – MSc thesis @ TU Berlin: Towards Adaptive Conversational Agents: Fine-tuning Language-Models for User Classification to enhance Usability  
-
-## Courses
-2022-10 - 2023-03 : Explainability in Natural Language Processing @ TU Berlin. Topics: (1) Contrastive Explanations of Text Generation Models. (2) Explainable Fact Checking.  
+<a href="{{ site.url }}/supervision">Supervised theses, open topics for prospective students and taught courses</a>
 
 
 # Invited Talks
