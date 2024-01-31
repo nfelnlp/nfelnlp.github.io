@@ -3,22 +3,22 @@
 ## Open topics
 
 InquAIrer: Conversational Model Refinement from Eliciting Expert Human Feedback using Targeted Question Generation  
-<sup>[1](https://arxiv.org/abs/2103.10415) [2](https://arxiv.org/abs/2311.09613) [3](https://arxiv.org/abs/2311.09558) [4](https://aclanthology.org/2023.acl-long.474/)</sup>  
+<p style="font-size:smaller;">References: [Yao et al. (2021)](https://arxiv.org/abs/2103.10415); [Gu et al. (2023)](https://arxiv.org/abs/2311.09613); [Malaviya et al. (2023)](https://arxiv.org/abs/2311.09558); [He et al. (2023)](https://aclanthology.org/2023.acl-long.474/)</p>  
 
 Analyzing User Behavior in Fact Checking Systems with Retrieval- and Tool-augmented Generation  
-<sup>[1](https://arxiv.org/abs/2310.12558) [2](https://doi.org/10.1609/icwsm.v15i1.18072) [3](https://doi.org/10.1609/icwsm.v15i1.18072)</sup>  
+<p style="font-size:smaller;">References: [Si et al. (2023)](https://arxiv.org/abs/2310.12558); [Mohseni et al. (2021)](https://doi.org/10.1609/icwsm.v15i1.18072); [Linder et al. (2021)](https://doi.org/10.1002/ail2.49)</p>  
 
 LLM-based Evaluation of Instructional Explanations on Different Expertise Levels  
-<sup>[1](https://aclanthology.org/2022.coling-1.27/) [2](http://arxiv.org/abs/2311.10749) [3](https://dl.acm.org/doi/10.1145/3544548.3581369) [4](https://arxiv.org/abs/2312.02065)</sup>  
+<p style="font-size:smaller;">References: [Wachsmuth & Alshomary (2022)](https://aclanthology.org/2022.coling-1.27/); [Kupor et al. (2023)](http://arxiv.org/abs/2311.10749); [Lee et al. (2023)](https://dl.acm.org/doi/10.1145/3544548.3581369); [Rooein et al. (2023)](https://arxiv.org/abs/2312.02065)</p>  
 
 Efficiently Evaluating the Faithfulness of Free-text Rationales  
-<sup>[1](http://arxiv.org/abs/2311.07466) [2](https://aclanthology.org/2023.findings-emnlp.7/) [3](https://aclanthology.org/2021.blackboxnlp-1.17/)</sup>  
+<p style="font-size:smaller;">References: [Parcalabescu & Frank (2023)](http://arxiv.org/abs/2311.07466); [Larionov et al. (2023)](https://aclanthology.org/2023.findings-emnlp.7/); [Schwarzenberg et al. (2021)](https://aclanthology.org/2021.blackboxnlp-1.17/)</p>  
 
 Explaining Disagreements in Automated Text Simplification Evaluation  
-<sup>[1](https://arxiv.org/abs/2310.00752) [2](https://aclanthology.org/2023.emnlp-main.714/) [3](http://arxiv.org/abs/2305.14770) [4](https://aclanthology.org/2023.acl-long.674/)</sup>  
+<p style="font-size:smaller;">References: [Jiang et al. (2023)](https://arxiv.org/abs/2310.00752); [Ribeiro et al. (2023)](https://aclanthology.org/2023.emnlp-main.714/); [Wadhwa et al. (2023)](http://arxiv.org/abs/2305.14770); [He et al. (2023)](https://aclanthology.org/2023.acl-long.674/)</p>  
 
 Synthesizing Training Data from Human Feedback to Natural Language Explanations  
-<sup>[1](https://aclanthology.org/2022.findings-acl.75/) [2](https://aclanthology.org/2023.findings-emnlp.791/) [3](https://aclanthology.org/2022.findings-emnlp.269/)</sup>  
+<p style="font-size:smaller;">References: [Li et al. (2022)](https://aclanthology.org/2022.findings-acl.75/); [Wang et al. (2023)](https://aclanthology.org/2023.findings-emnlp.791/); [Ye et al. (2022)](https://aclanthology.org/2022.findings-emnlp.269/)</p>  
 
 
 
