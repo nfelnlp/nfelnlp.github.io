@@ -48,6 +48,8 @@ Daniel Fernau (with [Tim Polzehl](https://www.tu.berlin/en/qu/ueber-uns/team-per
 
 ## Ongoing
 
+Yi-Sheng Hsu – Rationalization with Metric-based Readability Control  
+
 Maximilian Dustin Nasert & Christopher Ebert – Data-based Interpretability and Evaluation of Self-Rationalizing LLMs  
 
 ## Completed

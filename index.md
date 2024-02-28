@@ -7,6 +7,7 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Topics of interest are rationale generation, data-centric interpretability, information-seeking dialogue, and evaluation measures for generated text.  
 
 # News 🤩
+2024-02-28 : Two new papers in submission: A follow-up to InterroLang on the conversational examination of self-explaining LLMs (LLMCheckup) and a resource and evaluation paper on instructional explanations in teacher-student dialogues (ReWIRED).  
 2023-11-13 : InterroLang will be presented as an in-person poster at BlackboxNLP (Thu, Dec 7, 11:00 AM) and Findings (Sat, Dec 9, 09:00 AM).  
 2023-11-03 : Invited talk at [Human-Centric AI group of NEC Labs Europe, Heidelberg](https://www.neclab.eu/research-areas/data-science/human-centric-ai)  
 2023-10-08 : "InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations" accepted to EMNLP 2023 Findings! 🦁 This is my fourth first-author paper and an implementation of the Mediators precursor paper.  
@@ -31,8 +32,9 @@ My main research interest is making (neural) language models more interpretable 
 ## 2024
 
 ### ReWIRED: Instructional Explanations in Teacher-Student Dialogues
-**Nils Feldhus**, João Lucas Mendes de Lemos Lins, Aliki Anagnostopoulou, Qianli Wang, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag (*order TBD*)  
-*Work in progress*
+**Nils Feldhus**, Aliki Anagnostopoulou, João Lucas Mendes de Lemos Lins, Qianli Wang, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller  
+*In submission*  
+[OpenReview](https://openreview.net/forum?id=Y3eP_JEPqf)  
 
 ### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
@@ -154,7 +156,7 @@ Georg Rehm et al.
 
 
 # Education 👨‍🎓
-2021-2025 – Computer Science, PhD, Technische Universität Berlin. Supervised by Sebastian Möller: "Generating and evaluating human-centric explanations of language models"  
+2021-2025 – Computer Science, PhD, Technische Universität Berlin. Supervised by Sebastian Möller: "Approaches for Generating and Evaluating Natural Language Explanations of Language Models"  
 
 2016-2020 – Cognitive Systems: Language, Learning and Reasoning, MSc, University of Potsdam. Supervised by Manfred Stede: "Utilizing machine translation for bootstrapping abstractive text summarization".  
 
@@ -178,6 +180,7 @@ Georg Rehm et al.
 
 
 # Reviews ⭐
+**ACL 2024** Area Chair for Interpretability and Analysis Models for NLP track  
 **NAACL 2024**  
 **EACL 2024**  
 **EMNLP 2023** (Main conference & BlackboxNLP workshop)  
