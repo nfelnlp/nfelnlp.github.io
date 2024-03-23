@@ -6,7 +6,8 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 # Research interests 👀
 My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Topics of interest are rationale generation, data-centric interpretability, information-seeking dialogue, and evaluation measures for generated text.  
 
-# News 🤩
+# News 🤩  
+2024-03-23 : Excited to give a talk about Explanation Dialogues and the Role of Didactics in Explainability at the inaugural [BIFOLD Tutorial Day](https://www.bifold.berlin/news-events/events/tutorial-day-foundation-models) on April 30.  
 2024-02-28 : Two new papers in submission: A follow-up to InterroLang on the conversational examination of self-explaining LLMs (LLMCheckup) and a resource and evaluation paper on instructional explanations in teacher-student dialogues (ReWIRED).  
 2023-11-13 : InterroLang will be presented as an in-person poster at BlackboxNLP (Thu, Dec 7, 11:00 AM) and Findings (Sat, Dec 9, 09:00 AM).  
 2023-11-03 : Invited talk at [Human-Centric AI group of NEC Labs Europe, Heidelberg](https://www.neclab.eu/research-areas/data-science/human-centric-ai)  
@@ -176,6 +177,8 @@ Georg Rehm et al.
 
 
 # Invited Talks
+2024-04-30 : BIFOLD Tutorial Day on Foundation Models at Max Delbrück Center, Berlin – [Explanation Dialogues for Understanding Foundation Model Behavior and Teaching Concepts](https://www.bifold.berlin/news-events/events/tutorial-day-foundation-models)  
+
 2023-11-03 : NEC Labs Europe, Heidelberg – Generating and Evaluating Human-Centric Explanations of Language Model Behavior  
 
 
