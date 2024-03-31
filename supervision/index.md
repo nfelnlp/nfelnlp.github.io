@@ -1,3 +1,9 @@
+---
+layout: single
+classes: wide
+author_profile: true
+---
+
 # Supervision
 
 ## Open topics
@@ -70,6 +76,3 @@ João Lucas Mendes de Lemos Lins – Instructional explanations
 
 2021-10 - 2022-03 : MSc/BSc software project @ TU Berlin: Assessing the Quality of Machine-translated Text (with Eleftherios Avramidis & Vivien Macketanz)  
 
----
-
-<a href="{{ site.url }}/index">Back to Home</a>

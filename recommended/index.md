@@ -1,5 +1,10 @@
+---
+layout: single
+classes: wide
+author_profile: true
+---
+
 # Recommended Material
-(last updated: 2022-11-21)
 
 This page contains my favorite survey papers and tutorials related to my research.
 
@@ -35,6 +40,8 @@ This page contains my favorite survey papers and tutorials related to my researc
 - [Coming up with Research Ideas (Ribeiro, 2022)](https://medium.com/@marcotcr/coming-up-with-research-ideas-3032682e5852)
 - [The Tao of PhD](https://courses.cs.washington.edu/courses/cse590x/22wi/resources/)
 
----
 
-<a href="{{ site.url }}/index">Back to Home</a>
+# Tools I love to work with 🧰
+[PyTorch](https://pytorch.org/), [Hugging Face](https://huggingface.co/) datasets + transformers and [Captum](https://captum.ai/) : My "Explainable NLP toolbox"  
+[PyCharm](https://www.jetbrains.com/pycharm/) + [Atom](https://atom.io/) : Preferred editors for writing code  
+[Obsidian.md](https://obsidian.md/) (+ [dataview](https://github.com/blacksmithgu/obsidian-dataview/)), [Zotero](https://www.zotero.org/) and [Semantic Scholar](https://www.semanticscholar.org/) (API) : Paper management  

@@ -1,4 +1,10 @@
-<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/avatar.jpg?raw=true" width="200px" align="right">  
+---
+layout: single
+classes: wide
+author_profile: true
+---
+
+<!-- <img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/avatar.jpg?raw=true" width="200px" align="right"> -->  
 
 # Welcome 👋
 Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD thesis in explainable natural language processing at the [German Research Center for Artificial Intelligence](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) and the [Technische Universität Berlin](https://www.tu.berlin/en/) under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/).
@@ -7,6 +13,7 @@ Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD the
 My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Topics of interest are rationale generation, data-centric interpretability, information-seeking dialogue, and evaluation measures for generated text.  
 
 # News 🤩  
+2024-03-31 : New paper on disinformation detection and the role of explainability accepted to [FAccT 2024](https://facctconference.org/2024/)!  
 2024-03-23 : Excited to give a talk about Explanation Dialogues and the Role of Didactics in Explainability at the inaugural [BIFOLD Tutorial Day](https://www.bifold.berlin/news-events/events/tutorial-day-foundation-models) on April 30.  
 2024-02-28 : Two new papers in submission: A follow-up to InterroLang on the conversational examination of self-explaining LLMs (LLMCheckup) and a resource and evaluation paper on instructional explanations in teacher-student dialogues (ReWIRED).  
 2023-11-13 : InterroLang will be presented as an in-person poster at BlackboxNLP (Thu, Dec 7, 11:00 AM) and Findings (Sat, Dec 9, 09:00 AM).  
@@ -14,18 +21,8 @@ My main research interest is making (neural) language models more interpretable 
 2023-10-08 : "InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations" accepted to EMNLP 2023 Findings! 🦁 This is my fourth first-author paper and an implementation of the Mediators precursor paper.  
 2023-05-30 : [Saliency Map Verbalization](https://arxiv.org/abs/2210.07222) (first-author paper) accepted to ACL 2023! See you in Toronto! 🍁  
 2023-05-19 : [Inseq](https://gsarti.com/project/inseq/) accepted to ACL 2023!   [MultiTACRED](https://arxiv.org/abs/2305.04582) which I reviewed for my colleagues has been accepted as well.  
-2023-02-27 : Inseq pre-print published on arXiv.  
-2022-12-26 : Three papers accepted to ESSV and HUCAPP. New interpretability library Inseq (project led by Gabriele Sarti) now available on GitHub.  
-2022-11-21 : Journal paper about "Interactive Explainable AI" accepted to KI.  
-2022-10-14 : First-author paper on "Saliency Map Verbalization" is now on [arXiv](https://arxiv.org/abs/2210.07222).  
-2022-10-13 : One paper I reviewed for my colleagues was accepted to the [EMNLP 2022](https://github.com/DFKI-NLP/meffi-prompt) main track.  
-2022-07-04 : Companion paper to "Personalized Conversational Agents" accepted to SIGDIAL 2022.  
-2022-06-15 : Paper on "Personalized Conversational Agents" accepted to INTERSPEECH 2022.  
-2022-06-14 : "Mediators" is now available on arXiv.  
-2022-06-04 : First-author paper "Mediators: Conversational Agents Explaining Language Model Behavior" accepted to the IJCAI-ECAI 2022 Workshop on XAI.  
-2022-04-04 : Paper on "Textual Explanations for Clinical Decision Support" accepted to LREC as a poster.  
-2022-03-31 : Two papers I reviewed for my colleagues were accepted to the NLP-Power! and Repl4NLP workshops at [ACL 2022](https://dfki-nlp.github.io/post/acl2022/)  
-2022-03-22 : [Project report](https://graphite.page/explainable-ai-report/) on "XAI and meaningful information in automated decision-making" now available in full.  
+
+[News Archive](old_news.md)
 
 
 # Publications 📚
@@ -41,6 +38,11 @@ My main research interest is making (neural) language models more interpretable 
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
 *In submission*  
 [arXiv](https://arxiv.org/abs/2401.12576) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)
+
+### The Role of Explainability in Collaborative Human-AI Disinformation Detection
+Vera Schmitt, Luis Felipe Villa-Arenas, **Nils Feldhus**, Joachim Meyer, Robert P. Spang, and Sebastian Möller  
+*FAccT 2024*  
+Proceedings available in May 2024
 
 
 ## 2023
@@ -172,54 +174,12 @@ Georg Rehm et al.
 
 2014 – Student assistant at the Institute for Computational Linguistics @ Heidelberg University  
 
-# Supervision 👨‍‍🏫
-<a href="{{ site.url }}/supervision">Supervised theses, open topics for prospective students and taught courses</a>
-
-
-# Invited Talks
-2024-04-30 : BIFOLD Tutorial Day on Foundation Models at Max Delbrück Center, Berlin – [Explanation Dialogues for Understanding Foundation Model Behavior and Teaching Concepts](https://www.bifold.berlin/news-events/events/tutorial-day-foundation-models)  
-
-2023-11-03 : NEC Labs Europe, Heidelberg – Generating and Evaluating Human-Centric Explanations of Language Model Behavior  
-
-
-# Reviews ⭐
-**ACL 2024** Area Chair for Interpretability and Analysis Models for NLP track  
-**NAACL 2024**  
-**EACL 2024**  
-**EMNLP 2023** (Main conference & BlackboxNLP workshop)  
-**ACL 2023** (Reality Check theme track & Interpretability track)  
-**EACL 2023**  
-**EMNLP 2022** (Interpretability, Interactivity and Analysis of Models track; BlackboxNLP 2022 workshop)  
-**ACL Rolling Review** (2021 November – ongoing)  
-**ACL 2022** (+ Emergency Reviews)  
-
-As secondary reviewer:  
-NLDB 2022, BlackboxNLP 2021, EMNLP 2021, ACL 2021, NAACL 2021, WebConf 2021, IWLTP 2020, EMNLP 2020, ACL 2020
-
-
-# Recommended
-<a href="{{ site.url }}/recommended">Video tutorials and publications I recommend</a>
-
-
-# Mail 📨
-nils (dot) feldhus (at) dfki (dot) de  
-feldhusnlp (at) gmail (dot) com  
 
 # Links 🌐
 [DFKI Profile](https://www.dfki.de/en/web/about-us/employee/person/nife02)  
-[GitHub](https://github.com/nfelnlp)  
 [GitLab](https://gitlab.com/nfel)  
 [Semantic Scholar](https://www.semanticscholar.org/author/Nils-Feldhus/1641658310)  
-[Google Scholar](https://scholar.google.com/citations?user=nM50iv8AAAAJ)  
 [OpenReview](https://openreview.net/profile?id=~Nils_Feldhus1)  
-[Twitter](https://twitter.com/nfelnlp)  
-[Mastodon (sigmoid.social)](https://sigmoid.social/@feldhus)  
-
-
-# Tools I love to work with 🧰
-[PyTorch](https://pytorch.org/), [Hugging Face](https://huggingface.co/) datasets + transformers and [Captum](https://captum.ai/) : My "Explainable NLP toolbox"  
-[PyCharm](https://www.jetbrains.com/pycharm/) + [Atom](https://atom.io/) : Preferred editors for writing code  
-[Obsidian.md](https://obsidian.md/) (+ [dataview](https://github.com/blacksmithgu/obsidian-dataview/)), [Zotero](https://www.zotero.org/) and [Semantic Scholar](https://www.semanticscholar.org/) (API) : Paper management  
 
 
 # Leisure activities and other interests 🎵
