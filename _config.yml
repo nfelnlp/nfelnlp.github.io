@@ -22,12 +22,12 @@ repository               : "nfelnlp/nfelnlp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/figures/avatar.png"
+  avatar           : "avatar.png"
   name             : ""
   pronouns         : # example: "she/her"
   bio              : ""
   location         : "Berlin, Germany"
-  employer         : "German Research Center for Artificial Intelligence"
+  employer         : "DFKI & TU Berlin"
   uri              : # URL
   email            : "nils.feldhus@dfki.de"
 

@@ -4,8 +4,6 @@ classes: wide
 author_profile: true
 ---
 
-# Supervision
-
 ## Open topics
 
 InquAIrer: Conversational Model Refinement from Eliciting Expert Human Feedback using Targeted Question Generation  

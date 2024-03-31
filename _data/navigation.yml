@@ -3,14 +3,14 @@ main:
   - title: About
     url: /
 
-  - title: "Publications"
+  - title: "📚 Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "🎤 Talks"
     url: /talks/
     
-  - title: "Supervision"
+  - title: "👨‍🏫 Supervision"
     url: /supervision/
     
-  - title: "Recommended"
+  - title: "✨ Recommended"
     url: /recommended/
