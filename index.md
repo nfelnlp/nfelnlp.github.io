@@ -4,8 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-# Welcome 👋
-Welcome to my homepage! I am Nils Feldhus and am currently working on my PhD thesis in explainable natural language processing at the [German Research Center for Artificial Intelligence](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) and the [Technische Universität Berlin](https://www.tu.berlin/en/) under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/).
+Welcome! 👋 I am Nils Feldhus and am currently working on my PhD thesis in explainable natural language processing at the [German Research Center for Artificial Intelligence](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) and the [Technische Universität Berlin](https://www.tu.berlin/en/) under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/).
 
 # Research interests 👀
 My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Topics of interest are rationale generation, data-centric interpretability, information-seeking dialogue, and evaluation measures for generated text.  
