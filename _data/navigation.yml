@@ -11,6 +11,9 @@ main:
     
   - title: "👨‍🏫 Supervision"
     url: /supervision/
+
+  - title: "⭐ Service"
+    url: /service/
     
   - title: "✨ Recommended"
     url: /recommended/

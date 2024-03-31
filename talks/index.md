@@ -2,6 +2,7 @@
 layout: single
 classes: wide
 author_profile: true
+title: "Talks"
 ---
 
 2024-04-30 : BIFOLD Tutorial Day on Foundation Models at Max Delbrück Center, Berlin – [Explanation Dialogues for Understanding Foundation Model Behavior and Teaching Concepts](https://www.bifold.berlin/news-events/events/tutorial-day-foundation-models)  

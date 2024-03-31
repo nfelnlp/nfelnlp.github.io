@@ -2,6 +2,7 @@
 layout: single
 classes: wide
 author_profile: true
+title: "Recommended"
 ---
 
 This page contains my favorite survey papers and tutorials related to my research.
