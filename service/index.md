@@ -9,6 +9,7 @@ title: "Service"
 
 
 # Area Chair
+**ARR April 2024** (Interpretability and Analysis Models for NLP track)  
 **ACL 2024** (Interpretability and Analysis Models for NLP track)  
 
 
@@ -23,6 +24,7 @@ title: "Service"
 **ACL Rolling Review** (2021 November – ongoing)  
 
 ## Secondary Reviewer
+[MAI-XAI @ ECAI 2024](https://sites.google.com/view/mai-xai24/home)  
 NLDB 2022  
 EMNLP 2021  
 ACL 2021  

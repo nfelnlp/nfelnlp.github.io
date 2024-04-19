@@ -11,11 +11,16 @@ title: "Publications"
 ### ReWIRED: Instructional Explanations in Teacher-Student Dialogues
 **Nils Feldhus**, Aliki Anagnostopoulou, João Lucas Mendes de Lemos Lins, Qianli Wang, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller  
 *In submission*  
-[OpenReview](https://openreview.net/forum?id=Y3eP_JEPqf)  
+[OpenReview](https://openreview.net/forum?id=mHgNzfiApQ)  
+
+### QoEXplainer: Mediating Explainable Quality of Experience Models with Large Language Models
+Nikolas Wehner, **Nils Feldhus**\*, Michael Seufert, Sebastian Möller, and Tobias Hoßfeld  
+*In submission*  
+<sup>* joint first authorship</sup>
 
 ### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
-*In submission*  
+*NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language Processing (HCI+NLP)*  
 [arXiv](https://arxiv.org/abs/2401.12576) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)
 
 ### The Role of Explainability in Collaborative Human-AI Disinformation Detection
@@ -135,4 +140,3 @@ Karolina Zaczynska, **Nils Feldhus**\*, Robert Schwarzenberg, Aleksandra Gabrysz
 Georg Rehm et al.  
 *1st International Workshop on Language Technology Platforms (c/w LREC 2020)*  
 [IWLTP 2020 Proceedings](https://aclanthology.org/2020.iwltp-1.15/)  
-
