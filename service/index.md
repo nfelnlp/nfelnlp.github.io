@@ -21,7 +21,7 @@ title: "Service"
 **EACL 2023**  
 **EMNLP 2022** (Interpretability, Interactivity and Analysis of Models track)  
 **ACL 2022** (+ Emergency Reviews)  
-**ACL Rolling Review** (2021 November – ongoing)  
+**ACL Rolling Review** (November 2021 – August 2023)  
 
 ## Secondary Reviewer
 [MAI-XAI @ ECAI 2024](https://sites.google.com/view/mai-xai24/home)  

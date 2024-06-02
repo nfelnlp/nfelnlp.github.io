@@ -4,7 +4,8 @@ classes: wide
 author_profile: true
 ---
 
-
+2023-05-30 : [Saliency Map Verbalization](./publications/index.md#2023) (first-author paper) accepted to ACL 2023! See you in Toronto! 🍁  
+2023-05-19 : [Inseq](./publications/index.md#2023) accepted to ACL 2023! [MultiTACRED](https://aclanthology.org/2023.acl-long.210/) which I reviewed for my colleagues has been accepted as well.  
 2023-02-27 : Inseq pre-print published on arXiv.  
 2022-12-26 : Three papers accepted to ESSV and HUCAPP. New interpretability library Inseq (project led by Gabriele Sarti) now available on GitHub.  
 2022-11-21 : Journal paper about "Interactive Explainable AI" accepted to KI.  

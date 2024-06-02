@@ -15,7 +15,8 @@ title: "Publications"
 
 ### QoEXplainer: Mediating Explainable Quality of Experience Models with Large Language Models
 Nikolas Wehner, **Nils Feldhus**\*, Michael Seufert, Sebastian Möller, and Tobias Hoßfeld  
-*In submission*  
+*16th International Conference on Quality of Multimedia Experience (QoMEX 2024) Demos / ACM IMX 2024*  
+[OPUS](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/112865) | Paper and Demo coming soon  
 <sup>* joint first authorship</sup>
 
 ### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools
@@ -26,7 +27,7 @@ Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Josef van Genabith, Leonhard Hen
 ### The Role of Explainability in Collaborative Human-AI Disinformation Detection
 Vera Schmitt, Luis Felipe Villa-Arenas, **Nils Feldhus**, Joachim Meyer, Robert P. Spang, and Sebastian Möller  
 *FAccT 2024*  
-Proceedings available in May 2024
+Proceedings available in June 2024
 
 
 ## 2023

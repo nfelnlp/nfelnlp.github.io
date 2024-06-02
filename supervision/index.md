@@ -6,12 +6,12 @@ title: "Supervision"
 ---
 
 ## Ongoing
-Maximilian Bleick (with [Aljoscha Burchardt](https://www.dfki.de/~aburch/)) – BA thesis @ TU Berlin: [An Investigation of LLM Chatbots Concerning the Echo Chamber Effect](https://tu.berlin/index.php?id=246820)  
-
 Yi-Sheng Hsu (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – MSc project @ Uni Potsdam: Engineering LLM-generated Explanations with Metric-based Readability Control  
 
 
 ## Completed
+Maximilian Bleick (with [Aljoscha Burchardt](https://www.dfki.de/~aburch/)) – BA thesis @ TU Berlin: [An Investigation of LLM Chatbots Concerning the Echo Chamber Effect](https://tu.berlin/index.php?id=246820)  
+
 [Qianli Wang](https://github.com/qiaw99) (with [Leonhard Hennig](https://dfki-nlp.github.io/authors/leonhard-hennig/)) – MSC thesis @ TU Berlin: A Singular LLM Is All You Need for Dialogue-based Explanation Regarding NLP Tasks  
 
 Konstantin Biskupski (with [Eleftherios Avramidis](https://github.com/lefterav)) – MSc thesis @ TU Berlin: Quality estimation of machine-translated texts with fine-grained classification of errors  
@@ -33,7 +33,7 @@ Daniel Fernau (with [Tim Polzehl](https://www.tu.berlin/en/qu/ueber-uns/team-per
 
 Yi-Sheng Hsu – Rationalization with Metric-based Readability Control  
 
-Maximilian Dustin Nasert & Christopher Ebert – Data-based Interpretability and Evaluation of Self-Rationalizing LLMs  
+Maximilian Dustin Nasert & Christopher Ebert – Data-based Interpretability
 
 ## Completed
 [Qianli Wang](https://github.com/qiaw99) – Interactive NLP model exploration through dialogue systems  

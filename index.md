@@ -10,6 +10,7 @@ Welcome! 👋 I am Nils Feldhus and am currently working on my PhD thesis in exp
 My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Topics of interest are rationale generation, data-centric interpretability, information-seeking dialogue, and evaluation measures for generated text.  
 
 # News 🤩  
+2024-06-02 | [QoEXplainer](./publications/index.md#2024) accepted to QoMEX and ACM IMX 2024.  
 2024-04-19 | [LLMCheckup](./publications/index.md#2024) accepted to NAACL 2024 HCI+NLP! System demo paper on dialogue-based explainability for video streaming quality of experience in submission.  
 2024-03-31 | New paper on [disinformation detection and the role of explainability](./publications/index.md#2024) accepted to [FAccT 2024](https://facctconference.org/2024/)!  
 2024-03-23 : Excited to give a [talk](./talks/index.md) about Explanation Dialogues and the Role of Didactics in Explainability at the inaugural [BIFOLD Tutorial Day](https://www.bifold.berlin/news-events/events/tutorial-day-foundation-models) on April 30.  
@@ -17,8 +18,6 @@ My main research interest is making (neural) language models more interpretable 
 2023-11-13 : [InterroLang](./publications/index.md#2023) will be presented as an in-person poster at BlackboxNLP (Thu, Dec 7, 11:00 AM) and Findings (Sat, Dec 9, 09:00 AM).  
 2023-11-03 : [Invited talk](./talks/index.md) at [Human-Centric AI group of NEC Labs Europe, Heidelberg](https://www.neclab.eu/research-areas/data-science/human-centric-ai)  
 2023-10-08 : [InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations](./publications/index.md#2023) accepted to EMNLP 2023 Findings! 🦁 This is my fourth first-author paper and an implementation of the Mediators precursor paper.  
-2023-05-30 : [Saliency Map Verbalization](./publications/index.md#2023) (first-author paper) accepted to ACL 2023! See you in Toronto! 🍁  
-2023-05-19 : [Inseq](./publications/index.md#2023) accepted to ACL 2023! [MultiTACRED](https://aclanthology.org/2023.acl-long.210/) which I reviewed for my colleagues has been accepted as well.  
 
 [News Archive](old_news.md)
 
