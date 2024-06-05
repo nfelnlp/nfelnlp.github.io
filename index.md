@@ -13,7 +13,7 @@ My main research interest is making (neural) language models more interpretable 
 2024-06-02 | [QoEXplainer](./publications/index.md#2024) accepted to QoMEX and ACM IMX 2024.  
 2024-04-19 | [LLMCheckup](./publications/index.md#2024) accepted to NAACL 2024 HCI+NLP! System demo paper on dialogue-based explainability for video streaming quality of experience in submission.  
 2024-03-31 | New paper on [disinformation detection and the role of explainability](./publications/index.md#2024) accepted to [FAccT 2024](https://facctconference.org/2024/)!  
-2024-03-23 : Excited to give a [talk](./talks/index.md) about Explanation Dialogues and the Role of Didactics in Explainability at the inaugural [BIFOLD Tutorial Day](https://www.bifold.berlin/news-events/events/tutorial-day-foundation-models) on April 30.  
+2024-03-23 : Excited to give a [talk](./talks/index.md) about Explanation Dialogues at the inaugural [BIFOLD Tutorial Day](https://www.bifold.berlin/news-events/events/tutorial-day-foundation-models) on April 30.  
 2024-02-28 : Two new papers in submission: A follow-up to InterroLang on the conversational examination of self-explaining LLMs ([LLMCheckup](./publications/index.md#2024)) and a resource and evaluation paper on instructional explanations in teacher-student dialogues ([ReWIRED](./publications/index.md#2024)).  
 2023-11-13 : [InterroLang](./publications/index.md#2023) will be presented as an in-person poster at BlackboxNLP (Thu, Dec 7, 11:00 AM) and Findings (Sat, Dec 9, 09:00 AM).  
 2023-11-03 : [Invited talk](./talks/index.md) at [Human-Centric AI group of NEC Labs Europe, Heidelberg](https://www.neclab.eu/research-areas/data-science/human-centric-ai)  

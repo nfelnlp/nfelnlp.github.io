@@ -27,7 +27,7 @@ Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Josef van Genabith, Leonhard Hen
 ### The Role of Explainability in Collaborative Human-AI Disinformation Detection
 Vera Schmitt, Luis Felipe Villa-Arenas, **Nils Feldhus**, Joachim Meyer, Robert P. Spang, and Sebastian Möller  
 *FAccT 2024*  
-Proceedings available in June 2024
+[ACM Digital Library](https://dl.acm.org/doi/10.1145/3630106.3659031)
 
 
 ## 2023
