@@ -10,6 +10,7 @@ Welcome! 👋 I am Nils Feldhus and am currently working on my PhD thesis in exp
 My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Topics of interest are rationale generation, data-centric interpretability, information-seeking dialogue, and evaluation measures for generated text.  
 
 # News 🤩  
+2024-06-21 | New paper on intent recognition for conversational XAI, [CoXQL](./publications/index.md#2024), posted on arXiv.  
 2024-06-02 | [QoEXplainer](./publications/index.md#2024) accepted to QoMEX and ACM IMX 2024.  
 2024-04-19 | [LLMCheckup](./publications/index.md#2024) accepted to NAACL 2024 HCI+NLP! System demo paper on dialogue-based explainability for video streaming quality of experience in submission.  
 2024-03-31 | New paper on [disinformation detection and the role of explainability](./publications/index.md#2024) accepted to [FAccT 2024](https://facctconference.org/2024/)!  
@@ -31,11 +32,10 @@ My main research interest is making (neural) language models more interpretable 
 2013-2016 – Computational Linguistics, BA, Heidelberg University. Supervised by Katja Markert: "An in-depth investigation on timeline summarization evaluation".  
 
 # Jobs 👨‍💼
-2021-ongoing – [Researcher/Software Engineer](https://www.dfki.de/en/web/about-us/employee/person/nife02) @ German Research Institute for Artificial Intelligence (DFKI), Berlin, [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) group.  
-[XAINES - Explaining AI with Narratives](https://www.dfki.de/en/web/research/projects-and-publications/projects-overview/project/xaines) project, supervised by Sebastian Möller.  
-
-2020-2021 – Researcher/Software Engineer @ German Research Institute for Artificial Intelligence (DFKI), Berlin, [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) group.  
-[European Language Grid](https://live.european-language-grid.eu/) project, supervised by Georg Rehm.  
+2020-2025 – [Researcher/Software Engineer](https://www.dfki.de/en/web/about-us/employee/person/nife02) @ German Research Institute for Artificial Intelligence (DFKI), Berlin, [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) group.  
+2024-2025: [PYSA - Care documentation with a hybrid speech assistant](https://www.dfki.de/en/web/research/projects-and-publications/project/pysa) project, supervised by Sebastian Möller and Tim Polzehl.  
+2021-2024: [XAINES - Explaining AI with Narratives](https://www.dfki.de/en/web/research/projects-and-publications/projects-overview/project/xaines) project, supervised by Sebastian Möller.  
+2020-2021: [European Language Grid](https://live.european-language-grid.eu/) project, supervised by Georg Rehm.  
 
 2014 – Student assistant at the Institute for Computational Linguistics @ Heidelberg University  
 

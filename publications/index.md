@@ -8,6 +8,11 @@ title: "Publications"
 
 ## 2024
 
+### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems  
+Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, and Sebastian Möller  
+*In submission*  
+[arXiv](https://arxiv.org/abs/2406.08101) | [GitHub](https://github.com/DFKI-NLP/CoXQL)  
+
 ### ReWIRED: Instructional Explanations in Teacher-Student Dialogues
 **Nils Feldhus**, Aliki Anagnostopoulou, João Lucas Mendes de Lemos Lins, Qianli Wang, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller  
 *In submission*  
@@ -22,7 +27,7 @@ Nikolas Wehner, **Nils Feldhus**\*, Michael Seufert, Sebastian Möller, and Tobi
 ### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
 *NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language Processing (HCI+NLP)*  
-[arXiv](https://arxiv.org/abs/2401.12576) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)
+[ACL Anthology](https://aclanthology.org/2024.hcinlp-1.9) | [arXiv](https://arxiv.org/abs/2401.12576) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)
 
 ### The Role of Explainability in Collaborative Human-AI Disinformation Detection
 Vera Schmitt, Luis Felipe Villa-Arenas, **Nils Feldhus**, Joachim Meyer, Robert P. Spang, and Sebastian Möller  

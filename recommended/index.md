@@ -13,9 +13,10 @@ This page contains my favorite survey papers and tutorials related to my researc
 * [CMU Advanced NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6) by Graham Neubig (30h 17min)
 
 ### Explainability Foundations
-* [Interpreting Predictions of NLP Models (Wallace et al., 2020)](https://www.youtube.com/watch?v=gprIzglUW1s) (EMNLP 2020) (4h 27min)
-* [Interpretability and Analysis in Neural NLP (Belinkov et al., 2020)](https://virtual.acl2020.org/tutorial_T1.html) (ACL 2020) (2h 56min)
-* [Human-Centered Evaluation of Explanations (Boyd-Graber et al., 2022)](https://xai-hcee.github.io/) (NAACL 2022) (2h 4min)
+* [Interpreting Predictions of NLP Models (Wallace et al., 2020)](https://www.youtube.com/watch?v=gprIzglUW1s) (EMNLP 2020) (4h 27min)  
+* [Interpretability and Analysis in Neural NLP (Belinkov et al., 2020)](https://virtual.acl2020.org/tutorial_T1.html) (ACL 2020) (2h 56min)  
+* [Human-Centered Evaluation of Explanations (Boyd-Graber et al., 2022)](https://xai-hcee.github.io/) (NAACL 2022) (2h 4min)  
+* [Explanations in the Era of Large Language Models (Zhu et al., 2024)](https://explanation-llm.github.io/) (NAACL 2024)  
 
 ## Recommended literature
 ### Explainable NLP
