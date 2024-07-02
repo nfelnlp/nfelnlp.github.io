@@ -10,6 +10,7 @@ Welcome! 👋 I am Nils Feldhus and am currently working on my PhD thesis in exp
 My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Topics of interest are rationale generation, data-centric interpretability, information-seeking dialogue, and evaluation measures for generated text.  
 
 # News 🤩  
+2024-07-02 | Two new co-authored papers: On [free-text rationale generation and readability](./publications/index.md#2024) (posted on arXiv) and on [feature attribution for multimodal medical decision support](./publications/index.md#2024) (accepted to BioNLP @ ACL 2024).  
 2024-06-21 | New paper on intent recognition for conversational XAI, [CoXQL](./publications/index.md#2024), posted on arXiv.  
 2024-06-02 | [QoEXplainer](./publications/index.md#2024) accepted to QoMEX and ACM IMX 2024.  
 2024-04-19 | [LLMCheckup](./publications/index.md#2024) accepted to NAACL 2024 HCI+NLP! System demo paper on dialogue-based explainability for video streaming quality of experience in submission.  

@@ -5,11 +5,9 @@ author_profile: true
 title: "Supervision"
 ---
 
-## Ongoing
+## Completed
 Yi-Sheng Hsu (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – MSc project @ Uni Potsdam: Engineering LLM-generated Explanations with Metric-based Readability Control  
 
-
-## Completed
 Maximilian Bleick (with [Aljoscha Burchardt](https://www.dfki.de/~aburch/)) – BA thesis @ TU Berlin: [An Investigation of LLM Chatbots Concerning the Echo Chamber Effect](https://tu.berlin/index.php?id=246820)  
 
 [Qianli Wang](https://github.com/qiaw99) (with [Leonhard Hennig](https://dfki-nlp.github.io/authors/leonhard-hennig/)) – MSC thesis @ TU Berlin: A Singular LLM Is All You Need for Dialogue-based Explanation Regarding NLP Tasks  
@@ -31,7 +29,7 @@ Daniel Fernau (with [Tim Polzehl](https://www.tu.berlin/en/qu/ueber-uns/team-per
 
 ## Ongoing
 
-Yi-Sheng Hsu – Rationalization with Metric-based Readability Control  
+Yi-Sheng Hsu – Explanation Dialogues; Rationalization with Metric-based Readability Control  
 
 Maximilian Dustin Nasert & Christopher Ebert – Data-based Interpretability
 

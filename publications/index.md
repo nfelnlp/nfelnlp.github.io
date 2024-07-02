@@ -7,6 +7,14 @@ title: "Publications"
 
 
 ## 2024
+### Free-text Rationale Generation under Readability Level Control  
+Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  
+*In submission*  
+[arXiv](https://arxiv.org/abs/2407.01384)  
+
+### The Value of Text for Multimodal Decision Support using XAI
+Ajay Madhavan Ravichandran, Julianna Grune, **Nils Feldhus**, Roland Roller, Aljoscha Burchardt, and Sebastian Möller  
+*BioNLP @ ACL 2024*  
 
 ### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems  
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, and Sebastian Möller  
