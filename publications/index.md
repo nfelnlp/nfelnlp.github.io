@@ -7,7 +7,12 @@ title: "Publications"
 
 
 ## 2024
-### Free-text Rationale Generation under Readability Level Control  
+### Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues
+**Nils Feldhus**, Aliki Anagnostopoulou, Qianli Wang, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller  
+*ACM GoodIT 2024 (Work in Progress track)*  
+[OpenReview (previous version submitted to ARR)](https://openreview.net/forum?id=mHgNzfiApQ) | Proceedings available in September  
+
+### Free-text Rationale Generation under Readability Level Control
 Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  
 *In submission*  
 [arXiv](https://arxiv.org/abs/2407.01384)  
@@ -16,15 +21,10 @@ Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov
 Ajay Madhavan Ravichandran, Julianna Grune, **Nils Feldhus**, Roland Roller, Aljoscha Burchardt, and Sebastian Möller  
 *BioNLP @ ACL 2024*  
 
-### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems  
+### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, and Sebastian Möller  
 *In submission*  
 [arXiv](https://arxiv.org/abs/2406.08101) | [GitHub](https://github.com/DFKI-NLP/CoXQL)  
-
-### ReWIRED: Instructional Explanations in Teacher-Student Dialogues
-**Nils Feldhus**, Aliki Anagnostopoulou, João Lucas Mendes de Lemos Lins, Qianli Wang, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller  
-*In submission*  
-[OpenReview](https://openreview.net/forum?id=mHgNzfiApQ)  
 
 ### QoEXplainer: Mediating Explainable Quality of Experience Models with Large Language Models
 Nikolas Wehner, **Nils Feldhus**\*, Michael Seufert, Sebastian Möller, and Tobias Hoßfeld  
@@ -35,30 +35,30 @@ Nikolas Wehner, **Nils Feldhus**\*, Michael Seufert, Sebastian Möller, and Tobi
 ### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
 *NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language Processing (HCI+NLP)*  
-[ACL Anthology](https://aclanthology.org/2024.hcinlp-1.9) | [arXiv](https://arxiv.org/abs/2401.12576) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)
+[ACL Anthology](https://aclanthology.org/2024.hcinlp-1.9) | [arXiv](https://arxiv.org/abs/2401.12576) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)  
 
 ### The Role of Explainability in Collaborative Human-AI Disinformation Detection
 Vera Schmitt, Luis Felipe Villa-Arenas, **Nils Feldhus**, Joachim Meyer, Robert P. Spang, and Sebastian Möller  
 *FAccT 2024*  
-[ACM Digital Library](https://dl.acm.org/doi/10.1145/3630106.3659031)
+[ACM Digital Library](https://dl.acm.org/doi/10.1145/3630106.3659031)  
 
 
 ## 2023
 
 <a href="https://aclanthology.org/2023.findings-emnlp.359/"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InterroLang_Logo.png?raw=true" width="150px" align="right"></a>  
-### InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations  
+### InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations
 **Nils Feldhus**, Qianli Wang, Tatiana Anikina, Sahil Chopra, Cennet Oguz, and Sebastian Möller  
 *EMNLP 2023 Findings* & *[BlackboxNLP](https://blackboxnlp.github.io/) Workshop*  
 [ACL Anthology](https://aclanthology.org/2023.findings-emnlp.359/) | [arXiv](https://arxiv.org/abs/2310.05592) | [GitHub](https://github.com/DFKI-NLP/InterroLang)  
 
 <a href="https://aclanthology.org/2023.nlrse-1.4/"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/SMV_FontLogo.png?raw=true" width="175px" align="right"></a>  
-### Saliency Map Verbalization: Comparing Feature Importance Representations from Model-free and Instruction-based Methods  
+### Saliency Map Verbalization: Comparing Feature Importance Representations from Model-free and Instruction-based Methods
 **Nils Feldhus**, Leonhard Hennig, Maximilian Dustin Nasert, Christopher Ebert, Robert Schwarzenberg, and Sebastian Möller  
 *ACL 2023 Workshop on Natural Language Reasoning and Structured Explanations (NLRSE)*  
 [ACL Anthology](https://aclanthology.org/2023.nlrse-1.4/) | [arXiv](https://arxiv.org/abs/2210.07222) | [GitHub](https://github.com/DFKI-NLP/SMV)  
 
 <a href="https://github.com/inseq-team/inseq"><img src="https://raw.githubusercontent.com/inseq-team/inseq/main/docs/source/images/inseq_logo.png" width="200px" align="right"></a>  
-### Inseq: An Interpretability Toolkit for Sequence Generation Models  
+### Inseq: An Interpretability Toolkit for Sequence Generation Models
 Gabriele Sarti, **Nils Feldhus**, Ludwig Sickert, Oskar van der Wal, Malvina Nissim, and Arianna Bisazza  
 *ACL 2023 System Demonstrations*  
 [ACL Anthology](https://aclanthology.org/2023.acl-demo.40/) | [arXiv](http://arxiv.org/abs/2302.13942) | [GitHub](https://github.com/inseq-team/inseq) | [Project page](https://gsarti.com/project/inseq/)  
@@ -102,7 +102,7 @@ Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, and Tim Polzehl
 *[INTERSPEECH 2022](http://interspeech2022.org/)*  
 [ISCA Proceedings](https://doi.org/10.21437/Interspeech.2022-376)  
 
-### A Comparison of Feature Extraction Models for Medical Image Captioning  
+### A Comparison of Feature Extraction Models for Medical Image Captioning
 Sebastian Germer, Hristina Uzunova, Jan Ehrhardt, **Nils Feldhus**, Philippe Thomas, and Heinz Handels  
 *GMDS-TMF 2022*  
 [PDF](https://access.online-registry.net/gmds2022/temp/export/exp_1665555575167_e3b7.pdf)  
@@ -112,7 +112,7 @@ Roland Roller, Aljoscha Burchardt, **Nils Feldhus**, Laura Seiffe, Klemens Budde
 *LREC 2022*  
 [ACL Anthology](https://aclanthology.org/2022.lrec-1.248/)  
 
-### What to explain when explaining is difficult? An interdisciplinary primer on XAI and meaningful information in automated decision-making  
+### What to explain when explaining is difficult? An interdisciplinary primer on XAI and meaningful information in automated decision-making
 Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Fassbinder, **Nils Feldhus**, Freya Hewett, Vincent Hofmann, Matthias C. Kettemann, Wolfgang Schulz, Judith Simon, Jakob Stolberg-Larsen, and Theresa Züger  
 *Project report* (published 2022-03-22)  
 [Full report](https://graphite.page/explainable-ai-report/)  
@@ -124,7 +124,7 @@ Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Fassbinde
 ### Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools
 **Nils Feldhus**, Robert Schwarzenberg, and Sebastian Möller  
 *2021 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*  
-[ACL Anthology](https://aclanthology.org/2021.emnlp-demo.11/) | [arXiv](https://arxiv.org/abs/2108.13961) | [GitHub](https://github.com/DFKI-NLP/thermostat) | [Video](https://aclanthology.org/2021.emnlp-demo.11.mp4)
+[ACL Anthology](https://aclanthology.org/2021.emnlp-demo.11/) | [arXiv](https://arxiv.org/abs/2108.13961) | [GitHub](https://github.com/DFKI-NLP/thermostat) | [Video](https://aclanthology.org/2021.emnlp-demo.11.mp4)  
 
 ### Efficient Explanations from Empirical Explainers
 Robert Schwarzenberg, **Nils Feldhus**, and Sebastian Möller  
@@ -153,4 +153,4 @@ Karolina Zaczynska, **Nils Feldhus**\*, Robert Schwarzenberg, Aleksandra Gabrysz
 ### Towards an Interoperable Ecosystem of AI and LT Platforms: A Roadmap for the Implementation of Different Levels of Interoperability
 Georg Rehm et al.  
 *1st International Workshop on Language Technology Platforms (c/w LREC 2020)*  
-[IWLTP 2020 Proceedings](https://aclanthology.org/2020.iwltp-1.15/)  
+[IWLTP 2020 Proceedings](https://aclanthology.org/2020.iwltp-1.15/)
