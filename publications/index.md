@@ -7,6 +7,11 @@ title: "Publications"
 
 
 ## 2024
+### German Voter Personas can Radicalize LLM Chatbots via the Echo Chamber Effect
+Maximilian Bleick, **Nils Feldhus**, Aljoscha Burchardt, and Sebastian Möller  
+*INLG 2024*  
+Proceedings available in September  
+
 ### Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues
 **Nils Feldhus**, Aliki Anagnostopoulou, Qianli Wang, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller  
 *ACM GoodIT 2024 (Work in Progress track)*  
@@ -20,6 +25,7 @@ Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov
 ### The Value of Text for Multimodal Decision Support using XAI
 Ajay Madhavan Ravichandran, Julianna Grune, **Nils Feldhus**, Roland Roller, Aljoscha Burchardt, and Sebastian Möller  
 *BioNLP @ ACL 2024*  
+[ACL Anthology](https://preview.aclanthology.org/bionlp-24-ingestion/2024.bionlp-1.41/)  
 
 ### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, and Sebastian Möller  
