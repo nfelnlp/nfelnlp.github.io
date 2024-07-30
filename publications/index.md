@@ -7,11 +7,13 @@ title: "Publications"
 
 
 ## 2024
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/ECLLMs_Logo.png?raw=true" width="125px" align="right"> 
 ### German Voter Personas can Radicalize LLM Chatbots via the Echo Chamber Effect
 Maximilian Bleick, **Nils Feldhus**, Aljoscha Burchardt, and Sebastian Möller  
 *INLG 2024*  
 Proceedings available in September  
 
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InstruX_Logo.png?raw=true" width="125px" align="right"> 
 ### Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues
 **Nils Feldhus**, Aliki Anagnostopoulou, Qianli Wang, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller  
 *ACM GoodIT 2024 (Work in Progress track)*  
@@ -35,9 +37,10 @@ Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, and Sebastian M
 ### QoEXplainer: Mediating Explainable Quality of Experience Models with Large Language Models
 Nikolas Wehner, **Nils Feldhus**\*, Michael Seufert, Sebastian Möller, and Tobias Hoßfeld  
 *16th International Conference on Quality of Multimedia Experience (QoMEX 2024) Demos / ACM IMX 2024*  
-[OPUS](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/112865) | Paper and Demo coming soon  
+[IEEE Xplore](https://doi.org/10.1109/QoMEX61742.2024.10598297)  
 <sup>* joint first authorship</sup>
 
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/LLMCheckup_Logo.png?raw=true" width="125px" align="right"> 
 ### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
 *NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language Processing (HCI+NLP)*  
