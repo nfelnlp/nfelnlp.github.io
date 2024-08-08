@@ -4,6 +4,9 @@ classes: wide
 author_profile: true
 title: "Supervision"
 ---
+## Ongoing
+Yi-Sheng Hsu (with [Manfred Stede](https://www.ling.uni-potsdam.de/~stede/)) – MSc thesis @ Uni Potsdam: Evaluating LLM-generated Explanatory Utterances through Dialogue Completion  
+
 
 ## Completed
 Yi-Sheng Hsu (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – MSc project @ Uni Potsdam: Engineering LLM-generated Explanations with Metric-based Readability Control  
