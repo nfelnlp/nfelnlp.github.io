@@ -27,7 +27,7 @@ Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov
 ### The Value of Text for Multimodal Decision Support using XAI
 Ajay Madhavan Ravichandran, Julianna Grune, **Nils Feldhus**, Roland Roller, Aljoscha Burchardt, and Sebastian Möller  
 *BioNLP @ ACL 2024*  
-[ACL Anthology](https://preview.aclanthology.org/bionlp-24-ingestion/2024.bionlp-1.41/)  
+[ACL Anthology](https://aclanthology.org/2024.bionlp-1.41/)  
 
 ### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, and Sebastian Möller  

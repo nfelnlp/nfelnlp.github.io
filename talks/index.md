@@ -5,6 +5,8 @@ author_profile: true
 title: "Talks"
 ---
 
+2024-09-13 : NAIST (Nara, Japan), hosted by [Eiji Aramaki](https://luululu.com/en/) – Human-centric Explainable Natural Language Processing
+
 2024-07-24 : [xAI Lab](https://aix-group.github.io/) Research Seminar @ Uni Marburg, hosted by Christin Seifert – Explanation Dialogues for Understanding Language Model Behavior
 
 2024-07-16 : [Potsdam Computational Linguistics Colloquium, Universität Potsdam](https://github.com/compling-potsdam/ptsdm-clclq), hosted by David Schlangen – Explanation Dialogues for Understanding Language Model Behavior

@@ -10,6 +10,7 @@ Welcome! 👋 I am Nils Feldhus and am currently working on my PhD thesis in exp
 My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Topics of interest are rationale generation, data-centric interpretability, information-seeking dialogue, and evaluation measures for generated text.  
 
 # News 🤩  
+2024-09-08 | Traveling to Japan next week! 🗾 I will first give a talk at [Eiji Aramaki's Social Computing Lab](https://luululu.com/en/) at NAIST (Nara), attend the [YRRSDS](https://sites.google.com/view/yrrsds2024/program) and SIGDIAL 2024 in Kyoto, and then head to Tokyo for [INLG 2024](https://inlg2024.github.io/program.html).  
 2024-07-21 | Paper on [sycophancy and political bias evaluation of (German) LLMs](./publications/index.md#2024) accepted to INLG 2024. I will visit Tokyo and present the poster on behalf of Max who I supervised. 🗼  
 2024-07-12 | First-author paper on [instructional explanations in teacher-student dialogues](./publications/index.md#2024) accepted to ACM GoodIT. 🗝  
 2024-07-02 | Two new co-authored papers: On [free-text rationale generation and readability](./publications/index.md#2024) (posted on arXiv) and on [feature attribution for multimodal medical decision support](./publications/index.md#2024) (accepted to BioNLP @ ACL 2024).  
