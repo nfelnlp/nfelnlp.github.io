@@ -7,17 +7,27 @@ title: "Publications"
 
 
 ## 2024
-<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InstruX_Logo.png?raw=true" width="125px" align="right"> 
-### Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues
-**Nils Feldhus**, Aliki Anagnostopoulou, Qianli Wang, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller  
-*ACM GoodIT 2024 (Work in Progress track)*  
-[ACM Digital Library](https://dl.acm.org/doi/10.1145/3677525.3678665) | [OpenReview (previous version submitted to ARR)](https://openreview.net/forum?id=mHgNzfiApQ)  
+### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
+Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Sebastian Möller, and Vera Schmitt  
+*In submission*  
+[arXiv](https://arxiv.org/abs/2409.07123)  
 
 <img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/ECLLMs_Logo.png?raw=true" width="125px" align="right"> 
 ### German Voter Personas can Radicalize LLM Chatbots via the Echo Chamber Effect
 Maximilian Bleick, **Nils Feldhus**, Aljoscha Burchardt, and Sebastian Möller  
 *INLG 2024*  
-Proceedings available in September  
+[ACL Anthology](https://aclanthology.org/2024.inlg-main.13/)  
+
+### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems
+Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, and Sebastian Möller  
+*EMNLP 2024 Findings*  
+[arXiv](https://arxiv.org/abs/2406.08101) | [GitHub](https://github.com/DFKI-NLP/CoXQL)  
+
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InstruX_Logo.png?raw=true" width="125px" align="right"> 
+### Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues
+**Nils Feldhus**, Aliki Anagnostopoulou, Qianli Wang, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller  
+*ACM GoodIT 2024 (Work in Progress track)*  
+[ACM Digital Library](https://dl.acm.org/doi/10.1145/3677525.3678665) | [OpenReview (previous version submitted to ARR)](https://openreview.net/forum?id=mHgNzfiApQ)  
 
 ### Free-text Rationale Generation under Readability Level Control
 Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  
@@ -28,11 +38,6 @@ Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov
 Ajay Madhavan Ravichandran, Julianna Grune, **Nils Feldhus**, Roland Roller, Aljoscha Burchardt, and Sebastian Möller  
 *BioNLP @ ACL 2024*  
 [ACL Anthology](https://aclanthology.org/2024.bionlp-1.41/)  
-
-### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems
-Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, and Sebastian Möller  
-*In submission*  
-[arXiv](https://arxiv.org/abs/2406.08101) | [GitHub](https://github.com/DFKI-NLP/CoXQL)  
 
 ### QoEXplainer: Mediating Explainable Quality of Experience Models with Large Language Models
 Nikolas Wehner, **Nils Feldhus**\*, Michael Seufert, Sebastian Möller, and Tobias Hoßfeld  

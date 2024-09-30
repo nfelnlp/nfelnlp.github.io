@@ -49,15 +49,6 @@ João Lucas Mendes de Lemos Lins – Instructional explanations
 ---
 
 
-# Courses
-2022-10 - 2023-03 : Explainability in Natural Language Processing @ TU Berlin. Topics: (1) Contrastive Explanations of Text Generation Models. (2) Explainable Fact Checking.  
-
-2021-10 - 2022-03 : MSc/BSc software project @ TU Berlin: Assessing the Quality of Machine-translated Text (with Eleftherios Avramidis & Vivien Macketanz)  
-
-
----
-
-
 # Open topics
 
 Conversational Model Refinement  

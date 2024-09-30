@@ -9,7 +9,10 @@ main:
   - title: "🎤 Talks"
     url: /talks/
     
-  - title: "👨‍🏫 Supervision"
+  - title: "👨‍🏫 Teaching"
+    url: /teaching/
+    
+  - title: "👥 Supervision"
     url: /supervision/
 
   - title: "⭐ Service"

@@ -21,6 +21,7 @@ This page contains my favorite survey papers and tutorials related to my researc
 ## Recommended literature
 ### Explainable NLP
 * Methods: [Post-hoc Interpretability for Neural NLP: A Survey (Madsen et al., 2022)](https://dl.acm.org/doi/10.1145/3546577) (ACM CSUR 2022)
+* Component Analysis and Mechanistic Interpretability: [A Primer on the Inner Workings of Transformer-based Language Models (Ferrando et al., 2024)](https://arxiv.org/abs/2405.00208)
 * Datasets: [Teach Me to Explain: A Review of Datasets for Explainable NLP (Wiegreffe & Marasović, 2021)](https://exnlpdatasets.github.io/) (NeurIPS 2021)
 * Paper summaries: [Opinions on Interpretable Machine Learning and 70 Summaries of Recent Papers (Hase & Shen, 2021)](https://www.alignmentforum.org/posts/GEPX7jgLMB8vR2qaK/opinions-on-interpretable-machine-learning-and-70-summaries)
 * Social sciences: [Explanation in Artificial Intelligence: Insights from the Social Sciences (Miller, 2019)](https://doi.org/10.1016/j.artint.2018.07.007) (Artificial Intelligence 2019)
