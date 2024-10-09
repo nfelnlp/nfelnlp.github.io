@@ -20,7 +20,7 @@ Explaining these models, i.e. developing computational approaches to explain the
 Our goal is the implementation of explainability methods and subsequent analysis and evaluation of the results. Special focus should be given to the implications on usability of various types of explanations and to the application to downstream tasks like question answering, fact checking, commonsense reasoning, and text classification. 
 
 **Project requirements**
-* Advanced knowledge of Python 
+* Intermediate or advanced knowledge of Python 
 * Prior experience in at least one previous course/project with neural natural language processing or deep learning 
 * Prior experience in at least one previous course/project with PyTorch or TensorFlow and Hugging Face
 * Course language: English (student consultations can optionally be done in German) 
@@ -30,8 +30,6 @@ Our goal is the implementation of explainability methods and subsequent analysis
 * [Interdisziplinäres Medienprojekt](https://www.tu.berlin/index.php?id=18765) (10LP)
 
 ## Schedule
-Date | Topic  
---- | ---  
 2024-10-14 | Application deadline  
 2024-10-18 | Acceptance notification  
 2024-10-21 | Moses registration deadline (14:00)  
@@ -41,7 +39,7 @@ Date | Topic
 2024-12-20 | Last possible individual group meeting before christmas break  
 2025-01-07 | First possible individual group meeting after christmas break  
 2025-02-14 | Final presentations (in-person, room TBD)  
-2024-03-30 | Submission deadline for written project reports 
+2025-03-30 | Submission deadline for written project reports 
 
 ### Possible individual group meeting dates
 * Tuesdays 16:00 – 17:00

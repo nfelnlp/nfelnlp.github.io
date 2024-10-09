@@ -5,7 +5,9 @@ author_profile: true
 title: "Talks"
 ---
 
-2024-09-13 : NAIST (Nara, Japan), hosted by [Eiji Aramaki](https://luululu.com/en/) – Human-centric Explainable Natural Language Processing
+2024-10-08 : CLAUSE Group @ Uni Bielefeld, hosted by [Sina Zarrieß](https://sinazarriess.github.io/) – Approaches for Generating and Evaluating Natural Language Explanations of Language Models
+
+2024-09-13 : Social Computing Lab @ NAIST (Nara, 🇯🇵), hosted by [Eiji Aramaki](https://luululu.com/en/) – Human-centric Explainable Natural Language Processing
 
 2024-07-24 : [xAI Lab](https://aix-group.github.io/) Research Seminar @ Uni Marburg, hosted by Christin Seifert – Explanation Dialogues for Understanding Language Model Behavior
 
