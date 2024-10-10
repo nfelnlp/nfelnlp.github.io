@@ -7,7 +7,7 @@ title: "Explainability for Large Language Models"
 
 ## When and where the weekly meetings will take place
 * TU Berlin, [QU Lab](https://www.tu.berlin/qu/)
-* Fridays 16:00 – 18:00
+* Tuesdays 16:00 – 18:00
 * Room: Virtual via Microsoft Teams (final meeting for group presentations will take place on campus, room TBD)
 
 ## Description
@@ -30,7 +30,7 @@ Our goal is the implementation of explainability methods and subsequent analysis
 * [Interdisziplinäres Medienprojekt](https://www.tu.berlin/index.php?id=18765) (10LP)
 
 ## Schedule
-2024-10-14 | Application deadline  
+2024-10-14 | [Deadline for application (Google Forms)](https://docs.google.com/forms/d/e/1FAIpQLSetRWC57i418x_q0emvperJJfObt8Z2HiQ0sFTx08a4Qs1NWw/viewform)  
 2024-10-18 | Acceptance notification  
 2024-10-21 | Moses registration deadline (14:00)  
 2024-10-25 | Introduction (Part 1); Proposal of topics  
