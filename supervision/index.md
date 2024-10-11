@@ -4,6 +4,9 @@ classes: wide
 author_profile: true
 title: "Supervision"
 ---
+
+# [Open Topics](./topics.md)
+
 ## Ongoing
 Yi-Sheng Hsu (with [Manfred Stede](https://www.ling.uni-potsdam.de/~stede/)) – MSc thesis @ Uni Potsdam: Evaluating LLM-generated Explanatory Utterances through Dialogue Completion  
 
