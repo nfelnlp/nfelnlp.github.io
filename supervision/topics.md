@@ -49,11 +49,11 @@ How can we expose and express knowledge conflicts in LLMs resulting from poor te
 **Simplifying Outcomes of Language Model Component Analyses**  
 How can results and findings from LM component analysis and mechanistic interpretability studies that are very hard to comprehend for non-experts be simplified and illustrated?  
 <p style="font-size:smaller;">
-[1] <a href="https://aclanthology.org/2023.blackboxnlp-1.24/">Huang et al. (2023)</a><br>
-[2] <a href="https://arxiv.org/abs/2305.09863">Singh et al. (2023)</a><br>
-[3] <a href="https://aclanthology.org/2023.findings-emnlp.939/">Katz & Belinkov (2023)</a><br>
-[4] <a href="https://arxiv.org/abs/2310.03084">Bayazit et al. (2024)</a><br>
-[5] <a href="https://arxiv.org/abs/2310.15213">Todd et al. (2024)</a><br>
-[6] <a href="https://aclanthology.org/2024.acl-demos.6/">Tufanov et al. (2024)</a><br>
-[7] <a href="https://arxiv.org/abs/2405.00208">Ferrando et al. (2024)</a>
+[1] <a href="https://aclanthology.org/2023.blackboxnlp-1.24/">NLEs for Neurons (Huang et al., BlackboxNLP 2023)</a><br>
+[2] <a href="https://arxiv.org/abs/2305.09863">Summarize and Score (Singh et al., 2023)</a><br>
+[3] <a href="https://aclanthology.org/2023.findings-emnlp.939/">Interpreting the Semantic Flow with VISIT (Katz & Belinkov, EMNLP 2023 Findings)</a><br>
+[4] <a href="https://arxiv.org/abs/2310.03084">Knowledge-Critical Subnetworks (Bayazit et al., 2024)</a><br>
+[5] <a href="https://arxiv.org/abs/2310.15213">Function Vectors (Todd et al., ICLR 2024)</a><br>
+[6] <a href="https://aclanthology.org/2024.acl-demos.6/">LM Transparency Tool (Tufanov et al., ACL 2024 Demos)</a><br>
+[7] <a href="https://arxiv.org/abs/2405.00208">Primer on Component Analysis Methods (Ferrando et al., 2024)</a>
 </p>
