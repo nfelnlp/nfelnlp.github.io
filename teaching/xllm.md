@@ -8,7 +8,7 @@ title: "Explainability for Large Language Models"
 ## When and where the weekly meetings will take place
 * TU Berlin, [QU Lab](https://www.tu.berlin/qu/)
 * Tuesdays 16:00 – 18:00
-* Room: Virtual via Microsoft Teams (final meeting for group presentations will take place on campus, room TBD)
+* Room: Virtual via Microsoft Teams (link is available via the [TU's ISIS course page](https://isis.tu-berlin.de/course/view.php?id=41326); final meeting for group presentations will take place on campus, room TBD)
 
 ## Description
 
@@ -33,12 +33,12 @@ Our goal is the implementation of explainability methods and subsequent analysis
 2024-10-14 | [Deadline for application (Google Forms)](https://docs.google.com/forms/d/e/1FAIpQLSetRWC57i418x_q0emvperJJfObt8Z2HiQ0sFTx08a4Qs1NWw/viewform)  
 2024-10-18 | Acceptance notification  
 2024-10-21 | Moses registration deadline (14:00)  
-2024-10-25 | Introduction (Part 1); Proposal of topics  
-2024-11-01 | Introduction (Part 2); Forming of groups and assignment of topics  
+2024-10-22 | Introduction (Part 1); Proposal of topics  
+2024-10-29 | Introduction (Part 2); Forming of groups and assignment of topics  
 2024-11-05 | First individual group meetings (exact dates will be set for each group depending on their preferred slot)  
 2024-12-20 | Last possible individual group meeting before christmas break  
 2025-01-07 | First possible individual group meeting after christmas break  
-2025-02-14 | Final presentations (in-person, room TBD)  
+2025-02-04 | Final presentations (in-person, room TBD)  
 2025-03-30 | Submission deadline for written project reports 
 
 ### Possible individual group meeting dates

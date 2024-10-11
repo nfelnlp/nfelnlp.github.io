@@ -43,7 +43,7 @@ How can we expose and express knowledge conflicts in LLMs resulting from poor te
 [7] <a href="http://arxiv.org/abs/2310.00935">Resolving Knowledge Conflicts (Wang et al., COLM 2024)</a><br>
 [8] <a href="https://openreview.net/forum?id=gfFVATffPd">SAT Probe (Yuksekgonul et al., ICLR 2024)</a><br>
 [9] <a href="https://aclanthology.org/2024.naacl-long.46/">MONITOR metric (Wang et al., NAACL 2024)</a>
-</p>
+</p><br>
 
 <!-- CircuiTeX -->
 **Simplifying Outcomes of Language Model Component Analyses**  
