@@ -11,9 +11,15 @@ main:
     
   - title: "👨‍🏫 Teaching"
     url: /teaching/
+    children:
+      - title: "XLLM"
+        url: /teaching/xllm/
     
   - title: "👥 Supervision"
     url: /supervision/
+    children:
+      - title: "Open Topics"
+        url: /supervision/topics/
 
   - title: "⭐ Service"
     url: /service/

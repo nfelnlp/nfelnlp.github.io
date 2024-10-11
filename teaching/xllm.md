@@ -42,6 +42,8 @@ Our goal is the implementation of explainability methods and subsequent analysis
 2025-03-30 | Submission deadline for written project reports 
 
 ### Possible individual group meeting dates
+* Tuesdays 14:00 – 15:00
+* Tuesdays 15:00 – 16:00
 * Tuesdays 16:00 – 17:00
 * Tuesdays 17:00 – 18:00
 * Fridays 16:00 – 17:00
