@@ -7,6 +7,12 @@ title: "Publications"
 
 
 ## 2024
+### Democratizing Advanced Attribution Analyses for Generative Language Models with the Inseq Toolkit  
+Gabriele Sarti, **Nils Feldhus**, Jirui Qi, Malvina Nissim, and Arianna Bisazza  
+*xAI 2024 Late-Breaking Work & Demos*  
+[CEUR-WS](https://ceur-ws.org/Vol-3793/paper_37.pdf)  
+
+
 ### Conversational XAI and Explanation Dialogues
 **Nils Feldhus**  
 *YRRSDS @ SIGDIAL 2024*  
