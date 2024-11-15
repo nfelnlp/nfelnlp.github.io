@@ -43,7 +43,7 @@ How can results and findings from LM component analysis and mechanistic interpre
 [5] <a href="https://arxiv.org/abs/2310.15213">Function Vectors (Todd et al., ICLR 2024)</a><br>
 [6] <a href="https://aclanthology.org/2024.acl-demos.6/">LM Transparency Tool (Tufanov et al., ACL 2024 Demos)</a><br>
 [7] <a href="https://arxiv.org/abs/2405.00208">Primer on Component Analysis Methods (Ferrando et al., 2024)</a>
-</p>
+</p><br>
 
 <!-- MindMech -->
 **The Mindful Mechanic: Interpreting LLMs' Decision-Making in Tool Use**  
@@ -51,11 +51,11 @@ API-calling and tool use [1, 2] are expected properties of performant LLM and ca
 However, it remains unclear what parts of a prompt and which mechanisms within LLMs are responsible for deciding when and which tool or API should be used for the next generation step.
 In a comprehensive study across both instruction-tuned and out-of-the-box LLMs, we examine the decision-making in tool use benchmarks with interpretability methods offering information flow routes [6] and feature attributions [7].
 <p style="font-size:smaller;">
-[1] <a href="https://openreview.net/forum?id=Yacmpz84TH">Toolformer (Schick et al., ICLR 2023)</a>
-[2] <a href="https://openreview.net/forum?id=HtqnVSCj3q">Chameleon (Lu et al., NeurIPS 2023)</a>
-[3] <a href="https://openreview.net/forum?id=dHng2O0Jjr">ToolLLM (Qin et al., ICLR 2024)</a>
-[4] <a href="https://openreview.net/forum?id=Xh1B90iBSR">"What Are Tools Anyway?" Survey (Wang et al., COLM 2024)</a>
-[5] <a href="https://openreview.net/forum?id=Km2XEjH0I5">TACT dataset (Caciularu et al., NeurIPS 2024 D&B)</a>
+[1] <a href="https://openreview.net/forum?id=Yacmpz84TH">Toolformer (Schick et al., ICLR 2023)</a><br>
+[2] <a href="https://openreview.net/forum?id=HtqnVSCj3q">Chameleon (Lu et al., NeurIPS 2023)</a><br>
+[3] <a href="https://openreview.net/forum?id=dHng2O0Jjr">ToolLLM (Qin et al., ICLR 2024)</a><br>
+[4] <a href="https://openreview.net/forum?id=Xh1B90iBSR">"What Are Tools Anyway?" Survey (Wang et al., COLM 2024)</a><br>
+[5] <a href="https://openreview.net/forum?id=Km2XEjH0I5">TACT dataset (Caciularu et al., NeurIPS 2024 D&B)</a><br>
 [6] <a href="https://aclanthology.org/2024.acl-demos.6/">LM Transparency Tool (Tufanov et al., ACL 2024 Demos)</a><br>
 [7] <a href="https://aclanthology.org/2023.acl-demo.40/">Inseq (Sarti et al., ACL 2023 Demos)</a>
 </p>
