@@ -7,23 +7,33 @@ title: "Publications"
 
 
 ## 2024
+### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems
+Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, and Sebastian Möller  
+*EMNLP 2024 Findings*  
+[ACL Anthology](https://aclanthology.org/2024.findings-emnlp.76) | [arXiv](https://arxiv.org/abs/2406.08101) | [GitHub](https://github.com/DFKI-NLP/CoXQL)  
+
+### Democratizing Advanced Attribution Analyses for Generative Language Models with the Inseq Toolkit  
+Gabriele Sarti, **Nils Feldhus**, Jirui Qi, Malvina Nissim, and Arianna Bisazza  
+*xAI 2024 Late-Breaking Work & Demos*  
+[CEUR-WS](https://ceur-ws.org/Vol-3793/paper_37.pdf)  
+
+### Conversational XAI and Explanation Dialogues
+**Nils Feldhus**  
+*YRRSDS @ SIGDIAL 2024*  
+[ACL Anthology](https://aclanthology.org/2024.yrrsds-1.1)
+
 ### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Sebastian Möller, and Vera Schmitt  
 *In submission*  
 [arXiv](https://arxiv.org/abs/2409.07123)  
 
-<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/ECLLMs_Logo.png?raw=true" width="125px" align="right"> 
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/ECLLMs_Logo.png?raw=true" width="125px" align="right">
 ### German Voter Personas can Radicalize LLM Chatbots via the Echo Chamber Effect
 Maximilian Bleick, **Nils Feldhus**, Aljoscha Burchardt, and Sebastian Möller  
 *INLG 2024*  
 [ACL Anthology](https://aclanthology.org/2024.inlg-main.13/)  
 
-### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems
-Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, and Sebastian Möller  
-*EMNLP 2024 Findings*  
-[arXiv](https://arxiv.org/abs/2406.08101) | [GitHub](https://github.com/DFKI-NLP/CoXQL)  
-
-<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InstruX_Logo.png?raw=true" width="125px" align="right"> 
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InstruX_Logo.png?raw=true" width="125px" align="right">
 ### Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues
 **Nils Feldhus**, Aliki Anagnostopoulou, Qianli Wang, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller  
 *ACM GoodIT 2024 (Work in Progress track)*  
@@ -45,7 +55,7 @@ Nikolas Wehner, **Nils Feldhus**\*, Michael Seufert, Sebastian Möller, and Tobi
 [IEEE Xplore](https://doi.org/10.1109/QoMEX61742.2024.10598297)  
 <sup>* joint first authorship</sup>
 
-<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/LLMCheckup_Logo.png?raw=true" width="125px" align="right"> 
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/LLMCheckup_Logo.png?raw=true" width="125px" align="right">
 ### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
 *NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language Processing (HCI+NLP)*  

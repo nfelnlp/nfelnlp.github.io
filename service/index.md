@@ -9,11 +9,11 @@ title: "Service"
 
 
 # Area Chair
-
-## Interpretability and Analysis Models for NLP track
-**EMNLP 2024**  
+Since February 2024, I've been serving as an Action Editor / Area Chair for the Interpretability and Analysis of Models for NLP track at ACL Rolling Review (ARR):  
+**ARR October 2024 (NAACL 2025)**  
+**ARR June 2024 (EMNLP 2024)**  
 **ARR April 2024**  
-**ACL 2024**  
+**ARR February 2024 (ACL 2024)**  
 
 
 # Conference Reviewer

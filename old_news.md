@@ -4,6 +4,9 @@ classes: wide
 author_profile: true
 ---
 
+2023-11-13 : [InterroLang](./publications/index.md#2023) will be presented as an in-person poster at BlackboxNLP (Thu, Dec 7, 11:00 AM) and Findings (Sat, Dec 9, 09:00 AM).  
+2023-11-03 : [Invited talk](./talks/index.md) at [Human-Centric AI group of NEC Labs Europe, Heidelberg](https://www.neclab.eu/research-areas/data-science/human-centric-ai)  
+2023-10-08 : [InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations](./publications/index.md#2023) accepted to EMNLP 2023 Findings! 🦁 This is my fourth first-author paper and an implementation of the Mediators precursor paper.  
 2023-05-30 : [Saliency Map Verbalization](./publications/index.md#2023) (first-author paper) accepted to ACL 2023! See you in Toronto! 🍁  
 2023-05-19 : [Inseq](./publications/index.md#2023) accepted to ACL 2023! [MultiTACRED](https://aclanthology.org/2023.acl-long.210/) which I reviewed for my colleagues has been accepted as well.  
 2023-02-27 : Inseq pre-print published on arXiv.  
