@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"
   bio              : ""
   location         : "Berlin, Germany"
-  employer         : "DFKI & TU Berlin"
+  employer         : "TU Berlin, BIFOLD, DFKI"
   uri              : # URL
   email            : "nils.feldhus@dfki.de"
 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky          : "nfel" # Replace this with you Bluesky username
+  bluesky          : "nfel.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
