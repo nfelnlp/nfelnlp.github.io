@@ -8,6 +8,8 @@ title: "Supervision"
 # [Open Topics](./topics.md)
 
 ## Ongoing
+Radhika Yadav (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – MSc thesis @ Uni Potsdam: Measuring and Mitigating Overreliance on Explanations by Fact-Checking Systems (*Title TBD*)  
+
 Yi-Sheng Hsu (with [Manfred Stede](https://www.ling.uni-potsdam.de/~stede/)) – MSc thesis @ Uni Potsdam: Evaluating LLM-generated Explanatory Utterances through Dialogue Completion  
 
 
@@ -37,9 +39,11 @@ Daniel Fernau (with [Tim Polzehl](https://www.tu.berlin/en/qu/ueber-uns/team-per
 
 Yi-Sheng Hsu – Explanation Dialogues; Rationalization with Metric-based Readability Control  
 
-Maximilian Dustin Nasert & Christopher Ebert – Data-based Interpretability
+Maximilian Dustin Nasert – Data-based Interpretability
 
 ## Completed
+Christopher Ebert – Saliency map verbalization and data-based interpretability
+
 [Qianli Wang](https://github.com/qiaw99) – Interactive NLP model exploration through dialogue systems  
 
 João Lucas Mendes de Lemos Lins – Instructional explanations  
