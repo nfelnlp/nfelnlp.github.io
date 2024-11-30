@@ -6,6 +6,13 @@ title: "Publications"
 ---
 
 
+## 2025
+### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
+Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Sebastian Möller, and Vera Schmitt  
+*COLING 2025*  
+[arXiv](https://arxiv.org/abs/2409.07123) | ACL Anthology available in January  
+
+
 ## 2024
 ### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, and Sebastian Möller  
@@ -17,15 +24,15 @@ Gabriele Sarti, **Nils Feldhus**, Jirui Qi, Malvina Nissim, and Arianna Bisazza
 *xAI 2024 Late-Breaking Work & Demos*  
 [CEUR-WS](https://ceur-ws.org/Vol-3793/paper_37.pdf)  
 
+### Free-text Rationale Generation under Readability Level Control
+Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  
+*In submission*  
+[arXiv](https://arxiv.org/abs/2407.01384)  
+
 ### Conversational XAI and Explanation Dialogues
 **Nils Feldhus**  
 *YRRSDS @ SIGDIAL 2024*  
 [ACL Anthology](https://aclanthology.org/2024.yrrsds-1.1)
-
-### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
-Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Sebastian Möller, and Vera Schmitt  
-*In submission*  
-[arXiv](https://arxiv.org/abs/2409.07123)  
 
 <img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/ECLLMs_Logo.png?raw=true" width="125px" align="right">
 ### German Voter Personas can Radicalize LLM Chatbots via the Echo Chamber Effect
@@ -38,11 +45,6 @@ Maximilian Bleick, **Nils Feldhus**, Aljoscha Burchardt, and Sebastian Möller
 **Nils Feldhus**, Aliki Anagnostopoulou, Qianli Wang, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller  
 *ACM GoodIT 2024 (Work in Progress track)*  
 [ACM Digital Library](https://dl.acm.org/doi/10.1145/3677525.3678665) | [OpenReview (previous version submitted to ARR)](https://openreview.net/forum?id=mHgNzfiApQ)  
-
-### Free-text Rationale Generation under Readability Level Control
-Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  
-*In submission*  
-[arXiv](https://arxiv.org/abs/2407.01384)  
 
 ### The Value of Text for Multimodal Decision Support using XAI
 Ajay Madhavan Ravichandran, Julianna Grune, **Nils Feldhus**, Roland Roller, Aljoscha Burchardt, and Sebastian Möller  

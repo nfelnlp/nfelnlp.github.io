@@ -10,6 +10,7 @@ Welcome! 👋 I am Nils Feldhus and am currently working on my PhD thesis in exp
 My main research interest is making (neural) language models more interpretable by building applications that democratize access to explanations. Topics of interest are rationale generation, data-centric interpretability, information-seeking dialogue, and evaluation measures for generated text.  
 
 # News 🤩  
+2024-11-30 | [Cross-Refine](./publications/index.md#2025) accepted for COLING 2025.  
 2024-09-30 | [CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems](./publications/index.md#2024) has been accepted to EMNLP 2024 Findings and will be presented by Qianli in Miami, FL, USA. 🗽 His new work [Cross-Refine](./publications/index.md#2024) is out on arXiv and currently in submission.  
 2024-09-08 | Traveling to Japan next week! 🗾 I will first give a talk at [Eiji Aramaki's Social Computing Lab](https://luululu.com/en/) at NAIST (Nara), attend the [YRRSDS](https://sites.google.com/view/yrrsds2024/program) and SIGDIAL 2024 in Kyoto, and then head to Tokyo for [INLG 2024](https://inlg2024.github.io/program.html).  
 2024-07-21 | Paper on [sycophancy and political bias evaluation of (German) LLMs](./publications/index.md#2024) accepted to INLG 2024. I will visit Tokyo and present the poster on behalf of Max who I supervised. 🗼  
@@ -35,9 +36,8 @@ My main research interest is making (neural) language models more interpretable 
 
 # Jobs 👨‍💼
 2020-2025 – [Researcher/Software Engineer](https://www.dfki.de/en/web/about-us/employee/person/nife02) @ German Research Institute for Artificial Intelligence (DFKI), Berlin, [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) group.  
-2021-2024: [XAINES - Explaining AI with Narratives](https://www.dfki.de/en/web/research/projects-and-publications/projects-overview/project/xaines) project, supervised by Sebastian Möller.  
-2020-2021: [European Language Grid](https://live.european-language-grid.eu/) project, supervised by Georg Rehm.  
-
+2021-2024 – [XAINES - Explaining AI with Narratives](https://www.dfki.de/en/web/research/projects-and-publications/projects-overview/project/xaines) project, supervised by Sebastian Möller.  
+2020-2021 – [European Language Grid](https://live.european-language-grid.eu/) project, supervised by Georg Rehm.  
 2014 – Student assistant at the Institute for Computational Linguistics @ Heidelberg University  
 
 
