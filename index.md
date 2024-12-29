@@ -13,6 +13,7 @@ as well as with the [German Research Center for Artificial Intelligence (DFKI)](
 My main research interest is the interpretability of language models with the goal of increasing the trust and reliability for users and simplifying access to explanations. Other topics include rationale generation, text simplification and summarization, dialogue systems, biomedical and clinical NLP, and evaluation measures for model-generated text.  
 
 # News 🤩  
+2024-12-29 | I published my [2024 Recap](./recommended/2024.md) showcasing my favorite papers from this year's major conferences.
 2024-11-30 | I am joining [TU Berlin](https://www.tu.berlin/en/qu/ueber-uns/team-personen/senior-researchers/nils-feldhus) and [BIFOLD](https://www.bifold.berlin/) in January 2025. My project IlluminateCardio will focus on the interpretability of large language models, human-AI alignment, and applications to cardiovascular medicine in collaboration with Prof. Alexander Meyer (Charité). 🏛️🏥  
 2024-11-30 | [Cross-Refine](./publications/index.md#2025) accepted for COLING 2025.  
 2024-09-30 | [CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems](./publications/index.md#2024) has been accepted to EMNLP 2024 Findings and will be presented by Qianli in Miami, FL, USA. 🗽 His new work [Cross-Refine](./publications/index.md#2024) is out on arXiv and currently in submission.  
