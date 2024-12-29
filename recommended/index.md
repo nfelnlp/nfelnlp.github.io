@@ -34,6 +34,11 @@ This page contains my favorite survey papers and tutorials related to my researc
 * Prompting: [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing (Liu et al., 2022)](https://dl.acm.org/doi/10.1145/3560815) (ACM CSUR 2022)
 * BERTology: [A Primer in BERTology: What We Know About How BERT Works (Rogers et al., 2020)](https://doi.org/10.1162/tacl_a_00349) (TACL 2020)
 
+### Annual recaps
+On an annual basis, I publish a list of my favorite papers from major conferences (ACL, EMNLP, COLM, NeurIPS, ICLR, CHI, FAccT, etc.).
+* [2024 Recap](./2024.md) 
+
+
 ## Writing
 * [Tips for the new writer (Choshen, 2022)](https://docs.google.com/document/d/1VpfKEbTSV1ol4S1eYSBVZVUuCRWoXr_WNsQYuOs_90U/edit)
 
@@ -41,6 +46,7 @@ This page contains my favorite survey papers and tutorials related to my researc
 - [Coming up with Research Ideas (Ribeiro, 2022)](https://medium.com/@marcotcr/coming-up-with-research-ideas-3032682e5852)
 - [The Tao of PhD](https://courses.cs.washington.edu/courses/cse590x/22wi/resources/)
 
+---
 
 # Tools I love to work with 🧰
 [PyTorch](https://pytorch.org/), [Hugging Face](https://huggingface.co/) datasets + transformers and [Captum](https://captum.ai/) : My "Explainable NLP toolbox"  
