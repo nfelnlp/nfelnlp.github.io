@@ -10,10 +10,10 @@ title: "Supervision"
 ## Ongoing
 Radhika Yadav (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – MSc thesis @ Uni Potsdam: Measuring and Mitigating Overreliance on Explanations by Fact-Checking Systems (*Title TBD*)  
 
-Yi-Sheng Hsu (with [Manfred Stede](https://www.ling.uni-potsdam.de/~stede/)) – MSc thesis @ Uni Potsdam: Evaluating LLM-generated Explanatory Utterances through Dialogue Completion  
-
 
 ## Completed
+Yi-Sheng Hsu (with [Manfred Stede](https://www.ling.uni-potsdam.de/~stede/)) – MSc thesis @ Uni Potsdam: Evaluating LLM-generated Explanatory Utterances through Dialogue Completion  
+
 Yi-Sheng Hsu (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – MSc project @ Uni Potsdam: Engineering LLM-generated Explanations with Metric-based Readability Control  
 
 Maximilian Bleick (with [Aljoscha Burchardt](https://www.dfki.de/~aburch/)) – BA thesis @ TU Berlin: [An Investigation of LLM Chatbots Concerning the Echo Chamber Effect](https://tu.berlin/index.php?id=246820)  

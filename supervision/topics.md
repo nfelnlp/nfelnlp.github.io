@@ -5,17 +5,32 @@ author_profile: true
 title: "Open Topics"
 ---
 
-<!-- InquAIrer -->
-**Conversational Model Refinement**  
-1. Can we elicit expert human feedback using targeted question generation in a mixed-initiative dialogue setting?
-2. Can we use human feedback to natural language explanations to improve the model performance and align it to user preferences?
+<!-- MetricX -->
+**Explaining Blind Spots of Model-Based Evaluation Metrics for Text Generation**
 <p style="font-size:smaller;">
-[1] <a href="https://arxiv.org/abs/2103.10415">Compositional Explanations (Yao et al., NeurIPS 2021)</a><br>
-[2] <a href="https://aclanthology.org/2024.acl-long.302/">Digital Socrates (Gu et al., ACL 2024)</a><br>
-[3] <a href="https://aclanthology.org/2024.naacl-long.168/">Explanation Formats (Malaviya et al., NAACL 2024)</a><br>
-[4] <a href="https://aclanthology.org/2022.findings-acl.75/">FeedbackQA (Li et al., ACL 2022 Findings)</a><br>
-[5] <a href="https://aclanthology.org/2023.findings-emnlp.791/">Synthesis Step by Step (Wang et al., EMNLP 2023 Findings)</a>
-</p><br>
+[1] <a href="https://aclanthology.org/2023.acl-long.674/">Blindspot NLG (He, Zhang et al., ACL 2023)</a><br>
+[2] <a href="https://aclanthology.org/2024.findings-acl.80/">AdvEval (Chen et al., ACL 2024 Findings)</a><br>
+[3] <a href="https://aclanthology.org/2024.eacl-long.8/">LLM Comparative Assessment (Liusie et al., EACL 2024)</a><br>
+[4] <a href="https://www.jmlr.org/papers/v25/22-0416.html">Explainable Evaluation Metrics for MT (Leiter et al., JMLR 2024)</a><br>
+[5] <a href="https://arxiv.org/abs/2410.03608">TICKing All the Boxes (Cook et al., 2024)</a><br>
+[6] <a href="https://openreview.net/forum?id=xYlJRpzZtsY">ROSCOE (Golovneva et al., ICLR 2023)</a><br>
+[7] <a href="https://aclanthology.org/2024.acl-long.60/">RORA (Jiang, Lu et al., ACL 2024)</a>
+</p>
+
+<!-- MindMech -->
+**The Mindful Mechanic: Interpreting LLMs' Decision-Making in Tool Use**  
+API-calling and tool use [1, 2] are expected properties of performant LLM and can often be found in evaluations and benchmarks [3, 4, 5] because the models rely on external knowledge sources and calculations to ensure temporal generalization and factual correctness.
+However, it remains unclear what parts of a prompt and which mechanisms within LLMs are responsible for deciding when and which tool or API should be used for the next generation step.
+In a comprehensive study across both instruction-tuned and out-of-the-box LLMs, we examine the decision-making in tool use benchmarks with interpretability methods offering information flow routes [6] and feature attributions [7].
+<p style="font-size:smaller;">
+[1] <a href="https://openreview.net/forum?id=Yacmpz84TH">Toolformer (Schick et al., ICLR 2023)</a><br>
+[2] <a href="https://openreview.net/forum?id=HtqnVSCj3q">Chameleon (Lu et al., NeurIPS 2023)</a><br>
+[3] <a href="https://openreview.net/forum?id=dHng2O0Jjr">ToolLLM (Qin et al., ICLR 2024)</a><br>
+[4] <a href="https://openreview.net/forum?id=Xh1B90iBSR">"What Are Tools Anyway?" Survey (Wang et al., COLM 2024)</a><br>
+[5] <a href="https://openreview.net/forum?id=Km2XEjH0I5">TACT dataset (Caciularu et al., NeurIPS 2024 D&B)</a><br>
+[6] <a href="https://aclanthology.org/2024.acl-demos.6/">LM Transparency Tool (Tufanov et al., ACL 2024 Demos)</a><br>
+[7] <a href="https://aclanthology.org/2023.acl-demo.40/">Inseq (Sarti et al., ACL 2023 Demos)</a>
+</p>
 
 <!-- DeLoreason -->
 **Explaining Knowledge Conflicts and Factual Errors (of Temporal Generalization) in LLM Generations**  
@@ -45,17 +60,14 @@ How can results and findings from LM component analysis and mechanistic interpre
 [7] <a href="https://arxiv.org/abs/2405.00208">Primer on Component Analysis Methods (Ferrando et al., 2024)</a>
 </p><br>
 
-<!-- MindMech -->
-**The Mindful Mechanic: Interpreting LLMs' Decision-Making in Tool Use**  
-API-calling and tool use [1, 2] are expected properties of performant LLM and can often be found in evaluations and benchmarks [3, 4, 5] because the models rely on external knowledge sources and calculations to ensure temporal generalization and factual correctness.
-However, it remains unclear what parts of a prompt and which mechanisms within LLMs are responsible for deciding when and which tool or API should be used for the next generation step.
-In a comprehensive study across both instruction-tuned and out-of-the-box LLMs, we examine the decision-making in tool use benchmarks with interpretability methods offering information flow routes [6] and feature attributions [7].
+<!-- InquAIrer -->
+**Conversational Model Refinement**  
+1. Can we elicit expert human feedback using targeted question generation in a mixed-initiative dialogue setting?
+2. Can we use human feedback to natural language explanations to improve the model performance and align it to user preferences?
 <p style="font-size:smaller;">
-[1] <a href="https://openreview.net/forum?id=Yacmpz84TH">Toolformer (Schick et al., ICLR 2023)</a><br>
-[2] <a href="https://openreview.net/forum?id=HtqnVSCj3q">Chameleon (Lu et al., NeurIPS 2023)</a><br>
-[3] <a href="https://openreview.net/forum?id=dHng2O0Jjr">ToolLLM (Qin et al., ICLR 2024)</a><br>
-[4] <a href="https://openreview.net/forum?id=Xh1B90iBSR">"What Are Tools Anyway?" Survey (Wang et al., COLM 2024)</a><br>
-[5] <a href="https://openreview.net/forum?id=Km2XEjH0I5">TACT dataset (Caciularu et al., NeurIPS 2024 D&B)</a><br>
-[6] <a href="https://aclanthology.org/2024.acl-demos.6/">LM Transparency Tool (Tufanov et al., ACL 2024 Demos)</a><br>
-[7] <a href="https://aclanthology.org/2023.acl-demo.40/">Inseq (Sarti et al., ACL 2023 Demos)</a>
-</p>
+[1] <a href="https://arxiv.org/abs/2103.10415">Compositional Explanations (Yao et al., NeurIPS 2021)</a><br>
+[2] <a href="https://aclanthology.org/2024.acl-long.302/">Digital Socrates (Gu et al., ACL 2024)</a><br>
+[3] <a href="https://aclanthology.org/2024.naacl-long.168/">Explanation Formats (Malaviya et al., NAACL 2024)</a><br>
+[4] <a href="https://aclanthology.org/2022.findings-acl.75/">FeedbackQA (Li et al., ACL 2022 Findings)</a><br>
+[5] <a href="https://aclanthology.org/2023.findings-emnlp.791/">Synthesis Step by Step (Wang et al., EMNLP 2023 Findings)</a>
+</p><br>
