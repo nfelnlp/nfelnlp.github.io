@@ -5,18 +5,6 @@ author_profile: true
 title: "Open Topics"
 ---
 
-<!-- MetricX -->
-**Explaining Blind Spots of Model-Based Evaluation Metrics for Text Generation**
-<p style="font-size:smaller;">
-[1] <a href="https://aclanthology.org/2023.acl-long.674/">Blindspot NLG (He, Zhang et al., ACL 2023)</a><br>
-[2] <a href="https://aclanthology.org/2024.findings-acl.80/">AdvEval (Chen et al., ACL 2024 Findings)</a><br>
-[3] <a href="https://aclanthology.org/2024.eacl-long.8/">LLM Comparative Assessment (Liusie et al., EACL 2024)</a><br>
-[4] <a href="https://www.jmlr.org/papers/v25/22-0416.html">Explainable Evaluation Metrics for MT (Leiter et al., JMLR 2024)</a><br>
-[5] <a href="https://arxiv.org/abs/2410.03608">TICKing All the Boxes (Cook et al., 2024)</a><br>
-[6] <a href="https://openreview.net/forum?id=xYlJRpzZtsY">ROSCOE (Golovneva et al., ICLR 2023)</a><br>
-[7] <a href="https://aclanthology.org/2024.acl-long.60/">RORA (Jiang, Lu et al., ACL 2024)</a>
-</p>
-
 <!-- MindMech -->
 **The Mindful Mechanic: Interpreting LLMs' Decision-Making in Tool Use**  
 API-calling and tool use [1, 2] are expected properties of performant LLM and can often be found in evaluations and benchmarks [3, 4, 5] because the models rely on external knowledge sources and calculations to ensure temporal generalization and factual correctness.

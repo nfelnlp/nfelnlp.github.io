@@ -17,13 +17,13 @@ Explaining these models, i.e. developing computational approaches to explain the
 * [Explanations in the Era of Large Language Models (NAACL 2024 Tutorial)](https://explanation-llm.github.io/)
 * [Transformer-specific Interpretability (EACL 2024 Tutorial)](https://projects.illc.uva.nl/indeep/tutorial/)
 
-Our goal is the implementation of explainability methods and subsequent analysis and evaluation of the results. Special focus should be given to the implications on usability of various types of explanations and to the application to downstream tasks like question answering, fact checking, commonsense reasoning, and text classification. 
+Our goal is the implementation of explainability methods and subsequent analysis and evaluation of the results. Special focus should be given to the implications on usability of various types of explanations and to the application to downstream tasks like question answering, fact checking, commonsense reasoning, and text classification.
 
 **Project requirements**
-* Intermediate or advanced knowledge of Python 
-* Prior experience in at least one previous course/project with neural natural language processing or deep learning 
+* Intermediate or advanced knowledge of Python
+* Prior experience in at least one previous course/project with neural natural language processing or deep learning
 * Prior experience in at least one previous course/project with PyTorch or TensorFlow and Hugging Face
-* Course language: English (student consultations can optionally be done in German) 
+* Course language: English (student consultations can optionally be done in German)
 
 **Eligible modules**
 * [Study Project Quality & Usability](https://www.tu.berlin/index.php?id=18763) (6LP / 9LP)
@@ -38,13 +38,15 @@ Our goal is the implementation of explainability methods and subsequent analysis
 2024-11-05 | First individual group meetings (exact dates will be set for each group depending on their preferred slot)  
 2024-12-20 | Last possible individual group meeting before christmas break  
 2025-01-07 | First possible individual group meeting after christmas break  
-2025-02-04 | Final presentations (in-person, room TBD)  
-2025-03-30 | Submission deadline for written project reports 
+2025-02-04 | Final presentations (in-person, MAR 2.053)  
+2025-03-30 | Submission deadline for written project reports
 
 ### Possible individual group meeting dates
 * Tuesdays 14:00 – 15:00
 * Tuesdays 15:00 – 16:00
 * Tuesdays 16:00 – 17:00
 * Tuesdays 17:00 – 18:00
+* Wednesdays 11:00 – 12:00
+* Wednesdays 14:00 – 15:00
 * Fridays 16:00 – 17:00
 * Fridays 17:00 – 18:00

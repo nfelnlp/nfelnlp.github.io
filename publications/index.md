@@ -7,10 +7,15 @@ title: "Publications"
 
 
 ## 2025
+### FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation
+Qianli Wang, **Nils Feldhus**, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, and Vera Schmitt  
+*In submission*  
+[arXiv](https://arxiv.org/abs/2501.00777)
+
 ### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Sebastian Möller, and Vera Schmitt  
 *COLING 2025*  
-[arXiv](https://arxiv.org/abs/2409.07123) | ACL Anthology available in January  
+[ACL Anthology](https://aclanthology.org/2025.coling-main.77/) | [arXiv](https://arxiv.org/abs/2409.07123) | [GitHub](https://github.com/qiaw99/Cross-Refine)  
 
 
 ## 2024
@@ -44,7 +49,7 @@ Maximilian Bleick, **Nils Feldhus**, Aljoscha Burchardt, and Sebastian Möller
 ### Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues
 **Nils Feldhus**, Aliki Anagnostopoulou, Qianli Wang, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller  
 *ACM GoodIT 2024 (Work in Progress track)*  
-[ACM Digital Library](https://dl.acm.org/doi/10.1145/3677525.3678665) | [OpenReview (previous version submitted to ARR)](https://openreview.net/forum?id=mHgNzfiApQ)  
+[ACM Digital Library](https://dl.acm.org/doi/10.1145/3677525.3678665)  
 
 ### The Value of Text for Multimodal Decision Support using XAI
 Ajay Madhavan Ravichandran, Julianna Grune, **Nils Feldhus**, Roland Roller, Aljoscha Burchardt, and Sebastian Möller  

@@ -8,7 +8,7 @@ title: "Supervision"
 # [Open Topics](./topics.md)
 
 ## Ongoing
-Radhika Yadav (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – MSc thesis @ Uni Potsdam: Measuring and Mitigating Overreliance on Explanations by Fact-Checking Systems (*Title TBD*)  
+Radhika Yadav (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – MSc thesis @ Uni Potsdam: Exploring and Addressing Overreliance on LLM-Generated Explanations in the Fact-Checking Domain
 
 
 ## Completed
@@ -35,14 +35,13 @@ Daniel Fernau (with [Tim Polzehl](https://www.tu.berlin/en/qu/ueber-uns/team-per
 
 # Research assistant supervisions
 
-## Ongoing
+## Completed
 
 Yi-Sheng Hsu – Explanation Dialogues; Rationalization with Metric-based Readability Control  
 
-Maximilian Dustin Nasert – Data-based Interpretability
+Maximilian Dustin Nasert – Data-based Interpretability  
 
-## Completed
-Christopher Ebert – Saliency map verbalization and data-based interpretability
+Christopher Ebert – Saliency map verbalization and data-based interpretability  
 
 [Qianli Wang](https://github.com/qiaw99) – Interactive NLP model exploration through dialogue systems  
 
@@ -51,5 +50,3 @@ João Lucas Mendes de Lemos Lins – Instructional explanations
 [Sahil Chopra](https://schopra6.github.io/) – Rationale generation for dialogue-based explanations  
 
 [Ajay Madhavan Ravichandran](https://github.com/aj280192) – Conceptualizing dialogue-based explanations  
-
-
