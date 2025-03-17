@@ -4,6 +4,7 @@ classes: wide
 author_profile: true
 title: "Talks"
 ---
+2025-02-07 : Computational Linguistics Group @ CLCG, Uni Groningen, hosted by [Gabriele Sarti](https://gsarti.com) – Human-centric Explainable Natural Language Processing  
 
 2024-10-08 : CLAUSE Group @ Uni Bielefeld, hosted by [Sina Zarrieß](https://sinazarriess.github.io/) – Approaches for Generating and Evaluating Natural Language Explanations of Language Models
 

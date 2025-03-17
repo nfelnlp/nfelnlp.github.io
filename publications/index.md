@@ -7,6 +7,10 @@ title: "Publications"
 
 
 ## 2025
+### Explanation Strategies and Response Generation for Conversational XAI  
+**Nils Feldhus**, Isabel Feustel, Tatiana Anikina, Stefan Hillmann, Wolfgang Minker, and Sebastian Möller  
+*In submission*  
+
 ### FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation
 Qianli Wang, **Nils Feldhus**, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, and Vera Schmitt  
 *In submission*  

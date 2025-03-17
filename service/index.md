@@ -18,6 +18,7 @@ Since February 2024, I've been serving as an Action Editor / Area Chair for the 
 
 
 # Conference Reviewer
+**ARR February 2025 (ACL 2025)**
 **NAACL 2024**  
 **EACL 2024**  
 **EMNLP 2023**  
