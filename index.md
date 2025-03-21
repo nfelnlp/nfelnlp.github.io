@@ -13,9 +13,9 @@ as well as with the [German Research Center for Artificial Intelligence (DFKI)](
 My main research interest is the interpretability of language models with the goal of increasing the trust and reliability for users and simplifying access to explanations. Other topics include rationale generation, text simplification and summarization, dialogue systems, biomedical and clinical NLP, and evaluation measures for model-generated text.  
 
 # News 🤩  
-2025-03-18 | First time serving as an editor: Together with Britta Schulte, I published the proceedings of the [ISCA-ITG Workshop on Diversity in Large Speech and Language Models](https://arxiv.org/abs/2503.10298).  
-2025-03-14 | Honored to be (co-)supervising four incredibly talented PhD students at TU Berlin from now on: Arthur Hilbert, Qianli Wang, Luis Felipe Villa-Arenas, and Steffen Castle.  
-2025-02-13 | New first-author paper on explanation strategies and response generation in conversational XAI in submission. 🧮 💬  
+2025-03-18 | First time serving as an editor: Together with Britta Schulte, I [published the proceedings](./publications/index.md#2025) of the [ISCA-ITG Workshop on Diversity in Large Speech and Language Models](https://arxiv.org/abs/2503.10298).  
+2025-03-14 | Honored to be (co-)[supervising](./supervision/index.md) four incredibly talented PhD students at TU Berlin from now on: Arthur Hilbert, Qianli Wang, Luis Felipe Villa-Arenas, and Steffen Castle.  
+2025-02-13 | New [first-author paper on explanation strategies and response generation in conversational XAI](./publications/index.md#2025) in submission. 🧮 💬  
 2025-02-07 | I gave an [invited talk at the University of Groningen](./talks/index.md) about human-centric explainable NLP. 🇳🇱  
 2025-01-25 | New co-authored paper in submission: [FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation](./publications/index.md#2025).  
 2024-12-29 | I published my [2024 Recap](./recommended/2024.md) showcasing my favorite papers from this year's major conferences.  

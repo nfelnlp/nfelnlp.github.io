@@ -16,6 +16,10 @@ Qianli Wang, **Nils Feldhus**, Simon Ostermann, Luis Felipe Villa-Arenas, Sebast
 *In submission*  
 [arXiv](https://arxiv.org/abs/2501.00777)
 
+### Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models
+Sebastian Möller, Pia Knoeferle, Britta Schulte, and Nils Feldhus  
+[arXiv](https://arxiv.org/abs/2503.10298)
+
 ### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Sebastian Möller, and Vera Schmitt  
 *COLING 2025*  
