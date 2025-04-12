@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-Welcome! 👋 I am an incoming Postdoctoral Researcher at the Technische Universität Berlin (TU Berlin)
+Welcome! 👋 I am a Postdoctoral Researcher at the Technische Universität Berlin (TU Berlin)
 under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) (Quality and Usability Lab) and the [Berlin Institute for the Foundations of Learning (BIFOLD)](https://www.bifold.berlin/),
 affiliated with the [XplaiNLP](https://xplainlp.github.io/authors/nils-feldhus/) group as a Senior Researcher
 as well as with the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) as a guest researcher.
@@ -13,6 +13,7 @@ as well as with the [German Research Center for Artificial Intelligence (DFKI)](
 My main research interest is the interpretability of language models with the goal of increasing the trust and reliability for users and simplifying access to explanations. Other topics include rationale generation, text simplification and summarization, dialogue systems, biomedical and clinical NLP, and evaluation measures for model-generated text.  
 
 # News 🤩  
+2025-04-11 | Successfully defended my PhD thesis at TU Berlin! 🎓 Thanks to my mentor Sebastian Möller and professors Sina Zarrieß (Uni Bielefeld), Christin Seifert (Uni Marburg) and Matthias Boehm for being part of the committee and awarding the graduation certificate with a "magna cum laude".
 2025-03-18 | First time serving as an editor: Together with Britta Schulte, I [published the proceedings](./publications/index.md#2025) of the [ISCA-ITG Workshop on Diversity in Large Speech and Language Models](https://arxiv.org/abs/2503.10298).  
 2025-03-14 | Honored to be (co-)[supervising](./supervision/index.md) four incredibly talented PhD students at TU Berlin from now on: Arthur Hilbert, Qianli Wang, Luis Felipe Villa-Arenas, and Steffen Castle.  
 2025-02-13 | New [first-author paper on explanation strategies and response generation in conversational XAI](./publications/index.md#2025) in submission.  
@@ -29,7 +30,6 @@ My main research interest is the interpretability of language models with the go
 2024-06-21 | New paper on intent recognition for conversational XAI, [CoXQL](./publications/index.md#2024), posted on arXiv.  
 2024-06-02 | [QoEXplainer](./publications/index.md#2024) accepted to QoMEX and ACM IMX 2024.  
 2024-04-19 | [LLMCheckup](./publications/index.md#2024) accepted to NAACL 2024 HCI+NLP! System demo paper on dialogue-based explainability for video streaming quality of experience in submission.  
-2024-03-31 | New paper on [disinformation detection and the role of explainability](./publications/index.md#2024) accepted to [FAccT 2024](https://facctconference.org/2024/)!
 
 [News Archive](old_news.md)
 

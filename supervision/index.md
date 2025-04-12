@@ -19,10 +19,14 @@ title: "Supervision"
 ## Ongoing Master's thesis supervisions
 Radhika Yadav (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – MSc thesis @ Uni Potsdam: _Exploring and Addressing Overreliance on LLM-Generated Explanations in the Fact-Checking Domain_
 
-+3 TBA
+Valentin Garbe – MSc thesis @ TU Berlin: _Interpreting LLMs' Decision-Making in API Calling and Tool Use_  
+
+Jiaao Li (with Qianli Wang) – MSc thesis @ TU Berlin: _Natural Language Explanation Generation through Code Completion_  
+
++1 TBA
 
 ## Ongoing Bachelor's thesis supervisions
-Aaron Louis Eidt – BA thesis @ TU Berlin: _Simplifying Outcomes of Language Model Component Analyses_ (Title TBD)
+Aaron Louis Eidt – BSc thesis @ TU Berlin: _Simplifying Outcomes of Language Model Component Analyses_ (Title TBD)
 
 +3 TBA
 
@@ -43,7 +47,7 @@ Kiran Rohra (with [Philippe Thomas](https://github.com/erechtheus)) – MSc thes
 Daniel Fernau (with [Tim Polzehl](https://www.tu.berlin/en/qu/ueber-uns/team-personen/gast-wissenschaftler-partner/dr-tim-polzehl) & [Stefan Hillmann](https://www.tu.berlin/index.php?id=29495)) – MSc thesis @ TU Berlin: _Towards Adaptive Conversational Agents: Fine-tuning Language-Models for User Classification to enhance Usability_
 
 ## Completed Bachelor's thesis supervisions
-Maximilian Bleick (with [Aljoscha Burchardt](https://www.dfki.de/~aburch/)) – BA thesis @ TU Berlin: [_An Investigation of LLM Chatbots Concerning the Echo Chamber Effect_](https://tu.berlin/index.php?id=246820)
+Maximilian Bleick (with [Aljoscha Burchardt](https://www.dfki.de/~aburch/)) – BSc thesis @ TU Berlin: [_An Investigation of LLM Chatbots Concerning the Echo Chamber Effect_](https://tu.berlin/index.php?id=246820)
 
 Mika Rebensburg (with [Tim Polzehl](https://www.tu.berlin/en/qu/ueber-uns/team-personen/gast-wissenschaftler-partner/dr-tim-polzehl) & [Stefan Hillmann](https://www.tu.berlin/index.php?id=29495)) - BSc thesis @ TU Berlin : _Automatic Evaluation of Chatbot Dialogs Using Pre-Trained Language Models in the Customer Support Domain_   
 

@@ -19,6 +19,7 @@ title: "Service"
 
 
 # Conference Reviewer
+**COLM 2025**  
 **ARR February 2025 (ACL 2025)** (+ Emergency Reviews)  
 **NAACL 2024**  
 **EACL 2024**  

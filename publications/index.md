@@ -7,6 +7,10 @@ title: "Publications"
 
 
 ## 2025
+### Human and LLM-based Assessment of Teaching Acts in Expert-led Explanatory Dialogues
+Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag  
+*In submission*  
+
 ### Explanation Strategies and Response Generation for Conversational XAI  
 **Nils Feldhus**, Isabel Feustel, Tatiana Anikina, Stefan Hillmann, Wolfgang Minker, and Sebastian Möller  
 *In submission*  
