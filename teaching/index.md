@@ -7,7 +7,7 @@ title: "Teaching"
 
 ## Summer Semester 2025
 🛡 2025-04 - 2025-09 : Advanced Course Projects @ TU Berlin. Topic: Text Anonymization meets Explainability (with Qianli Wang & Ibrahim Baroud).  
-🥸 2025-04 – 2025-09 : Advanced Course Projects @ TU Berlin. Topic: Explainability with Different Personas (with Jing Yang).
+🥸 2025-04 – 2025-09 : Advanced Course Projects @ TU Berlin. Topic: Personalized Explanation Generation and Evaluation using LLMs (with Jing Yang).
 
 
 ## Winter Semester 2024/25

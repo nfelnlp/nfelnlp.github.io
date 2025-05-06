@@ -7,6 +7,11 @@ title: "Publications"
 
 
 ## 2025
+### Gender Bias in Explainability: Investigating Performance Disparity in Post-hoc Methods
+Mahdi Dhaini, Ege Erdogan, **Nils Feldhus**, and Gjergji Kasneci  
+*FAccT 2025*  
+[arXiv](https://arxiv.org/abs/2505.01198)  
+
 ### Human and LLM-based Assessment of Teaching Acts in Expert-led Explanatory Dialogues
 Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag  
 *In submission*  
@@ -21,7 +26,7 @@ Qianli Wang, **Nils Feldhus**, Simon Ostermann, Luis Felipe Villa-Arenas, Sebast
 [arXiv](https://arxiv.org/abs/2501.00777)
 
 ### Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models
-Sebastian Möller, Pia Knoeferle, Britta Schulte, and Nils Feldhus  
+Sebastian Möller, Pia Knoeferle, Britta Schulte, and **Nils Feldhus**  
 [arXiv](https://arxiv.org/abs/2503.10298)
 
 ### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem

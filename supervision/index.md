@@ -21,14 +21,16 @@ Radhika Yadav (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – M
 
 Valentin Garbe – MSc thesis @ TU Berlin: _Interpreting LLMs' Decision-Making in API Calling and Tool Use_  
 
-Jiaao Li (with Qianli Wang) – MSc thesis @ TU Berlin: _Natural Language Explanation Generation through Code Completion_  
+Jiaao Li (with Qianli Wang) – MSc thesis @ TU Berlin: _Natural Language Explanation Generation through Code Completion_ (Title TBD)   
 
-+1 TBA
+*+1 TBA*
 
 ## Ongoing Bachelor's thesis supervisions
-Aaron Louis Eidt – BSc thesis @ TU Berlin: _Simplifying Outcomes of Language Model Component Analyses_ (Title TBD)
+Aaron Louis Eidt – BSc thesis @ TU Berlin: _Simplifying Outcomes of Language Model Component Analyses_  
 
-+3 TBA
+Minh Anh Nguyen – BSc thesis @ TU Berlin: _Explaining Blind Spots of Model-based Evaluation Metrics for Text Generation_
+
+*+1 TBA*
 
 ---
 

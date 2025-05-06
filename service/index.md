@@ -40,6 +40,7 @@ EMNLP 2020
 ACL 2020  
 
 # Workshop Reviewer
+[GEM^2](https://gem-benchmark.com/workshop) @ ACL 2025  
 [**BlackboxNLP**](https://blackboxnlp.github.io) @ EMNLP 2024  
 [**BlackboxNLP**](https://blackboxnlp.github.io/2023/) @ EMNLP 2023  
 [**BlackboxNLP**](https://blackboxnlp.github.io/2022/) @ EMNLP 2022  
