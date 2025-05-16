@@ -13,6 +13,7 @@ as well as with the [German Research Center for Artificial Intelligence (DFKI)](
 My main research interest is the interpretability of language models with the goal of increasing the trust and reliability for users and simplifying access to explanations. Other topics include rationale generation, text simplification and summarization, dialogue systems, biomedical and clinical NLP, and evaluation measures for model-generated text.  
 
 # News 🤩  
+2025-05-16 | [FitCF](./publications/index.md#2025) has been accepted to ACL 2025 Findings! See you in Vienna! 🎡  
 2025-05-06 | New paper with TU Munich on gender bias in explainability accepted at [FAccT 2025](./publications/index.md#2025). 🏛️  
 2025-04-11 | Successfully defended my PhD thesis at TU Berlin! 🎓 Thanks to my mentor Sebastian Möller and professors Sina Zarrieß (Uni Bielefeld), Christin Seifert (Uni Marburg) and Matthias Boehm for being part of the committee and awarding the graduation certificate with a "magna cum laude".  
 2025-03-18 | First time serving as an editor: Together with Britta Schulte, I [published the proceedings](./publications/index.md#2025) of the [ISCA-ITG Workshop on Diversity in Large Speech and Language Models](https://arxiv.org/abs/2503.10298).  

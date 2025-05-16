@@ -7,10 +7,15 @@ title: "Publications"
 
 
 ## 2025
+### FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation
+Qianli Wang, **Nils Feldhus**, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, and Vera Schmitt  
+*ACL 2025 Findings*  
+[arXiv](https://arxiv.org/abs/2501.00777) | Proceedings available in July
+
 ### Gender Bias in Explainability: Investigating Performance Disparity in Post-hoc Methods
 Mahdi Dhaini, Ege Erdogan, **Nils Feldhus**, and Gjergji Kasneci  
 *FAccT 2025*  
-[arXiv](https://arxiv.org/abs/2505.01198)  
+[arXiv](https://arxiv.org/abs/2505.01198) | Proceedings available in June
 
 ### Human and LLM-based Assessment of Teaching Acts in Expert-led Explanatory Dialogues
 Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag  
@@ -18,12 +23,7 @@ Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning 
 
 ### Explanation Strategies and Response Generation for Conversational XAI  
 **Nils Feldhus**, Isabel Feustel, Tatiana Anikina, Stefan Hillmann, Wolfgang Minker, and Sebastian Möller  
-*In submission*  
-
-### FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation
-Qianli Wang, **Nils Feldhus**, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, and Vera Schmitt  
-*In submission*  
-[arXiv](https://arxiv.org/abs/2501.00777)
+*In submission*
 
 ### Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models
 Sebastian Möller, Pia Knoeferle, Britta Schulte, and **Nils Feldhus**  
