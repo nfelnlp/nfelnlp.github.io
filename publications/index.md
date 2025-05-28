@@ -7,6 +7,34 @@ title: "Publications"
 
 
 ## 2025
+
+<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/quantization.png?raw=true" width="125px" align="right">
+### Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability  
+Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Sebastian Möller, Hinrich Schütze, and Vera Schmitt  
+*In submission*  
+[arXiv](https://arxiv.org/abs/2505.13963)
+
+### Truth or Twist? Model Selection Strategy for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
+Qianli Wang, Van Bach Nguyen, **Nils Feldhus**, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, and Vera Schmitt  
+*In submission*  
+[arXiv](https://arxiv.org/abs/2505.13972)
+
+<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="125px" align="right">
+### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
+Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, and Vera Schmitt  
+*In submission*  
+
+### Table Understanding and (Multimodal) LLMs: A Cross-Domain Case Study on Scientific vs. Non-Scientific Data
+Ekaterina Borisova, Fabio Barth, **Nils Feldhus**, Raia Abu Ahmad, Malte Ostendorff, Pedro Ortiz Suarez, Georg Rehm, and Sebastian Möller  
+*TRL @ ACL 2025*  
+Proceedings available in July | [GitHub](https://github.com/esborisova/TableEval-Study)  
+
+### Free-text Rationale Generation under Readability Level Control
+Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  
+*GEM^2 @ ACL 2025*  
+[arXiv](https://arxiv.org/abs/2407.01384) | Proceedings available in July
+
+<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/fitcf_logo.png?raw=true" width="125px" align="right">
 ### FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation
 Qianli Wang, **Nils Feldhus**, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, and Vera Schmitt  
 *ACL 2025 Findings*  
@@ -20,10 +48,12 @@ Mahdi Dhaini, Ege Erdogan, **Nils Feldhus**, and Gjergji Kasneci
 ### Human and LLM-based Assessment of Teaching Acts in Expert-led Explanatory Dialogues
 Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag  
 *In submission*  
+[OpenReview](https://openreview.net/forum?id=JkxMQ4AqnN)
 
 ### Explanation Strategies and Response Generation for Conversational XAI  
 **Nils Feldhus**, Isabel Feustel, Tatiana Anikina, Stefan Hillmann, Wolfgang Minker, and Sebastian Möller  
-*In submission*
+*In submission*  
+[OpenReview](https://openreview.net/forum?id=1tSbDjmTiz)
 
 ### Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models
 Sebastian Möller, Pia Knoeferle, Britta Schulte, and **Nils Feldhus**  
@@ -44,12 +74,7 @@ Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, and Sebastian M
 ### Democratizing Advanced Attribution Analyses for Generative Language Models with the Inseq Toolkit  
 Gabriele Sarti, **Nils Feldhus**, Jirui Qi, Malvina Nissim, and Arianna Bisazza  
 *xAI 2024 Late-Breaking Work & Demos*  
-[CEUR-WS](https://ceur-ws.org/Vol-3793/paper_37.pdf)  
-
-### Free-text Rationale Generation under Readability Level Control
-Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  
-*In submission*  
-[arXiv](https://arxiv.org/abs/2407.01384)  
+[CEUR-WS](https://ceur-ws.org/Vol-3793/paper_37.pdf)
 
 ### Conversational XAI and Explanation Dialogues
 **Nils Feldhus**  
