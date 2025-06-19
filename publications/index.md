@@ -12,13 +12,13 @@ Max Upravitelev, Arthur Hilbert, Premtim Sahitaj, Tatiana Anikina, **Nils Feldhu
 *FEVER @ ACL 2025*  
 Proceedings available in July
 
-<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/prism.png?raw=true" width="125px" align="right"></img>
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/prism.png?raw=true" width="125px" align="right">
 ### Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework
 Laura Kopf, **Nils Feldhus**, Kirill Bykov, Philine Lou Bommer, Anna Hedström, Marina M.-C. Höhne, and Oliver Eberle  
 *In submission*  
 [arXiv](https://arxiv.org/abs/2506.15538)
 
-<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/quantization.png?raw=true" width="125px" align="right"></img>
+<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/quantization.png?raw=true" width="125px" align="right">
 ### Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability  
 Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Sebastian Möller, Hinrich Schütze, and Vera Schmitt  
 *In submission*  
@@ -29,7 +29,7 @@ Qianli Wang, Van Bach Nguyen, **Nils Feldhus**, Luis Felipe Villa-Arenas, Christ
 *In submission*  
 [arXiv](https://arxiv.org/abs/2505.13972)
 
-<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="125px" align="right"></img>
+<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="125px" align="right">
 ### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, and Vera Schmitt  
 *In submission*  
@@ -44,7 +44,7 @@ Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov
 *GEM^2 @ ACL 2025*  
 [arXiv](https://arxiv.org/abs/2407.01384) | Proceedings available in July
 
-<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/fitcf_logo.png?raw=true" width="125px" align="right"></img>
+<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/fitcf_logo.png?raw=true" width="125px" align="right">
 ### FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation
 Qianli Wang, **Nils Feldhus**, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, and Vera Schmitt  
 *ACL 2025 Findings*  
@@ -92,13 +92,13 @@ Gabriele Sarti, **Nils Feldhus**, Jirui Qi, Malvina Nissim, and Arianna Bisazza
 *YRRSDS @ SIGDIAL 2024*  
 [ACL Anthology](https://aclanthology.org/2024.yrrsds-1.1)
 
-<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/ECLLMs_Logo.png?raw=true" width="125px" align="right"></img>
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/ECLLMs_Logo.png?raw=true" width="125px" align="right">
 ### German Voter Personas can Radicalize LLM Chatbots via the Echo Chamber Effect
 Maximilian Bleick, **Nils Feldhus**, Aljoscha Burchardt, and Sebastian Möller  
 *INLG 2024*  
 [ACL Anthology](https://aclanthology.org/2024.inlg-main.13/)  
 
-<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InstruX_Logo.png?raw=true" width="125px" align="right"></img>
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InstruX_Logo.png?raw=true" width="125px" align="right">
 ### Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues
 **Nils Feldhus**, Aliki Anagnostopoulou, Qianli Wang, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller  
 *ACM GoodIT 2024 (Work in Progress track)*  
@@ -115,7 +115,7 @@ Nikolas Wehner, **Nils Feldhus**\*, Michael Seufert, Sebastian Möller, and Tobi
 [IEEE Xplore](https://doi.org/10.1109/QoMEX61742.2024.10598297)  
 <sup>* joint first authorship</sup>
 
-<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/LLMCheckup_Logo.png?raw=true" width="125px" align="right"></img>
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/LLMCheckup_Logo.png?raw=true" width="125px" align="right">
 ### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
 *NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language Processing (HCI+NLP)*  
