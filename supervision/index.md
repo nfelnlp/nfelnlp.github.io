@@ -8,20 +8,20 @@ title: "Supervision"
 # [Open Topics](./topics.md)
 
 ## Ongoing PhD supervisions
-[Arthur Hilbert](https://xplainlp.github.io/authors/arthur-hilbert/) – PhD @ TU Berlin  
+[Arthur Hilbert](https://xplainlp.github.io/authors/arthur-hilbert/) (with Vera Schmitt) – PhD @ TU Berlin  
 
-[Qianli Wang](https://xplainlp.github.io/authors/qianli-wang/) – PhD @ TU Berlin  
+[Qianli Wang](https://xplainlp.github.io/authors/qianli-wang/) (with Vera Schmitt) – PhD @ TU Berlin  
 
-[Luis Felipe Villa-Arenas](https://xplainlp.github.io/authors/luis-felipe-villa-arenas/) (with Jing Yang) – PhD @ TU Berlin / Deutsche Telekom  
+[Luis Felipe Villa-Arenas](https://xplainlp.github.io/authors/luis-felipe-villa-arenas/) (with Jing Yang & Vera Schmitt) – PhD @ TU Berlin / Deutsche Telekom  
 
-[Steffen Castle](https://dfki-nlp.github.io/authors/steffen-castle/) (with Leonhard Hennig) – PhD @ TU Berlin / DFKI  
+[Steffen Castle](https://dfki-nlp.github.io/authors/steffen-castle/) (with Sebastian Möller) – PhD @ TU Berlin / DFKI  
 
 ## Ongoing Master's thesis supervisions
 Radhika Yadav (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – MSc thesis @ Uni Potsdam: _Exploring and Addressing Overreliance on LLM-Generated Explanations in the Fact-Checking Domain_
 
 Valentin Garbe – MSc thesis @ TU Berlin: _Interpreting LLMs' Decision-Making in API Calling and Tool Use_  
 
-Jiaao Li (with Qianli Wang) – MSc thesis @ TU Berlin: _Natural Language Explanation Generation through Code Completion_ (Title TBD)   
+Jiaao Li (with Qianli Wang) – MSc thesis @ TU Berlin: _An Adaptive and Efficient Chain-of-Thought with Code-formatted Reasoning Framework for CodeLLMs_  
 
 *+1 TBA*
 
@@ -30,7 +30,7 @@ Aaron Louis Eidt – BSc thesis @ TU Berlin: _Simplifying Outcomes of Language M
 
 Minh Anh Nguyen – BSc thesis @ TU Berlin: _Explaining Blind Spots of Model-based Evaluation Metrics for Text Generation_
 
-*+1 TBA*
+Moritz Starcke – BSc thesis @ TU Berlin: _Ein systematischer Überblick über LLMs in der medizinischen Diagnostik_  
 
 ---
 

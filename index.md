@@ -10,9 +10,11 @@ affiliated with the [XplaiNLP](https://xplainlp.github.io/authors/nils-feldhus/)
 as well as with the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) as a guest researcher.
 
 # Research interests 👀
-My main research interest is the interpretability of language models with the goal of increasing the trust and reliability for users and simplifying access to explanations. Other topics include rationale generation, text simplification and summarization, dialogue systems, biomedical and clinical NLP, and evaluation measures for model-generated text.  
+Advancing the interpretability of language models with the goal of increasing trust and simplifying access to explanations!  
+I am open to collaborations on rationale generation, text simplification and summarization, concept explanations, biomedical and clinical NLP, and evaluation measures for model-generated text.  
 
 # News 🤩  
+2025-06-19 | New paper on feature description methods and polysemanticity out on [arXiv](https://arxiv.org/abs/2506.15538)! [FEVER Shared Task submission](./publications/index.md#2025) accepted for ACL.  
 2025-05-28 | Two co-authored papers have been accepted at [ACL 2025](https://2025.aclweb.org) workshops: The study on [readability of free-text rationales](https://arxiv.org/abs/2407.01384) by Yi-Sheng ([GEM^2](https://gem-benchmark.com/workshop)), and a yet unpublished [table understanding study](./publications/index.md#2025) led by Ekaterina ([TRL](https://table-representation-learning.github.io/ACL2025/))! 🧐 📊  
 2025-05-28 | [Three new papers](./publications/index.md#2025) led by Qianli in submission: One on [quantization effects on explainability and interpretability](https://arxiv.org/abs/2505.13963) (in collaboration with LMU Munich) 🗜, one on the [evaluation of LLM-generated counterfactuals](https://arxiv.org/abs/2505.13972) (in collaboration with Uni Marburg) 🪢, and one on multilingual datasets for conversational XAI. 🧭  
 2025-05-16 | [FitCF](https://arxiv.org/abs/2501.00777) has been accepted to [ACL 2025 Findings](https://2025.aclweb.org)! See you in Vienna! 🎡  
@@ -31,15 +33,14 @@ My main research interest is the interpretability of language models with the go
 2024-07-21 | Paper on [sycophancy and political bias evaluation of (German) LLMs](./publications/index.md#2024) accepted to INLG 2024. I will visit Tokyo and present the poster on behalf of Max who I supervised. 🗼  
 2024-07-12 | First-author paper on [instructional explanations in teacher-student dialogues](./publications/index.md#2024) accepted to ACM GoodIT. 🗝  
 2024-07-02 | Two new co-authored papers: On [free-text rationale generation and readability](./publications/index.md#2024) (posted on arXiv) and on [feature attribution for multimodal medical decision support](./publications/index.md#2024) (accepted to BioNLP @ ACL 2024).  
-2024-06-21 | New paper on intent recognition for conversational XAI, [CoXQL](./publications/index.md#2024), posted on arXiv.  
-2024-06-02 | [QoEXplainer](./publications/index.md#2024) accepted to QoMEX and ACM IMX 2024.
+2024-06-21 | New paper on intent recognition for conversational XAI, [CoXQL](./publications/index.md#2024), posted on arXiv.
 
 [News Archive](old_news.md)
 
 
 
 # Education 👨‍🎓
-2021-2025 – Computer Science, PhD, Technische Universität Berlin. Supervised by Sebastian Möller: "Approaches for Generating and Evaluating Natural Language Explanations of Language Models".  
+2021-2025 – Computer Science, PhD, Technische Universität Berlin. Supervised by Sebastian Möller: "Approaches for Generating and Evaluating Natural Language Explanations of Language Models". ([doi](https://doi.org/10.14279/depositonce-23821))  
 
 2016-2020 – Cognitive Systems: Language, Learning and Reasoning, MSc, University of Potsdam. Supervised by Manfred Stede: "Utilizing machine translation for bootstrapping abstractive text summarization".  
 

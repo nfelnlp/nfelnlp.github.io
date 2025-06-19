@@ -19,6 +19,7 @@ title: "Service"
 
 
 # Conference Reviewer
+**ARR May 2025 (EMNLP 2025)**  
 **COLM 2025**  
 **ARR February 2025 (ACL 2025)** (+ Emergency Reviews)  
 **NAACL 2024**  
@@ -31,6 +32,7 @@ title: "Service"
 **ACL Rolling Review** (November 2021 – August 2023)  
 
 ## Secondary Reviewer
+NeurIPS 2025  
 NLDB 2022  
 EMNLP 2021  
 ACL 2021  
