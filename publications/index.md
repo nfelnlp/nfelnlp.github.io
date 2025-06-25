@@ -10,7 +10,7 @@ title: "Publications"
 ### Gender Bias in Explainability: Investigating Performance Disparity in Post-hoc Methods
 Mahdi Dhaini, Ege Erdogan, **Nils Feldhus**, and Gjergji Kasneci  
 *FAccT 2025*  
-[ACM Digital Library](https://dl.acm.org/doi/10.1145/3715275.3732192) | [arXiv](https://arxiv.org/abs/2505.01198)
+[ACM Digital Library](https://dl.acm.org/doi/10.1145/3715275.3732192) | [arXiv](https://arxiv.org/abs/2505.01198) | [GitHub](https://github.com/dmah10/fairness-explainable-nlp)
 
 ### Exploring Semantic Filtering Heuristics for Efficient Claim Verification
 Max Upravitelev, Arthur Hilbert, Premtim Sahitaj, Tatiana Anikina, **Nils Feldhus**, Jing Yang, Veronika Solopova, Simon Ostermann, and Vera Schmitt  
@@ -21,7 +21,7 @@ Proceedings available in July
 ### Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework
 Laura Kopf, **Nils Feldhus**, Kirill Bykov, Philine Lou Bommer, Anna Hedström, Marina M.-C. Höhne, and Oliver Eberle  
 *In submission*  
-[arXiv](https://arxiv.org/abs/2506.15538)
+[arXiv](https://arxiv.org/abs/2506.15538) | [GitHub](https://github.com/lkopf/prism)
 
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/quantization.png?raw=true" width="125px" align="right">
 ### Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability  
@@ -42,7 +42,7 @@ Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Fedor Splitt, J
 ### Table Understanding and (Multimodal) LLMs: A Cross-Domain Case Study on Scientific vs. Non-Scientific Data
 Ekaterina Borisova, Fabio Barth, **Nils Feldhus**, Raia Abu Ahmad, Malte Ostendorff, Pedro Ortiz Suarez, Georg Rehm, and Sebastian Möller  
 *TRL @ ACL 2025*  
-Proceedings available in July | [GitHub](https://github.com/esborisova/TableEval-Study)  
+[OpenReview](https://openreview.net/forum?id=umbMEwiTtq) | Proceedings available in July | [GitHub](https://github.com/esborisova/TableEval-Study)  
 
 ### Free-text Rationale Generation under Readability Level Control
 Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  
@@ -53,7 +53,7 @@ Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov
 ### FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation
 Qianli Wang, **Nils Feldhus**, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, and Vera Schmitt  
 *ACL 2025 Findings*  
-[arXiv](https://arxiv.org/abs/2501.00777) | Proceedings available in July
+[arXiv](https://arxiv.org/abs/2501.00777) | Proceedings available in July | [GitHub](https://github.com/qiaw99/FitCF)
 
 ### Human and LLM-based Assessment of Teaching Acts in Expert-led Explanatory Dialogues
 Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag  
@@ -96,7 +96,7 @@ Gabriele Sarti, **Nils Feldhus**, Jirui Qi, Malvina Nissim, and Arianna Bisazza
 ### German Voter Personas can Radicalize LLM Chatbots via the Echo Chamber Effect
 Maximilian Bleick, **Nils Feldhus**, Aljoscha Burchardt, and Sebastian Möller  
 *INLG 2024*  
-[ACL Anthology](https://aclanthology.org/2024.inlg-main.13/)  
+[ACL Anthology](https://aclanthology.org/2024.inlg-main.13/) | [GitHub](https://github.com/B43M/SycophancyLLMGermanPolitics/)
 
 <img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InstruX_Logo.png?raw=true" width="125px" align="right">
 ### Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues
