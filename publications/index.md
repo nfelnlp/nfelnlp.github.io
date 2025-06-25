@@ -7,12 +7,17 @@ title: "Publications"
 
 ## 2025
 
+### Gender Bias in Explainability: Investigating Performance Disparity in Post-hoc Methods
+Mahdi Dhaini, Ege Erdogan, **Nils Feldhus**, and Gjergji Kasneci  
+*FAccT 2025*  
+[ACM Digital Library](https://dl.acm.org/doi/10.1145/3715275.3732192) | [arXiv](https://arxiv.org/abs/2505.01198)
+
 ### Exploring Semantic Filtering Heuristics for Efficient Claim Verification
 Max Upravitelev, Arthur Hilbert, Premtim Sahitaj, Tatiana Anikina, **Nils Feldhus**, Jing Yang, Veronika Solopova, Simon Ostermann, and Vera Schmitt  
 *FEVER @ ACL 2025*  
 Proceedings available in July
 
-<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/prism.png?raw=true" width="125px" align="right">
+<img src="https://raw.githubusercontent.com/lkopf/prism/main/prism_logo.svg?raw=true" width="125px" align="right">
 ### Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework
 Laura Kopf, **Nils Feldhus**, Kirill Bykov, Philine Lou Bommer, Anna Hedström, Marina M.-C. Höhne, and Oliver Eberle  
 *In submission*  
@@ -49,11 +54,6 @@ Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov
 Qianli Wang, **Nils Feldhus**, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, and Vera Schmitt  
 *ACL 2025 Findings*  
 [arXiv](https://arxiv.org/abs/2501.00777) | Proceedings available in July
-
-### Gender Bias in Explainability: Investigating Performance Disparity in Post-hoc Methods
-Mahdi Dhaini, Ege Erdogan, **Nils Feldhus**, and Gjergji Kasneci  
-*FAccT 2025*  
-[arXiv](https://arxiv.org/abs/2505.01198) | Proceedings available in June
 
 ### Human and LLM-based Assessment of Teaching Acts in Expert-led Explanatory Dialogues
 Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag  

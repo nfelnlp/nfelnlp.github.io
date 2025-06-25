@@ -4,6 +4,7 @@ classes: wide
 author_profile: true
 ---
 
+2024-06-21 | New paper on intent recognition for conversational XAI, [CoXQL](./publications/index.md#2024), posted on arXiv.  
 2024-06-02 | [QoEXplainer](./publications/index.md#2024) accepted to QoMEX and ACM IMX 2024.  
 2024-04-19 | [LLMCheckup](./publications/index.md#2024) accepted to NAACL 2024 HCI+NLP! System demo paper on dialogue-based explainability for video streaming quality of experience in submission.  
 2024-03-31 | New paper on [disinformation detection and the role of explainability](./publications/index.md#2024) accepted to [FAccT 2024](https://facctconference.org/2024/)!
