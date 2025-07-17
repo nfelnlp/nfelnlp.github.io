@@ -32,23 +32,94 @@ Attendees will take turns presenting [explorables](https://visxai.io), demonstra
 * [Seminar Quality & Usability](https://www.tu.berlin/qu/studium-und-lehre/lehrangebot/kurse/winter-sommersemester/quality-and-usability-seminar) (3 ECTS/LP)
 
 ## Schedule
-Date | Session                | Topic                                
---- |------------------------|--------------------------------------
-<nobr>2025-10-24</nobr> | <nobr>Session 1</nobr> | Introduction (presentation of areas and topics) 
-2025-10-31 | –                      | Moses registration deadline (14:00)  
-2025-11-07 | -                      | No session; Use for preparation of presentations
-2025-11-14 | Session 2              |   
-2025-11-21 | Session 3              |
-2025-11-28 | Session 4              |
-2025-12-05 | Session 5              |                                              
-2025-12-12 | Session 6              | 
-2025-12-19 | Session 7              |      
-2026-01-09 | Session 8              |   
-2026-01-16 | Session 9              |
-2026-01-23 | Session 10             |
-2026-01-30 | Session 11             |                                              
-2026-02-06 | Session 12             | 
-2026-02-13 | Session 13             |      
-2026-03-13 | –                      | Submission deadline for papers
-
-
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Session</th>
+      <th>Topic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><nobr>2025-10-24</nobr></td>
+      <td><nobr>Session 1</nobr></td>
+      <td>Introduction (presentation of areas and topics)</td>
+    </tr>
+    <tr>
+      <td>2025-10-31</td>
+      <td>–</td>
+      <td>Moses registration deadline (14:00)</td>
+    </tr>
+    <tr>
+      <td>2025-11-07</td>
+      <td>–</td>
+      <td>No session; Use for preparation of presentations</td>
+    </tr>
+    <tr>
+      <td>2025-11-14</td>
+      <td>Session 2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2025-11-21</td>
+      <td>Session 3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2025-11-28</td>
+      <td>Session 4</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2025-12-05</td>
+      <td>Session 5</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2025-12-12</td>
+      <td>Session 6</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2025-12-19</td>
+      <td>Session 7</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2026-01-09</td>
+      <td>Session 8</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2026-01-16</td>
+      <td>Session 9</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2026-01-23</td>
+      <td>Session 10</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2026-01-30</td>
+      <td>Session 11</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2026-02-06</td>
+      <td>Session 12</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2026-02-13</td>
+      <td>Session 13</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2026-03-13</td>
+      <td>–</td>
+      <td>Submission deadline for papers</td>
+    </tr>
+  </tbody>
+</table>

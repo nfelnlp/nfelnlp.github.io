@@ -32,6 +32,7 @@ title: "Service"
 **ACL Rolling Review** (November 2021 – August 2023)  
 
 ## Secondary Reviewer
+MAI-XAI @ ECAI 2025  
 NeurIPS 2025  
 NLDB 2022  
 EMNLP 2021  
