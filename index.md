@@ -41,7 +41,7 @@ I am open to collaborations on rationale generation, text simplification and sum
     <tr>
       <th>2025-05-28</th>
       <th>Accept</th>
-      <th>The study on <a href="https://arxiv.org/abs/2407.01384">readability of free-text rationales</a> by Yi-Sheng was accepted at the <a href=""></a>[GEM^2](https://gem-benchmark.com/workshop) Workshop at ACL 2025. 🧐  </th>
+      <th>The study on <a href="https://arxiv.org/abs/2407.01384">readability of free-text rationales</a> by Yi-Sheng was accepted at the <a href="https://gem-benchmark.com/workshop">GEM^2</a> Workshop at ACL 2025. 🧐  </th>
     </tr>
     <tr>
       <th>2025-05-28</th>
@@ -106,7 +106,7 @@ I am open to collaborations on rationale generation, text simplification and sum
     <tr>
       <th>2024-11-30</th>
       <th>Accept</th>
-      <th><a href=""></a>[Cross-Refine](./publications/index.md#2025) accepted for COLING 2025.  </th>
+      <th><a href="./publications/#2025">Cross-Refine</a> accepted for COLING 2025.  </th>
     </tr>
     <tr>
       <th>2024-09-30</th>
@@ -121,7 +121,7 @@ I am open to collaborations on rationale generation, text simplification and sum
     <tr>
       <th>2024-07-21</th>
       <th>Accept</th>
-      <th>Paper on <a href="./publications/index.md#2024">sycophancy and political bias evaluation of (German) LLMs</a> accepted to INLG 2024. I will visit Tokyo and present the poster on behalf of Max who I supervised. 🗼</th>
+      <th>Paper on <a href="./publications/#2024">sycophancy and political bias evaluation of (German) LLMs</a> accepted to INLG 2024. I will visit Tokyo and present the poster on behalf of Max who I supervised. 🗼</th>
     </tr>
   </tbody>
 </table>
