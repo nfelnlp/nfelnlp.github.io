@@ -5,6 +5,10 @@ author_profile: true
 title: "Teaching"
 ---
 
+## Winter Semester 2025/26
+🌿 2025-10 – 2026-03 : [AI Visualization & Interpretability seminar](./aivi.md) @ TU Berlin
+
+
 ## Summer Semester 2025
 🛡 2025-04 - 2025-09 : Advanced Course Projects @ TU Berlin. Topic: Text Anonymization meets Explainability (with Qianli Wang & Ibrahim Baroud).  
 🥸 2025-04 – 2025-09 : Advanced Course Projects @ TU Berlin. Topic: Personalized Explanation Generation and Evaluation using LLMs (with Jing Yang).
@@ -21,12 +25,12 @@ title: "Teaching"
 📊 2024-10 - 2025-03 : [LLM Evaluation seminar @ TU Berlin](https://www.tu.berlin/index.php?id=18761), led by Stefan Hillmann, co-taught with Sebastian Möller, Adnan Ahmad, Fabio Barth, and Roland Roller. 
 * Dialogue Systems and Conversational Agents (2025-01-27 16:00 @ MAR 0.011)
 
-## Winter Semester 2022/23
 
+## Winter Semester 2022/23
 🔍 2022-10 - 2023-03 : Advanced Course Projects @ TU Berlin. Topic: Explainability in Natural Language Processing.
 * Contrastive Explanations of Text Generation Models
 * Explainable Fact Checking  
 
-## Winter Semester 2021/22
 
+## Winter Semester 2021/22
 🈂️ 2021-10 - 2022-03 : MSc/BSc software project @ TU Berlin: Assessing the Quality of Machine-translated Text (with Eleftherios Avramidis & Vivien Macketanz)  

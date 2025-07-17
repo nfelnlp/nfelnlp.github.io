@@ -1,3 +1,15 @@
+<!-- InquAIrer -->
+**Conversational Model Refinement**  
+1. Can we elicit expert human feedback using targeted question generation in a mixed-initiative dialogue setting?
+2. Can we use human feedback to natural language explanations to improve the model performance and align it to user preferences?
+<p style="font-size:smaller;">
+[1] <a href="https://arxiv.org/abs/2103.10415">Compositional Explanations (Yao et al., NeurIPS 2021)</a><br>
+[2] <a href="https://aclanthology.org/2024.acl-long.302/">Digital Socrates (Gu et al., ACL 2024)</a><br>
+[3] <a href="https://aclanthology.org/2024.naacl-long.168/">Explanation Formats (Malaviya et al., NAACL 2024)</a><br>
+[4] <a href="https://aclanthology.org/2022.findings-acl.75/">FeedbackQA (Li et al., ACL 2022 Findings)</a><br>
+[5] <a href="https://aclanthology.org/2023.findings-emnlp.791/">Synthesis Step by Step (Wang et al., EMNLP 2023 Findings)</a>
+</p><br>
+
 <!-- CircuiTeX -->
 **Simplifying Outcomes of Language Model Component Analyses**  
 How can results and findings from LM component analysis and mechanistic interpretability studies that are very hard to comprehend for non-experts be simplified and illustrated?  

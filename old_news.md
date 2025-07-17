@@ -4,6 +4,8 @@ classes: wide
 author_profile: true
 ---
 
+2024-07-12 | First-author paper on [instructional explanations in teacher-student dialogues](./publications/index.md#2024) accepted to ACM GoodIT. 🗝  
+2024-07-02 | Two new co-authored papers: On [free-text rationale generation and readability](./publications/index.md#2024) (posted on arXiv) and on [feature attribution for multimodal medical decision support](./publications/index.md#2024) (accepted to BioNLP @ ACL 2024).  
 2024-06-21 | New paper on intent recognition for conversational XAI, [CoXQL](./publications/index.md#2024), posted on arXiv.  
 2024-06-02 | [QoEXplainer](./publications/index.md#2024) accepted to QoMEX and ACM IMX 2024.  
 2024-04-19 | [LLMCheckup](./publications/index.md#2024) accepted to NAACL 2024 HCI+NLP! System demo paper on dialogue-based explainability for video streaming quality of experience in submission.  

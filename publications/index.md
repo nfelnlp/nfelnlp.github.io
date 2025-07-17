@@ -7,6 +7,12 @@ title: "Publications"
 
 ## 2025
 
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/fire.png?raw=true" width="125px" align="right">
+### Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes
+Johann Frei, **Nils Feldhus**, Lisa Raithel, Roland Roller, Alexander Meyer, and Frank Kramer  
+*In submission*  
+[arXiv](https://arxiv.org/abs/2507.12261) | [GitHub](https://github.com/j-frei/Infherno/) | [Video](https://www.youtube.com/watch?v=kyj5C2ivbMw) | [Demo](https://infherno.misit-augsburg.de) | [HuggingFace Spaces](https://huggingface.co/spaces/nfel/infherno)
+
 ### Gender Bias in Explainability: Investigating Performance Disparity in Post-hoc Methods
 Mahdi Dhaini, Ege Erdogan, **Nils Feldhus**, and Gjergji Kasneci  
 *FAccT 2025*  
@@ -118,12 +124,12 @@ Nikolas Wehner, **Nils Feldhus**\*, Michael Seufert, Sebastian Möller, and Tobi
 <img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/LLMCheckup_Logo.png?raw=true" width="125px" align="right">
 ### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
-*NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language Processing (HCI+NLP)*  
+*NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language Processing (HCI+NLP)* <sup><sub>(Rejected from NAACL 2024 System Demonstrations)</sub></sup>  
 [ACL Anthology](https://aclanthology.org/2024.hcinlp-1.9) | [arXiv](https://arxiv.org/abs/2401.12576) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)  
 
 ### The Role of Explainability in Collaborative Human-AI Disinformation Detection
 Vera Schmitt, Luis Felipe Villa-Arenas, **Nils Feldhus**, Joachim Meyer, Robert P. Spang, and Sebastian Möller  
-*FAccT 2024*  
+*FAccT 2024* <sup><sub>(Rejected from Mediate @ ICWSM 2023, HCOMP 2023, and CHI 2024)</sub></sup>  
 [ACM Digital Library](https://dl.acm.org/doi/10.1145/3630106.3659031)  
 
 
@@ -138,7 +144,7 @@ Vera Schmitt, Luis Felipe Villa-Arenas, **Nils Feldhus**, Joachim Meyer, Robert 
 <a href="https://aclanthology.org/2023.nlrse-1.4/"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/SMV_FontLogo.png?raw=true" width="175px" align="right"></a>  
 ### Saliency Map Verbalization: Comparing Feature Importance Representations from Model-free and Instruction-based Methods
 **Nils Feldhus**, Leonhard Hennig, Maximilian Dustin Nasert, Christopher Ebert, Robert Schwarzenberg, and Sebastian Möller  
-*ACL 2023 Workshop on Natural Language Reasoning and Structured Explanations (NLRSE)*  
+*ACL 2023 Workshop on Natural Language Reasoning and Structured Explanations (NLRSE)* <sup><sub>(Rejected from BlackboxNLP 2022 and EACL 2023)</sub></sup>  
 [ACL Anthology](https://aclanthology.org/2023.nlrse-1.4/) | [arXiv](https://arxiv.org/abs/2210.07222) | [GitHub](https://github.com/DFKI-NLP/SMV)  
 
 <a href="https://github.com/inseq-team/inseq"><img src="https://raw.githubusercontent.com/inseq-team/inseq/main/docs/source/images/inseq_logo.png" width="200px" align="right"></a>  
@@ -154,8 +160,8 @@ Mika Rebensburg, Stefan Hillmann, and **Nils Feldhus**
 
 ### Adapters for Resource-Efficient Deployment of NLU Models
 Jan Nehring, Akhyar Ahmed, and **Nils Feldhus**  
-*ESSV 2023*  
-[Proceedings](https://www.essv.de/paper.php?id=1196) | [GitHub](https://github.com/jnehring/ESSV2023-Adapters-for-Resource-Efficient-Deployment-of-NLU-models)  
+*ESSV 2023* <sup><sub>(Rejected from COLING 2022)</sub></sup>  
+[Proceedings](https://www.essv.de/paper.php?id=1196) | [GitHub](https://github.com/jnehring/ESSV2023-Adapters-for-Resource-Efficient-Deployment-of-NLU-models)
 
 ### Fighting Disinformation - Overview of Recent AI-based Collaborative Human-Computer Interaction for Intelligent Decision Support Systems
 Tim Polzehl, Vera Schmitt, **Nils Feldhus**, Joachim Meyer, and Sebastian Möller  
@@ -212,8 +218,8 @@ Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Fassbinde
 
 ### Efficient Explanations from Empirical Explainers
 Robert Schwarzenberg, **Nils Feldhus**, and Sebastian Möller  
-*4th workshop on analyzing and interpreting neural networks for NLP (collocated with EMNLP 2021)*  
-[BlackboxNLP 2021 proceedings](https://aclanthology.org/2021.blackboxnlp-1.17/) | [arXiv](https://arxiv.org/abs/2103.15429) | [GitHub](https://github.com/DFKI-NLP/emp-exp)  
+*4th workshop on analyzing and interpreting neural networks for NLP (co-located with EMNLP 2021)* <sup><sub>(Retracted from ACL 2021, Rejected from EMNLP 2021)</sub></sup>    
+[BlackboxNLP 2021 proceedings](https://aclanthology.org/2021.blackboxnlp-1.17/) | [arXiv](https://arxiv.org/abs/2103.15429) | [GitHub](https://github.com/DFKI-NLP/emp-exp)
 
 ### Combining Open Domain Question Answering with a Task-Oriented Dialog System
 Jan Nehring, **Nils Feldhus**, Harleen Kaur, and Akhyar Ahmed  
