@@ -17,7 +17,7 @@ I am open to collaborations on rationale generation, text simplification and sum
 Date | Topic | Item
 --- | --- | ---
 2025-07-17 | Pre-print | New demo paper and first publication from my IlluminateCardio project on translating free-form clinical notes to structured FHIR resources available on [arXiv](https://arxiv.org/abs/2507.12261). This is a collaboration with Uni Augsburg and Charité. 
-<nobr>2025-06-19</nobr> | Pre-print | New paper on feature description methods and polysemanticity out on [arXiv](https://arxiv.org/abs/2506.15538)! 
+2025-06-19 | Pre-print | New paper on feature description methods and polysemanticity out on [arXiv](https://arxiv.org/abs/2506.15538)! 
 2025-06-19 | Accept | [FEVER Shared Task submission](./publications/index.md#2025) accepted for ACL.  
 2025-05-28 | Accept | The study on [readability of free-text rationales](https://arxiv.org/abs/2407.01384) by Yi-Sheng was accepted at the [GEM^2](https://gem-benchmark.com/workshop) Workshop at ACL 2025. 🧐 
 2025-05-28 | Accept | A yet unpublished [table understanding study](./publications/index.md#2025) led by Ekaterina has been accepted at [TRL](https://table-representation-learning.github.io/ACL2025/). 📊  
