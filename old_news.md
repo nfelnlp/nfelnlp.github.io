@@ -4,6 +4,7 @@ classes: wide
 author_profile: true
 ---
 
+2024-07-21 | Paper on <a href="./publications/#2024">sycophancy and political bias evaluation of (German) LLMs</a> accepted to INLG 2024. I will visit Tokyo and present the poster on behalf of Max who I supervised. 🗼  
 2024-07-12 | First-author paper on [instructional explanations in teacher-student dialogues](./publications/index.md#2024) accepted to ACM GoodIT. 🗝  
 2024-07-02 | Two new co-authored papers: On [free-text rationale generation and readability](./publications/index.md#2024) (posted on arXiv) and on [feature attribution for multimodal medical decision support](./publications/index.md#2024) (accepted to BioNLP @ ACL 2024).  
 2024-06-21 | New paper on intent recognition for conversational XAI, [CoXQL](./publications/index.md#2024), posted on arXiv.  

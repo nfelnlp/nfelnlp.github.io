@@ -5,9 +5,8 @@ author_profile: true
 ---
 
 Welcome! 👋 I am a Postdoctoral Researcher at the Technische Universität Berlin (TU Berlin)
-under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) (Quality and Usability Lab) and the [Berlin Institute for the Foundations of Learning (BIFOLD)](https://www.bifold.berlin/) supervised by [Alexander Meyer]() (DHZC),
-affiliated with the [XplaiNLP](https://xplainlp.github.io/authors/nils-feldhus/) group as a Senior Researcher
-as well as with the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) as a guest researcher.
+under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) (Quality and Usability Lab) and the [Berlin Institute for the Foundations of Learning (BIFOLD)](https://www.bifold.berlin/) supervised by [Alexander Meyer](https://www.bifold.berlin/people/prof-dr-alexander-meyer.html) (DHZC),
+affiliated with the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) as a guest researcher.
 
 # Research interests 👀
 Advancing the interpretability of language models with the goal of increasing trust and simplifying access to explanations!  
@@ -117,11 +116,6 @@ I am open to collaborations on rationale generation, text simplification and sum
       <th><nobr>2024-09-08</nobr></th>
       <th>Talk</th>
       <th>Traveling to Japan next week! 🗾 I will first give a talk at <a href="https://luululu.com/en/">Eiji Aramaki's Social Computing Lab</a> at NAIST (Nara), attend the <a href="https://sites.google.com/view/yrrsds2024/program">YRRSDS</a> and SIGDIAL 2024 in Kyoto, and then head to Tokyo for <a href="https://inlg2024.github.io/program.html">INLG 2024</a>.  </th>
-    </tr>
-    <tr>
-      <th><nobr>2024-07-21</nobr></th>
-      <th>Accept</th>
-      <th>Paper on <a href="./publications/#2024">sycophancy and political bias evaluation of (German) LLMs</a> accepted to INLG 2024. I will visit Tokyo and present the poster on behalf of Max who I supervised. 🗼</th>
     </tr>
   </tbody>
 </table>

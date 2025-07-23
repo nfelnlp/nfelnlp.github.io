@@ -7,6 +7,22 @@ title: "Publications"
 
 ## 2025
 
+<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/fitcf_logo.png?raw=true" width="125px" align="right">
+### FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation
+Qianli Wang, **Nils Feldhus**, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, and Vera Schmitt  
+*ACL 2025 Findings*  
+[ACL Anthology](https://aclanthology.org/2025.findings-acl.64/) | [arXiv](https://arxiv.org/abs/2501.00777) | [GitHub](https://github.com/qiaw99/FitCF)
+
+### Table Understanding and (Multimodal) LLMs: A Cross-Domain Case Study on Scientific vs. Non-Scientific Data
+Ekaterina Borisova, Fabio Barth, **Nils Feldhus**, Raia Abu Ahmad, Malte Ostendorff, Pedro Ortiz Suarez, Georg Rehm, and Sebastian Möller  
+*TRL @ ACL 2025*  
+[ACL Anthology](https://aclanthology.org/2025.trl-1.10/) | [OpenReview](https://openreview.net/forum?id=umbMEwiTtq) | [GitHub](https://github.com/esborisova/TableEval-Study)  
+
+### Exploring Semantic Filtering Heuristics for Efficient Claim Verification
+Max Upravitelev, Arthur Hilbert, Premtim Sahitaj, Tatiana Anikina, **Nils Feldhus**, Jing Yang, Veronika Solopova, Simon Ostermann, and Vera Schmitt  
+*FEVER @ ACL 2025*  
+[ACL Anthology](https://aclanthology.org/2025.fever-1.17/)
+
 <img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/fire.png?raw=true" width="125px" align="right">
 ### Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes
 Johann Frei, **Nils Feldhus**, Lisa Raithel, Roland Roller, Alexander Meyer, and Frank Kramer  
@@ -17,11 +33,6 @@ Johann Frei, **Nils Feldhus**, Lisa Raithel, Roland Roller, Alexander Meyer, and
 Mahdi Dhaini, Ege Erdogan, **Nils Feldhus**, and Gjergji Kasneci  
 *FAccT 2025*  
 [ACM Digital Library](https://dl.acm.org/doi/10.1145/3715275.3732192) | [arXiv](https://arxiv.org/abs/2505.01198) | [GitHub](https://github.com/dmah10/fairness-explainable-nlp)
-
-### Exploring Semantic Filtering Heuristics for Efficient Claim Verification
-Max Upravitelev, Arthur Hilbert, Premtim Sahitaj, Tatiana Anikina, **Nils Feldhus**, Jing Yang, Veronika Solopova, Simon Ostermann, and Vera Schmitt  
-*FEVER @ ACL 2025*  
-Proceedings available in July
 
 <img src="https://raw.githubusercontent.com/lkopf/prism/main/prism_logo.svg?raw=true" width="125px" align="right">
 ### Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework
@@ -43,33 +54,17 @@ Qianli Wang, Van Bach Nguyen, **Nils Feldhus**, Luis Felipe Villa-Arenas, Christ
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="125px" align="right">
 ### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, and Vera Schmitt  
-*In submission*  
-
-### Table Understanding and (Multimodal) LLMs: A Cross-Domain Case Study on Scientific vs. Non-Scientific Data
-Ekaterina Borisova, Fabio Barth, **Nils Feldhus**, Raia Abu Ahmad, Malte Ostendorff, Pedro Ortiz Suarez, Georg Rehm, and Sebastian Möller  
-*TRL @ ACL 2025*  
-[OpenReview](https://openreview.net/forum?id=umbMEwiTtq) | Proceedings available in July | [GitHub](https://github.com/esborisova/TableEval-Study)  
+*In submission*
 
 ### Free-text Rationale Generation under Readability Level Control
 Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  
 *GEM^2 @ ACL 2025*  
 [arXiv](https://arxiv.org/abs/2407.01384) | Proceedings available in July
 
-<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/fitcf_logo.png?raw=true" width="125px" align="right">
-### FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation
-Qianli Wang, **Nils Feldhus**, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, and Vera Schmitt  
-*ACL 2025 Findings*  
-[arXiv](https://arxiv.org/abs/2501.00777) | Proceedings available in July | [GitHub](https://github.com/qiaw99/FitCF)
-
 ### Human and LLM-based Assessment of Teaching Acts in Expert-led Explanatory Dialogues
 Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag  
 *In submission*  
 [OpenReview](https://openreview.net/forum?id=JkxMQ4AqnN)
-
-### Explanation Strategies and Response Generation for Conversational XAI  
-**Nils Feldhus**, Isabel Feustel, Tatiana Anikina, Stefan Hillmann, Wolfgang Minker, and Sebastian Möller  
-*In submission*  
-[OpenReview](https://openreview.net/forum?id=1tSbDjmTiz)
 
 ### Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models
 Sebastian Möller, Pia Knoeferle, Britta Schulte, and **Nils Feldhus**  

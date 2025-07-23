@@ -7,7 +7,7 @@ title: "AI Visualization & Interpretability (AIVI) seminar"
 
 ## When and where the weekly meetings will take place
 * TU Berlin, [QU Lab](https://www.tu.berlin/qu/)
-* Room: MAR building (Room TBD), presence **required**
+* Room: MAR building (Room 0.001), presence **required**
 * Fridays, 14:00 – 16:00
 
 
@@ -83,37 +83,47 @@ Attendees will take turns presenting [explorables](https://visxai.io), demonstra
     </tr>
     <tr>
       <td>2025-12-19</td>
-      <td>Session 7</td>
+      <td>No session; Academic holidays</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2025-12-26</td>
+      <td>No session; Academic holidays</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2026-01-02</td>
+      <td>No session; Academic holidays</td>
       <td></td>
     </tr>
     <tr>
       <td>2026-01-09</td>
-      <td>Session 8</td>
+      <td>Session 7</td>
       <td></td>
     </tr>
     <tr>
       <td>2026-01-16</td>
-      <td>Session 9</td>
+      <td>Session 8</td>
       <td></td>
     </tr>
     <tr>
       <td>2026-01-23</td>
-      <td>Session 10</td>
+      <td>Session 9</td>
       <td></td>
     </tr>
     <tr>
       <td>2026-01-30</td>
-      <td>Session 11</td>
+      <td>Session 10</td>
       <td></td>
     </tr>
     <tr>
       <td>2026-02-06</td>
-      <td>Session 12</td>
+      <td>Session 11</td>
       <td></td>
     </tr>
     <tr>
       <td>2026-02-13</td>
-      <td>Session 13</td>
+      <td>Session 12</td>
       <td></td>
     </tr>
     <tr>
