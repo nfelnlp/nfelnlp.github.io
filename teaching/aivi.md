@@ -83,18 +83,18 @@ Attendees will take turns presenting [explorables](https://visxai.io), demonstra
     </tr>
     <tr>
       <td>2025-12-19</td>
+      <td>–</td>
       <td>No session; Academic holidays</td>
-      <td></td>
     </tr>
     <tr>
       <td>2025-12-26</td>
+      <td>–</td>
       <td>No session; Academic holidays</td>
-      <td></td>
     </tr>
     <tr>
       <td>2026-01-02</td>
+      <td>–</td>
       <td>No session; Academic holidays</td>
-      <td></td>
     </tr>
     <tr>
       <td>2026-01-09</td>

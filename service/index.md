@@ -49,3 +49,9 @@ ACL 2020
 [**BlackboxNLP**](https://blackboxnlp.github.io/2022/) @ EMNLP 2022  
 [BlackboxNLP](https://blackboxnlp.github.io/2021/) @ EMNLP 2021 (secondary)  
 IWLTP @ LREC 2020 (secondary)  
+
+---
+
+
+# Co-Organizer
+[YNLG – The 1st Workshop for Young Researchers in Natural Language Generation](https://2025.inlgmeeting.org/workshops-tutorials-young-researcher.html), co-located with INLG 2025 @ Hanoi, Vietnam
