@@ -7,6 +7,17 @@ title: "Publications"
 
 ## 2025
 
+<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="125px" align="right">
+### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
+Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, and Vera Schmitt  
+*EMNLP 2025 Findings*  
+Proceedings available in November
+
+### Free-text Rationale Generation under Readability Level Control
+Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  
+*GEM^2 @ ACL 2025*  
+[ACL Anthology](https://aclanthology.org/2025.gem-1.11/) | [arXiv](https://arxiv.org/abs/2407.01384) | [GitHub](https://github.com/doyouwantsometea/nle_readability)
+
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/fitcf_logo.png?raw=true" width="125px" align="right">
 ### FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation
 Qianli Wang, **Nils Feldhus**, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, and Vera Schmitt  
@@ -15,8 +26,8 @@ Qianli Wang, **Nils Feldhus**, Simon Ostermann, Luis Felipe Villa-Arenas, Sebast
 
 ### Table Understanding and (Multimodal) LLMs: A Cross-Domain Case Study on Scientific vs. Non-Scientific Data
 Ekaterina Borisova, Fabio Barth, **Nils Feldhus**, Raia Abu Ahmad, Malte Ostendorff, Pedro Ortiz Suarez, Georg Rehm, and Sebastian Möller  
-*TRL @ ACL 2025*  
-[ACL Anthology](https://aclanthology.org/2025.trl-1.10/) | [OpenReview](https://openreview.net/forum?id=umbMEwiTtq) | [GitHub](https://github.com/esborisova/TableEval-Study)  
+*TRL @ ACL 2025* (**Best Runner-up Paper** 🥈)  
+[ACL Anthology](https://aclanthology.org/2025.trl-1.10/) | [OpenReview](https://openreview.net/forum?id=umbMEwiTtq) | [GitHub](https://github.com/esborisova/TableEval-Study)
 
 ### Exploring Semantic Filtering Heuristics for Efficient Claim Verification
 Max Upravitelev, Arthur Hilbert, Premtim Sahitaj, Tatiana Anikina, **Nils Feldhus**, Jing Yang, Veronika Solopova, Simon Ostermann, and Vera Schmitt  
@@ -50,16 +61,6 @@ Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Sebasti
 Qianli Wang, Van Bach Nguyen, **Nils Feldhus**, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, and Vera Schmitt  
 *In submission*  
 [arXiv](https://arxiv.org/abs/2505.13972)
-
-<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="125px" align="right">
-### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
-Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, and Vera Schmitt  
-*In submission*
-
-### Free-text Rationale Generation under Readability Level Control
-Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  
-*GEM^2 @ ACL 2025*  
-[arXiv](https://arxiv.org/abs/2407.01384) | Proceedings available in July
 
 ### Human and LLM-based Assessment of Teaching Acts in Expert-led Explanatory Dialogues
 Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag  

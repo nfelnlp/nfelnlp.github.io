@@ -23,99 +23,109 @@ I am open to collaborations on rationale generation, text simplification and sum
   </thead>
   <tbody>
     <tr>
-      <th><nobr>2025-07-17</nobr></th>
-      <th>Pre-print</th>
-      <th>Demo paper and first publication from my IlluminateCardio project on translating free-form clinical notes to structured FHIR resources available on <a href="https://arxiv.org/abs/2507.12261">arXiv</a>. This is a collaboration with Uni Augsburg and Charité.</th>
+      <td><nobr>2025-08-20</nobr></td>
+      <td>Accept</td>
+      <td>Our <a href="./publications/#2025">table understanding study</a> led by Qianli has been accepted for Findings of EMNLP 2025! See you in 🇨🇳 Suzhou!</td>
     </tr>
     <tr>
-      <th><nobr>2025-06-19</nobr></th>
-      <th>Pre-print</th>
-      <th>Paper on feature description methods and polysemanticity out on <a href="https://arxiv.org/abs/2506.15538">arXiv</a></th>
+      <td><nobr>2025-07-31</nobr></td>
+      <td>Award</td>
+      <td>Our TableEval paper has won the Best Runner-up Paper Award at the Table Representation Learning Workshop! 🥳</td>
     </tr>
     <tr>
-      <th><nobr>2025-06-19</nobr></th>
-      <th>Accept</th>
-      <th><a href="./publications/#2025">FEVER Shared Task submission</a> accepted for ACL 2025.</th>
+      <td><nobr>2025-07-17</nobr></td>
+      <td>Pre-print</td>
+      <td>Demo paper and first publication from my IlluminateCardio project on translating free-form clinical notes to structured FHIR resources available on <a href="https://arxiv.org/abs/2507.12261">arXiv</a>. This is a collaboration with Uni Augsburg and Charité.</td>
     </tr>
     <tr>
-      <th><nobr>2025-05-28</nobr></th>
-      <th>Accept</th>
-      <th>The study on <a href="https://arxiv.org/abs/2407.01384">readability of free-text rationales</a> by Yi-Sheng was accepted at the <a href="https://gem-benchmark.com/workshop">GEM^2</a> Workshop at ACL 2025. 🧐  </th>
+      <td><nobr>2025-06-19</nobr></td>
+      <td>Pre-print</td>
+      <td>Paper on feature description methods and polysemanticity out on <a href="https://arxiv.org/abs/2506.15538">arXiv</a></td>
     </tr>
     <tr>
-      <th><nobr>2025-05-28</nobr></th>
-      <th>Accept</th>
-      <th>Our <a href="./publications/#2025">table understanding study</a> led by Ekaterina has been accepted at the <a href="https://table-representation-learning.github.io/ACL2025/">Table Representation Workshop</a> of ACL 2025. 📊  </th>
+      <td><nobr>2025-06-19</nobr></td>
+      <td>Accept</td>
+      <td><a href="./publications/#2025">FEVER Shared Task submission</a> accepted for ACL 2025.</td>
     </tr>
     <tr>
-      <th><nobr>2025-05-28</nobr></th>
-      <th>Pre-print</th>
-      <th><a href="./publications/#2025">Three papers</a> led by Qianli in submission: One on <a href="https://arxiv.org/abs/2505.13963">quantization effects on explainability and interpretability</a> (in collaboration with LMU Munich) 🗜, one on the <a href="https://arxiv.org/abs/2505.13972">evaluation of LLM-generated counterfactuals</a> (in collaboration with Uni Marburg) 🪢, and one on multilingual datasets for conversational XAI. 🧭  </th>
+      <td><nobr>2025-05-28</nobr></td>
+      <td>Accept</td>
+      <td>The study on <a href="https://arxiv.org/abs/2407.01384">readability of free-text rationales</a> by Yi-Sheng was accepted at the <a href="https://gem-benchmark.com/workshop">GEM^2</a> Workshop at ACL 2025. 🧐  </td>
     </tr>
     <tr>
-      <th><nobr>2025-05-16</nobr></th>
-      <th>Accept</th>
-      <th><a href="https://arxiv.org/abs/2501.00777">FitCF</a> has been accepted to <a href="https://2025.aclweb.org">ACL 2025 Findings</a>! See you in Vienna! 🎡  </th>
+      <td><nobr>2025-05-28</nobr></td>
+      <td>Accept</td>
+      <td>Our <a href="./publications/#2025">table understanding study</a> led by Ekaterina has been accepted at the <a href="https://table-representation-learning.github.io/ACL2025/">Table Representation Learning Workshop</a> of ACL 2025. 📊  </td>
     </tr>
     <tr>
-      <th><nobr>2025-05-06</nobr></th>
-      <th>Accept</th>
-      <th>Paper with TU Munich on gender bias in explainability accepted at <a href="https://programs.sigchi.org/facct/2025/program/content/201842">FAccT 2025</a>. 🦉  </th>
+      <td><nobr>2025-05-28</nobr></td>
+      <td>Pre-print</td>
+      <td><a href="./publications/#2025">Three papers</a> led by Qianli in submission: One on <a href="https://arxiv.org/abs/2505.13963">quantization effects on explainability and interpretability</a> (in collaboration with LMU Munich) 🗜, one on the <a href="https://arxiv.org/abs/2505.13972">evaluation of LLM-generated counterfactuals</a> (in collaboration with Uni Marburg) 🪢, and one on multilingual datasets for conversational XAI. 🧭  </td>
     </tr>
     <tr>
-      <th><nobr>2025-04-11</nobr></th>
-      <th>Graduation</th>
-      <th>Successfully defended my PhD thesis at TU Berlin! 🎓 Thanks to my mentor Sebastian Möller and professors Sina Zarrieß (Uni Bielefeld), Christin Seifert (Uni Marburg) and Matthias Boehm for being part of the committee and awarding the graduation certificate with a "magna cum laude".  </th>
+      <td><nobr>2025-05-16</nobr></td>
+      <td>Accept</td>
+      <td><a href="https://arxiv.org/abs/2501.00777">FitCF</a> has been accepted to <a href="https://2025.aclweb.org">ACL 2025 Findings</a>! See you in Vienna! 🎡  </td>
     </tr>
     <tr>
-      <th><nobr>2025-03-18</nobr></th>
-      <th>Service</th>
-      <th>First time serving as an editor: Together with Britta Schulte, I <a href="./publications/#2025">published the proceedings</a> of the <a href="https://arxiv.org/abs/2503.10298">ISCA-ITG Workshop on Diversity in Large Speech and Language Models</a>.</th>
+      <td><nobr>2025-05-06</nobr></td>
+      <td>Accept</td>
+      <td>Paper with TU Munich on gender bias in explainability accepted at <a href="https://programs.sigchi.org/facct/2025/program/content/201842">FAccT 2025</a>. 🦉  </td>
     </tr>
     <tr>
-      <th><nobr>2025-03-14</nobr></th>
-      <th>Supervision</th>
-      <th>Honored to be (co-)<a href="./supervision/index.md">supervising</a> four incredibly talented PhD students at TU Berlin from now on: Arthur Hilbert, Qianli Wang, Luis Felipe Villa-Arenas, and Steffen Castle.  </th>
+      <td><nobr>2025-04-11</nobr></td>
+      <td>Graduation</td>
+      <td>Successfully defended my PhD thesis at TU Berlin! 🎓 Thanks to my mentor Sebastian Möller and professors Sina Zarrieß (Uni Bielefeld), Christin Seifert (Uni Marburg) and Matthias Boehm for being part of the committee and awarding the graduation certificate with a "magna cum laude".  </td>
     </tr>
     <tr>
-      <th><nobr>2025-02-13</nobr></th>
-      <th>Pre-print</th>
-      <th>First-author paper on <a href="./publications/#2025">explanation strategies and response generation in conversational XAI</a> in submission.  </th>
+      <td><nobr>2025-03-18</nobr></td>
+      <td>Service</td>
+      <td>First time serving as an editor: Together with Britta Schulte, I <a href="./publications/#2025">published the proceedings</a> of the <a href="https://arxiv.org/abs/2503.10298">ISCA-ITG Workshop on Diversity in Large Speech and Language Models</a>.</td>
     </tr>
     <tr>
-      <th><nobr>2025-02-07</nobr></th>
-      <th>Talk</th>
-      <th>I gave an <a href="./talks/index.md">invited talk at the University of Groningen</a> about human-centric explainable NLP. 🇳🇱  </th>
+      <td><nobr>2025-03-14</nobr></td>
+      <td>Supervision</td>
+      <td>Honored to be (co-)<a href="./supervision/index.md">supervising</a> four incredibly talented PhD students at TU Berlin from now on: Arthur Hilbert, Qianli Wang, Luis Felipe Villa-Arenas, and Steffen Castle.  </td>
     </tr>
     <tr>
-      <th><nobr>2025-01-25</nobr></th>
-      <th>Pre-print</th>
-      <th>Co-authored paper in submission: <a href="./publications/#2025">FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation</a>.  </th>
+      <td><nobr>2025-02-13</nobr></td>
+      <td>Pre-print</td>
+      <td>First-author paper on <a href="./publications/#2025">explanation strategies and response generation in conversational XAI</a> in submission.  </td>
     </tr>
     <tr>
-      <th><nobr>2024-12-29</nobr></th>
-      <th>Recap</th>
-      <th>I published my <a href="./recommended/2024.md">2024 Recap</a> showcasing my favorite papers from this year's major conferences.  </th>
+      <td><nobr>2025-02-07</nobr></td>
+      <td>Talk</td>
+      <td>I gave an <a href="./talks/index.md">invited talk at the University of Groningen</a> about human-centric explainable NLP. 🇳🇱  </td>
     </tr>
     <tr>
-      <th><nobr>2024-11-30</nobr></th>
-      <th>Position</th>
-      <th>I am joining <a href="https://www.tu.berlin/en/qu/ueber-uns/team-personen/senior-researchers/nils-feldhus">TU Berlin</a> and <a href="https://www.bifold.berlin/">BIFOLD</a> in January 2025. My project IlluminateCardio will focus on the interpretability of large language models, human-AI alignment, and applications to cardiovascular medicine in collaboration with Prof. Alexander Meyer (Charité). 🏛️🏥  </th>
+      <td><nobr>2025-01-25</nobr></td>
+      <td>Pre-print</td>
+      <td>Co-authored paper in submission: <a href="./publications/#2025">FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation</a>.  </td>
     </tr>
     <tr>
-      <th><nobr>2024-11-30</nobr></th>
-      <th>Accept</th>
-      <th><a href="./publications/#2025">Cross-Refine</a> accepted for COLING 2025.  </th>
+      <td><nobr>2024-12-29</nobr></td>
+      <td>Recap</td>
+      <td>I published my <a href="./recommended/2024.md">2024 Recap</a> showcasing my favorite papers from this year's major conferences.  </td>
     </tr>
     <tr>
-      <th><nobr>2024-09-30</nobr></th>
-      <th>Accept</th>
-      <th><a href="./publications/#2024">CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems</a> has been accepted to EMNLP 2024 Findings and will be presented by Qianli in Miami, FL, USA. 🗽 His new work <a href="./publications/#2025">Cross-Refine</a> is out on arXiv and currently in submission.  </th>
+      <td><nobr>2024-11-30</nobr></td>
+      <td>Position</td>
+      <td>I am joining <a href="https://www.tu.berlin/en/qu/ueber-uns/team-personen/senior-researchers/nils-feldhus">TU Berlin</a> and <a href="https://www.bifold.berlin/">BIFOLD</a> in January 2025. My project IlluminateCardio will focus on the interpretability of large language models, human-AI alignment, and applications to cardiovascular medicine in collaboration with Prof. Alexander Meyer (Charité). 🏛️🏥  </td>
     </tr>
     <tr>
-      <th><nobr>2024-09-08</nobr></th>
-      <th>Talk</th>
-      <th>Traveling to Japan next week! 🗾 I will first give a talk at <a href="https://luululu.com/en/">Eiji Aramaki's Social Computing Lab</a> at NAIST (Nara), attend the <a href="https://sites.google.com/view/yrrsds2024/program">YRRSDS</a> and SIGDIAL 2024 in Kyoto, and then head to Tokyo for <a href="https://inlg2024.github.io/program.html">INLG 2024</a>.  </th>
+      <td><nobr>2024-11-30</nobr></td>
+      <td>Accept</td>
+      <td><a href="./publications/#2025">Cross-Refine</a> accepted for COLING 2025.  </td>
+    </tr>
+    <tr>
+      <td><nobr>2024-09-30</nobr></td>
+      <td>Accept</td>
+      <td><a href="./publications/#2024">CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems</a> has been accepted to EMNLP 2024 Findings and will be presented by Qianli in Miami, FL, USA. 🗽 His new work <a href="./publications/#2025">Cross-Refine</a> is out on arXiv and currently in submission.  </td>
+    </tr>
+    <tr>
+      <td><nobr>2024-09-08</nobr></td>
+      <td>Talk</td>
+      <td>Traveling to Japan next week! 🗾 I will first give a talk at <a href="https://luululu.com/en/">Eiji Aramaki's Social Computing Lab</a> at NAIST (Nara), attend the <a href="https://sites.google.com/view/yrrsds2024/program">YRRSDS</a> and SIGDIAL 2024 in Kyoto, and then head to Tokyo for <a href="https://inlg2024.github.io/program.html">INLG 2024</a>.  </td>
     </tr>
   </tbody>
 </table>

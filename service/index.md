@@ -19,7 +19,7 @@ title: "Service"
 
 
 # Conference Reviewer
-**ARR May 2025 (EMNLP 2025)**  
+**ARR May 2025 (EMNLP 2025)** (<a href="https://arrgreatreviewers.org/reviewers/2025_05/">Top 24 reviewer</a>)  
 **COLM 2025**  
 **ARR February 2025 (ACL 2025)** (+ Emergency Reviews)  
 **NAACL 2024**  
@@ -43,8 +43,9 @@ EMNLP 2020
 ACL 2020  
 
 # Workshop Reviewer
+[**BlackboxNLP**](https://blackboxnlp.github.io/2025/) @ EMNLP 2025  
 [GEM^2](https://gem-benchmark.com/workshop) @ ACL 2025  
-[**BlackboxNLP**](https://blackboxnlp.github.io) @ EMNLP 2024  
+[**BlackboxNLP**](https://blackboxnlp.github.io/2024/) @ EMNLP 2024  
 [**BlackboxNLP**](https://blackboxnlp.github.io/2023/) @ EMNLP 2023  
 [**BlackboxNLP**](https://blackboxnlp.github.io/2022/) @ EMNLP 2022  
 [BlackboxNLP](https://blackboxnlp.github.io/2021/) @ EMNLP 2021 (secondary)  
