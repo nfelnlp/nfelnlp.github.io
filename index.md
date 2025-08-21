@@ -25,7 +25,7 @@ I am open to collaborations on rationale generation, text simplification and sum
     <tr>
       <td><nobr>2025-08-20</nobr></td>
       <td>Accept</td>
-      <td>Our <a href="./publications/#2025">table understanding study</a> led by Qianli has been accepted for Findings of EMNLP 2025! See you in 🇨🇳 Suzhou!</td>
+      <td>Our <a href="./publications/#2025">multilingual conversational XAI datasets paper</a> led by Qianli has been accepted for Findings of EMNLP 2025! See you in 🇨🇳 Suzhou!</td>
     </tr>
     <tr>
       <td><nobr>2025-07-31</nobr></td>
