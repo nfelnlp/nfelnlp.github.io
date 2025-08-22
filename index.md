@@ -23,9 +23,19 @@ I am open to collaborations on rationale generation, text simplification and sum
   </thead>
   <tbody>
     <tr>
+      <td><nobr>2025-08-22</nobr></td>
+      <td>Accept</td>
+      <td>Our paper on <a href="./publications/#2025">evaluating LLM-generated counterfactuals</a> led by Qianli has been accepted at INLG 2025 in 🇻🇳 Hanoi!</td>
+    </tr>
+    <tr>
       <td><nobr>2025-08-20</nobr></td>
       <td>Accept</td>
       <td>Our <a href="./publications/#2025">multilingual conversational XAI datasets paper</a> led by Qianli has been accepted for Findings of EMNLP 2025! See you in 🇨🇳 Suzhou!</td>
+    </tr>
+    <tr>
+      <td><nobr>2025-08-12</nobr></td>
+      <td>Service</td>
+      <td>I'm co-organizing the inaugural <a href="https://ynlg-workshop.github.io">YNLG Workshop</a> for Young Researchers in Natural Language Generation! Hope to see you in 🇻🇳 Hanoi!</td>
     </tr>
     <tr>
       <td><nobr>2025-07-31</nobr></td>

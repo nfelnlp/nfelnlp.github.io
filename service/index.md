@@ -56,3 +56,8 @@ IWLTP @ LREC 2020 (secondary)
 
 # Co-Organizer
 [YNLG – The 1st Workshop for Young Researchers in Natural Language Generation](https://2025.inlgmeeting.org/workshops-tutorials-young-researcher.html), co-located with INLG 2025 @ Hanoi, Vietnam
+
+# Editor
+### Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models
+Sebastian Möller, Pia Knoeferle, Britta Schulte, and **Nils Feldhus**  
+[arXiv](https://arxiv.org/abs/2503.10298)

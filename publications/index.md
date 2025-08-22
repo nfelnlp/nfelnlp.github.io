@@ -7,11 +7,16 @@ title: "Publications"
 
 ## 2025
 
+### Truth or Twist? Model Selection Strategy for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
+Qianli Wang, Van Bach Nguyen, **Nils Feldhus**, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, and Vera Schmitt  
+*INLG 2025*  
+[arXiv](https://arxiv.org/abs/2505.13972) | Proceedings available in October
+
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="125px" align="right">
 ### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, and Vera Schmitt  
 *EMNLP 2025 Findings*  
-Proceedings available in November
+[arXiv](https://arxiv.org/abs/2508.14982) | Proceedings available in November
 
 ### Free-text Rationale Generation under Readability Level Control
 Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  
@@ -57,19 +62,10 @@ Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Sebasti
 *In submission*  
 [arXiv](https://arxiv.org/abs/2505.13963)
 
-### Truth or Twist? Model Selection Strategy for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
-Qianli Wang, Van Bach Nguyen, **Nils Feldhus**, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, and Vera Schmitt  
-*In submission*  
-[arXiv](https://arxiv.org/abs/2505.13972)
-
 ### Human and LLM-based Assessment of Teaching Acts in Expert-led Explanatory Dialogues
 Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag  
 *In submission*  
 [OpenReview](https://openreview.net/forum?id=JkxMQ4AqnN)
-
-### Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models
-Sebastian Möller, Pia Knoeferle, Britta Schulte, and **Nils Feldhus**  
-[arXiv](https://arxiv.org/abs/2503.10298)
 
 ### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Sebastian Möller, and Vera Schmitt  
