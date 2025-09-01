@@ -7,7 +7,7 @@ title: "Teaching"
 
 ## Winter Semester 2025/26
 🌿 2025-10 – 2026-03 : [AI Visualization & Interpretability seminar](./aivi.md) @ TU Berlin  
-🛠️ 2025-10 – 2026-03 : [NLP and its Applications] @ TU Berlin (with Vera Schmitt, Veronika Solopova, and Jing Yang)
+🛠️ 2025-10 – 2026-03 : [NLP and its Applications](https://www.tu.berlin/index.php?id=292135) @ TU Berlin (with Vera Schmitt, Veronika Solopova, and Jing Yang)
 
 
 ## Summer Semester 2025
