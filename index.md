@@ -25,7 +25,7 @@ I am open to collaborations on rationale generation, text simplification and sum
     <tr>
       <td><nobr>2025-09-01</nobr></td>
       <td>Talks</td>
-      <td>Excited to give a talk on human-centric explainable NLP at the [AI-based Methods for the Humanities](https://www.bifold.berlin/news-events/events/ai-based-methods-for-the-humanities/agenda-and-program) event on September 23! I'll also participate in the "LLMs for Health" NII Shonan Meeting in October.</td>
+      <td>Excited to give a talk on human-centric explainable NLP at the <a href="https://www.bifold.berlin/news-events/events/ai-based-methods-for-the-humanities/agenda-and-program">AI-based Methods for the Humanities</a> event on September 23! I'll also participate in the <a href="https://shonan.nii.ac.jp/seminars/230/">"LLMs for Health" NII Shonan Meeting</a> in October.</td>
     </tr>
     <tr>
       <td><nobr>2025-08-22</nobr></td>
