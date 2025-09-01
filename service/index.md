@@ -19,6 +19,7 @@ title: "Service"
 
 
 # Conference Reviewer
+**EMNLP 2025 System Demonstrations** (Emergency Reviews)  
 **ARR May 2025 (EMNLP 2025)** (<a href="https://arrgreatreviewers.org/reviewers/2025_05/">Top 24 reviewer</a>)  
 **COLM 2025**  
 **ARR February 2025 (ACL 2025)** (+ Emergency Reviews)  
@@ -55,7 +56,7 @@ IWLTP @ LREC 2020 (secondary)
 
 
 # Co-Organizer
-[YNLG – The 1st Workshop for Young Researchers in Natural Language Generation](https://2025.inlgmeeting.org/workshops-tutorials-young-researcher.html), co-located with INLG 2025 @ Hanoi, Vietnam
+[YNLG – The 1st Workshop for Young Researchers in Natural Language Generation](https://2025.inlgmeeting.org/workshops-tutorials-young-researcher.html), co-located with INLG 2025 @ Hanoi, Vietnam. Co-organized with Alyssa Allen, Rudali Huidrom, Michela Lorandi, Adarsa Sivaprasad, and Patricia Schmidtova.  
 
 # Editor
 ### Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models

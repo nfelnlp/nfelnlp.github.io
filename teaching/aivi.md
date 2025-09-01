@@ -49,12 +49,12 @@ Attendees will take turns presenting [explorables](https://visxai.io), demonstra
     <tr>
       <td>2025-10-31</td>
       <td>–</td>
-      <td>Moses registration deadline (14:00)</td>
+      <td>No session; Moses registration deadline (14:00)</td>
     </tr>
     <tr>
       <td>2025-11-07</td>
       <td>–</td>
-      <td>No session; Use for preparation of presentations</td>
+      <td>No session; Preparation of presentations</td>
     </tr>
     <tr>
       <td>2025-11-14</td>

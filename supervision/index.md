@@ -17,13 +17,13 @@ title: "Supervision"
 [Steffen Castle](https://dfki-nlp.github.io/authors/steffen-castle/) (with Sebastian Möller) – PhD @ TU Berlin / DFKI  
 
 ## Ongoing Master's thesis supervisions
-Radhika Yadav (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – MSc thesis @ Uni Potsdam: _Exploring and Addressing Overreliance on LLM-Generated Explanations in the Fact-Checking Domain_
+Radhika Yadav (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – MSc thesis @ Uni Potsdam: _Exploring and Addressing Overreliance on LLM-Generated Explanations in the Fact-Checking Domain_  
 
 Valentin Garbe – MSc thesis @ TU Berlin: _Interpreting LLMs' Decision-Making in API Calling and Tool Use_  
 
 Jiaao Li (with Qianli Wang) – MSc thesis @ TU Berlin: _An Adaptive and Efficient Chain-of-Thought with Code-formatted Reasoning Framework for CodeLLMs_  
 
-*+1 TBA*
+*+2 TBA*
 
 ## Ongoing Bachelor's thesis supervisions
 Aaron Louis Eidt – BSc thesis @ TU Berlin: _Simplifying Outcomes of Language Model Component Analyses_  

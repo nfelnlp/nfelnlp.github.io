@@ -23,6 +23,11 @@ I am open to collaborations on rationale generation, text simplification and sum
   </thead>
   <tbody>
     <tr>
+      <td><nobr>2025-09-01</nobr></td>
+      <td>Talks</td>
+      <td>Excited to give a talk on human-centric explainable NLP at the [AI-based Methods for the Humanities](https://www.bifold.berlin/news-events/events/ai-based-methods-for-the-humanities/agenda-and-program) event on September 23! I'll also participate in the "LLMs for Health" NII Shonan Meeting in October.</td>
+    </tr>
+    <tr>
       <td><nobr>2025-08-22</nobr></td>
       <td>Accept</td>
       <td>Our paper on <a href="./publications/#2025">evaluating LLM-generated counterfactuals</a> led by Qianli has been accepted at INLG 2025 in 🇻🇳 Hanoi!</td>

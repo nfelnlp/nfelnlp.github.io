@@ -22,21 +22,21 @@ repository               : "nfelnlp/nfelnlp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
+  avatar           : "avatar_nara.jpeg"
   name             : ""
   pronouns         : # example: "she/her"
   bio              : ""
   location         : "Berlin, Germany"
   employer         : "TU Berlin, BIFOLD, DFKI"
   uri              : # URL
-  email            : "nils.feldhus@dfki.de"
+  email            : "feldhus@tu-berlin.de"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=nM50iv8AAAAJ"
   semanticscholar  : "https://www.semanticscholar.org/author/Nils-Feldhus/1641658310"
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0009-0008-7408-7483"
   pubmed           : # URL
   researchgate     : # URL
 
@@ -282,7 +282,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
