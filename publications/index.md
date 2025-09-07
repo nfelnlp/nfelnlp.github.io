@@ -7,6 +7,11 @@ title: "Publications"
 
 ## 2025
 
+### Human and LLM-based Assessment of Teaching Acts in Expert-led Explanatory Dialogues
+Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag  
+*CODI @ EMNLP 2025*  <sup><sub>(Rejected from ACL 2025, SIGDIAL 2025)</sub></sup>  
+[OpenReview](https://openreview.net/forum?id=JkxMQ4AqnN) | Proceedings available in November
+
 ### Truth or Twist? Model Selection Strategy for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
 Qianli Wang, Van Bach Nguyen, **Nils Feldhus**, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, and Vera Schmitt  
 *INLG 2025*  
@@ -20,7 +25,7 @@ Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Fedor Splitt, J
 
 ### Free-text Rationale Generation under Readability Level Control
 Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  
-*GEM^2 @ ACL 2025*  
+*GEM^2 @ ACL 2025* <sup><sub>(Rejected from EMNLP 2024, NAACL 2025, ACL 2025)</sub></sup>  
 [ACL Anthology](https://aclanthology.org/2025.gem-1.11/) | [arXiv](https://arxiv.org/abs/2407.01384) | [GitHub](https://github.com/doyouwantsometea/nle_readability)
 
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/fitcf_logo.png?raw=true" width="125px" align="right">
@@ -61,11 +66,6 @@ Laura Kopf, **Nils Feldhus**, Kirill Bykov, Philine Lou Bommer, Anna Hedström, 
 Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Sebastian Möller, Hinrich Schütze, and Vera Schmitt  
 *In submission*  
 [arXiv](https://arxiv.org/abs/2505.13963)
-
-### Human and LLM-based Assessment of Teaching Acts in Expert-led Explanatory Dialogues
-Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag  
-*In submission*  
-[OpenReview](https://openreview.net/forum?id=JkxMQ4AqnN)
 
 ### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Sebastian Möller, and Vera Schmitt  
