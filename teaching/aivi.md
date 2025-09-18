@@ -9,6 +9,7 @@ title: "AI Visualization & Interpretability (AIVI) seminar"
 * TU Berlin, [QU Lab](https://www.tu.berlin/qu/)
 * Room: MAR building (Room 0.001), presence **required**
 * Fridays, 14:00 – 16:00
+* [ISIS course page](https://isis.tu-berlin.de/course/view.php?id=44831)
 
 
 ## Description
@@ -49,7 +50,7 @@ Attendees will take turns presenting [explorables](https://visxai.io), demonstra
     <tr>
       <td>2025-10-31</td>
       <td>–</td>
-      <td>No session; Moses registration deadline (14:00)</td>
+      <td>No session; Deadline for Moses registration (14:00); Deadline for the ranked-choice poll on papers to present (23:59)</td>
     </tr>
     <tr>
       <td>2025-11-07</td>
@@ -133,3 +134,32 @@ Attendees will take turns presenting [explorables](https://visxai.io), demonstra
     </tr>
   </tbody>
 </table>
+
+
+## Literature
+Archetypal SAE: Adaptive and Stable Dictionary Learning for Concept Extraction in Large Vision Models (Fel et al., ICML 2025)  
+A Visual Guide to LLM Agents (Grootendorst, 2025)  
+A Visual Guide to Quantization (Grootendorst, 2024)  
+Building Appropriate Mental Models: What Users Know and Want to Know about an Agentic AI Chatbot (Brachman et al., IUI 2025)  
+Circuit Tracing: Revealing Computational Graphs in Language Models (Ameisen et al., 2025)  
+Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM (Lam et al., CHI 2024)  
+DeepLens: Interactive Out-of-distribution Data Detection in NLP Models (Song et al., CHI 2023)  
+Demystifying Verbatim Memorization in Large Language Models (Huang et al., EMNLP 2024)  
+exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformer Models (Hoover et al., ACL 2020)  
+Explainability Perspectives on a Vision Transformer: From Global Architecture to Single Neuron (Marx et al., VISxAI 2024)  
+Explaining Text-to-Command Conversational Models (Stupar et al., VISxAI 2024)  
+Farsight: Fostering Responsible AI Awareness During AI Application Prototyping (Wang et al., CHI 2024)  
+From Discovery to Adoption: Understanding the ML Practitioners’ Interpretability Journey (Ashtari et al., DIS 2023)  
+Interactive Model Cards: A Human-Centered Approach to Model Documentation (Crisan et al., FAccT 2022)  
+LLM Comparator: Visual Analytics for Side-by-Side Evaluation of Large Language Models (Kahng et al., CHI 2024)  
+LM Transparency Tool: Interactive Tool for Analyzing Transformer Language Models (Tufanov et al., ACL 2024)  
+OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training Tokens (Liu et al., ACL 2025)  
+Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models (Ghandeharioun et al., ICML 2024)  
+Towards Monosemanticity: Decomposing Language Models With Dictionary Learning (Bricken et al., Transformer Circuits 2023)  
+Toy Models of Superposition (Elhage et al., Transformer Circuits 2022)  
+Transformer Explainer: Interactive Learning of Text-Generative Models (Cho et al., VIS 2024)  
+Understanding and Comparing Multi-Modal Models (Humer et al., VISxAI 2024)  
+Where is the information in data? (Murphy & Bassett, VISxAI 2024)  
+Xplique: A Deep Learning Explainability Toolbox (Fel et al., CVPR 2022)
+
+(sorted alphabetically)

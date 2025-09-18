@@ -5,11 +5,11 @@ author_profile: true
 ---
 
 Welcome! 👋 I am a Postdoctoral Researcher at the Technische Universität Berlin (TU Berlin)
-under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) (Quality and Usability Lab) and the [Berlin Institute for the Foundations of Learning (BIFOLD)](https://www.bifold.berlin/) supervised by [Alexander Meyer](https://www.bifold.berlin/people/prof-dr-alexander-meyer.html) (DHZC),
+under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) (Quality and Usability Lab) and the [Berlin Institute for the Foundations of Learning and Data (BIFOLD)](https://www.bifold.berlin/) supervised by [Alexander Meyer](https://www.bifold.berlin/people/prof-dr-alexander-meyer.html) (DHZC),
 affiliated with the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) as a guest researcher.
 
 # Research interests 👀
-Advancing the interpretability of language models with the goal of increasing trust and simplifying access to explanations!  
+Advancing the interpretability of language models with the goal of increasing trust in and simplifying access to explanations!  
 I am open to collaborations on rationale generation, text simplification and summarization, concept explanations, biomedical and clinical NLP, and evaluation measures for model-generated text.  
 
 # News 🤩
@@ -22,6 +22,11 @@ I am open to collaborations on rationale generation, text simplification and sum
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><nobr>2025-09-18</nobr></td>
+      <td>Accept</td>
+      <td>My survey with Laura Kopf on concept descriptions for interpreting language models will appear at the BlackboxNLP workshop, co-located with EMNLP 2025 in Suzhou! </td>
+    </tr>
     <tr>
       <td><nobr>2025-09-07</nobr></td>
       <td>Accept</td>
@@ -141,11 +146,6 @@ I am open to collaborations on rationale generation, text simplification and sum
       <td><nobr>2024-09-30</nobr></td>
       <td>Accept</td>
       <td><a href="./publications/#2024">CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems</a> has been accepted to EMNLP 2024 Findings and will be presented by Qianli in Miami, FL, USA. 🗽 His new work <a href="./publications/#2025">Cross-Refine</a> is out on arXiv and currently in submission.  </td>
-    </tr>
-    <tr>
-      <td><nobr>2024-09-08</nobr></td>
-      <td>Talk</td>
-      <td>Traveling to Japan next week! 🗾 I will first give a talk at <a href="https://luululu.com/en/">Eiji Aramaki's Social Computing Lab</a> at NAIST (Nara), attend the <a href="https://sites.google.com/view/yrrsds2024/program">YRRSDS</a> and SIGDIAL 2024 in Kyoto, and then head to Tokyo for <a href="https://inlg2024.github.io/program.html">INLG 2024</a>.  </td>
     </tr>
   </tbody>
 </table>

@@ -7,10 +7,15 @@ title: "Publications"
 
 ## 2025
 
+### Interpreting Language Models Through Concept Descriptions: A Survey
+**Nils Feldhus** and Laura Kopf  
+*BlackboxNLP @ EMNLP 2025*  
+Proceedings available in November
+
 ### Human and LLM-based Assessment of Teaching Acts in Expert-led Explanatory Dialogues
 Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag  
 *CODI @ EMNLP 2025*  <sup><sub>(Rejected from ACL 2025, SIGDIAL 2025)</sub></sup>  
-[OpenReview](https://openreview.net/forum?id=JkxMQ4AqnN) | Proceedings available in November
+[OpenReview](https://openreview.net/forum?id=JkxMQ4AqnN) | [GitHub](https://github.com/nfelnlp/InstruX) | Proceedings available in November
 
 ### Truth or Twist? Model Selection Strategy for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
 Qianli Wang, Van Bach Nguyen, **Nils Feldhus**, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, and Vera Schmitt  

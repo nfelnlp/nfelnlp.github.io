@@ -21,16 +21,18 @@ Radhika Yadav (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – M
 
 Valentin Garbe – MSc thesis @ TU Berlin: _Interpreting LLMs' Decision-Making in API Calling and Tool Use_  
 
-Jiaao Li (with Qianli Wang) – MSc thesis @ TU Berlin: _An Adaptive and Efficient Chain-of-Thought with Code-formatted Reasoning Framework for CodeLLMs_  
+Jiaao Li (with Qianli Wang) – MSc thesis @ TU Berlin: _An Adaptive and Efficient Chain-of-Thought with Code-formatted Reasoning Framework for CodeLLMs_
 
-*+2 TBA*
+Jonas Peschel (with [Charlott Jakob](https://xplainlp.github.io/authors/charlott-jakob/)) – MSc thesis @ TU Berlin: _Explaining Retrieval Augmented Generation: Automated Fact-Checking with Faithful Answer Attribution_
+
+*+1 TBA*
 
 ## Ongoing Bachelor's thesis supervisions
-Aaron Louis Eidt – BSc thesis @ TU Berlin: _Simplifying Outcomes of Language Model Component Analyses_  
-
 Minh Anh Nguyen – BSc thesis @ TU Berlin: _Explaining Blind Spots of Model-based Evaluation Metrics for Text Generation_
 
-Moritz Starcke – BSc thesis @ TU Berlin: _Ein systematischer Überblick über LLMs in der medizinischen Diagnostik_  
+Moritz Starcke – BSc thesis @ TU Berlin: _Ein systematischer Überblick über LLMs in der medizinischen Diagnostik_
+
+Yilong Wang – BSc thesis @ TU Berlin: _AIGC: Automatic Iterative Generation for Counterfactuals_
 
 ---
 
@@ -49,6 +51,8 @@ Kiran Rohra (with [Philippe Thomas](https://github.com/erechtheus)) – MSc thes
 Daniel Fernau (with [Tim Polzehl](https://www.tu.berlin/en/qu/ueber-uns/team-personen/gast-wissenschaftler-partner/dr-tim-polzehl) & [Stefan Hillmann](https://www.tu.berlin/index.php?id=29495)) – MSc thesis @ TU Berlin: _Towards Adaptive Conversational Agents: Fine-tuning Language-Models for User Classification to enhance Usability_
 
 ## Completed Bachelor's thesis supervisions
+Aaron Louis Eidt – BSc thesis @ TU Berlin: _Simplifying Outcomes of Language Model Component Analyses_
+
 Maximilian Bleick (with [Aljoscha Burchardt](https://www.dfki.de/~aburch/)) – BSc thesis @ TU Berlin: [_An Investigation of LLM Chatbots Concerning the Echo Chamber Effect_](https://tu.berlin/index.php?id=246820)
 
 Mika Rebensburg (with [Tim Polzehl](https://www.tu.berlin/en/qu/ueber-uns/team-personen/gast-wissenschaftler-partner/dr-tim-polzehl) & [Stefan Hillmann](https://www.tu.berlin/index.php?id=29495)) - BSc thesis @ TU Berlin : _Automatic Evaluation of Chatbot Dialogs Using Pre-Trained Language Models in the Customer Support Domain_   
