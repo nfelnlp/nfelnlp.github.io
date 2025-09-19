@@ -17,8 +17,6 @@ title: "Supervision"
 [Steffen Castle](https://dfki-nlp.github.io/authors/steffen-castle/) (with Sebastian Möller) – PhD @ TU Berlin / DFKI  
 
 ## Ongoing Master's thesis supervisions
-Radhika Yadav (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – MSc thesis @ Uni Potsdam: _Exploring and Addressing Overreliance on LLM-Generated Explanations in the Fact-Checking Domain_  
-
 Valentin Garbe – MSc thesis @ TU Berlin: _Interpreting LLMs' Decision-Making in API Calling and Tool Use_  
 
 Jiaao Li (with Qianli Wang) – MSc thesis @ TU Berlin: _An Adaptive and Efficient Chain-of-Thought with Code-formatted Reasoning Framework for CodeLLMs_
@@ -32,12 +30,14 @@ Minh Anh Nguyen – BSc thesis @ TU Berlin: _Explaining Blind Spots of Model-bas
 
 Moritz Starcke – BSc thesis @ TU Berlin: _Ein systematischer Überblick über LLMs in der medizinischen Diagnostik_
 
-Yilong Wang – BSc thesis @ TU Berlin: _AIGC: Automatic Iterative Generation for Counterfactuals_
+Yilong Wang (with Qianli Wang) – BSc thesis @ TU Berlin: _AIGC: Automatic Iterative Generation for Counterfactuals_
 
 ---
 
 
 ## Completed Master's thesis supervisions
+Radhika Yadav (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – MSc thesis @ Uni Potsdam: _Exploring and Addressing Overreliance on LLM-Generated Explanations in the Fact-Checking Domain_  
+
 Yi-Sheng Hsu (with [Manfred Stede](https://www.ling.uni-potsdam.de/~stede/)) – MSc thesis @ Uni Potsdam: _Evaluating LLM-generated Explanatory Utterances through Dialogue Completion_  
 
 [Qianli Wang](https://github.com/qiaw99) (with [Leonhard Hennig](https://dfki-nlp.github.io/authors/leonhard-hennig/)) – MSC thesis @ TU Berlin: _A Singular LLM Is All You Need for Dialogue-based Explanation Regarding NLP Tasks_  
