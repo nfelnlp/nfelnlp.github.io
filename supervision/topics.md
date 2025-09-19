@@ -7,6 +7,7 @@ title: "Open Topics"
 
 If you are a **Bachelor's or Master's student at TU Berlin** and interested in writing your thesis on one of the following topics, please contact me via mail (see sidebar).  
 You should have a **solid background** in and have taken prior courses related to **natural language processing** and/or **machine learning**.  
+At the moment, I'm not in the position of supervising PhD students on my own, but I'm always happy to provide consultation on an informal basis!
 
 **2025-09-01**: I'm currently at full capacity regarding supervisions and will be open to new inquiries in December 2025.
 

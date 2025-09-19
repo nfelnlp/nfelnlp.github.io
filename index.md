@@ -23,9 +23,14 @@ I am open to collaborations on rationale generation, text simplification and sum
   </thead>
   <tbody>
     <tr>
+      <td><nobr>2025-09-19</nobr></td>
+      <td>Accept</td>
+      <td>Extremely excited about the NeurIPS 2025 acceptance of the PRISM paper led by Laura Kopf!</td>
+    </tr>
+    <tr>
       <td><nobr>2025-09-18</nobr></td>
       <td>Accept</td>
-      <td>My survey with Laura Kopf on concept descriptions for interpreting language models will appear at the BlackboxNLP workshop, co-located with EMNLP 2025 in Suzhou! </td>
+      <td>My survey with Laura Kopf on concept descriptions for interpreting language models will appear at the BlackboxNLP workshop, co-located with EMNLP 2025 in Suzhou!</td>
     </tr>
     <tr>
       <td><nobr>2025-09-07</nobr></td>

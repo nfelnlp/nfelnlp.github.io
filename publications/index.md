@@ -7,10 +7,16 @@ title: "Publications"
 
 ## 2025
 
+<img src="https://raw.githubusercontent.com/lkopf/prism/main/prism_logo.svg?raw=true" width="125px" align="right">
+### Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework
+Laura Kopf, **Nils Feldhus**, Kirill Bykov, Philine Lou Bommer, Anna Hedström, Marina M.-C. Höhne, and Oliver Eberle  
+*NeurIPS 2025*  
+[arXiv](https://arxiv.org/abs/2506.15538) | [GitHub](https://github.com/lkopf/prism)
+
 ### Interpreting Language Models Through Concept Descriptions: A Survey
 **Nils Feldhus** and Laura Kopf  
 *BlackboxNLP @ EMNLP 2025*  
-Proceedings available in November
+[OpenReview](https://openreview.net/forum?id=ek0qLHcWs5) | Proceedings available in November
 
 ### Human and LLM-based Assessment of Teaching Acts in Expert-led Explanatory Dialogues
 Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag  
@@ -59,12 +65,6 @@ Johann Frei, **Nils Feldhus**, Lisa Raithel, Roland Roller, Alexander Meyer, and
 Mahdi Dhaini, Ege Erdogan, **Nils Feldhus**, and Gjergji Kasneci  
 *FAccT 2025*  
 [ACM Digital Library](https://dl.acm.org/doi/10.1145/3715275.3732192) | [arXiv](https://arxiv.org/abs/2505.01198) | [GitHub](https://github.com/dmah10/fairness-explainable-nlp)
-
-<img src="https://raw.githubusercontent.com/lkopf/prism/main/prism_logo.svg?raw=true" width="125px" align="right">
-### Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework
-Laura Kopf, **Nils Feldhus**, Kirill Bykov, Philine Lou Bommer, Anna Hedström, Marina M.-C. Höhne, and Oliver Eberle  
-*In submission*  
-[arXiv](https://arxiv.org/abs/2506.15538) | [GitHub](https://github.com/lkopf/prism)
 
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/quantization.png?raw=true" width="125px" align="right">
 ### Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability  
