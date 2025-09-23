@@ -10,8 +10,8 @@ title: "Publications"
 <img src="https://raw.githubusercontent.com/lkopf/prism/main/prism_logo.svg?raw=true" width="125px" align="right">
 ### Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework
 Laura Kopf, **Nils Feldhus**, Kirill Bykov, Philine Lou Bommer, Anna Hedström, Marina M.-C. Höhne, and Oliver Eberle  
-*NeurIPS 2025*  
-[arXiv](https://arxiv.org/abs/2506.15538) | [GitHub](https://github.com/lkopf/prism)
+*NeurIPS 2025* & *Mechanistic Interpretability Workshop @ NeurIPS 2025*  
+[arXiv](https://arxiv.org/abs/2506.15538) | [GitHub](https://github.com/lkopf/prism) | Proceedings available in November
 
 ### Interpreting Language Models Through Concept Descriptions: A Survey
 **Nils Feldhus** and Laura Kopf  
@@ -26,13 +26,13 @@ Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning 
 ### Truth or Twist? Model Selection Strategy for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
 Qianli Wang, Van Bach Nguyen, **Nils Feldhus**, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, and Vera Schmitt  
 *INLG 2025*  
-[arXiv](https://arxiv.org/abs/2505.13972) | Proceedings available in October
+[arXiv](https://arxiv.org/abs/2505.13972) | [GitHub](https://github.com/qiaw99/truth-or-twist) | Proceedings available in October
 
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="125px" align="right">
 ### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, and Vera Schmitt  
 *EMNLP 2025 Findings*  
-[arXiv](https://arxiv.org/abs/2508.14982) | Proceedings available in November
+[arXiv](https://arxiv.org/abs/2508.14982) | [GitHub](https://github.com/qiaw99/compass) | Proceedings available in November
 
 ### Free-text Rationale Generation under Readability Level Control
 Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  
