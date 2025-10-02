@@ -16,7 +16,7 @@ Laura Kopf, **Nils Feldhus**, Kirill Bykov, Philine Lou Bommer, Anna Hedström, 
 ### Interpreting Language Models Through Concept Descriptions: A Survey
 **Nils Feldhus** and Laura Kopf  
 *BlackboxNLP @ EMNLP 2025*  
-[OpenReview](https://openreview.net/forum?id=ek0qLHcWs5) | Proceedings available in November
+[arXiv](https://arxiv.org/abs/2510.01048) | [OpenReview](https://openreview.net/forum?id=ek0qLHcWs5) | Proceedings available in November
 
 ### Human and LLM-based Assessment of Teaching Acts in Expert-led Explanatory Dialogues
 Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag  
@@ -25,7 +25,7 @@ Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning 
 
 ### Truth or Twist? Model Selection Strategy for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
 Qianli Wang, Van Bach Nguyen, **Nils Feldhus**, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, and Vera Schmitt  
-*INLG 2025*  
+*INLG 2025* (Oral)  
 [arXiv](https://arxiv.org/abs/2505.13972) | [GitHub](https://github.com/qiaw99/truth-or-twist) | Proceedings available in October
 
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="125px" align="right">
