@@ -147,11 +147,6 @@ I am open to collaborations on rationale generation, text simplification and sum
       <td>Accept</td>
       <td><a href="./publications/#2025">Cross-Refine</a> accepted for COLING 2025.  </td>
     </tr>
-    <tr>
-      <td><nobr>2024-09-30</nobr></td>
-      <td>Accept</td>
-      <td><a href="./publications/#2024">CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems</a> has been accepted to EMNLP 2024 Findings and will be presented by Qianli in Miami, FL, USA. 🗽 His new work <a href="./publications/#2025">Cross-Refine</a> is out on arXiv and currently in submission.  </td>
-    </tr>
   </tbody>
 </table>
 

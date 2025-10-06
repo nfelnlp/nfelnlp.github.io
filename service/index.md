@@ -11,6 +11,7 @@ title: "Service"
 # Area Chair
 
 ### [ACL Rolling Review](https://aclrollingreview.org/aes)
+**ARR October 2025 (EACL 2026)**  
 **ARR December 2024**  
 **ARR October 2024 (NAACL 2025)**  
 **ARR June 2024 (EMNLP 2024)**  
