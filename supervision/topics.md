@@ -36,7 +36,7 @@ Translating layer analyses "globally" (across a whole dataset) and "locally" (fo
 [6] <a href="https://aclanthology.org/2024.emnlp-main.318/">RSA-Control (Wang & Demberg, EMNLP 2024)</a><br>
 </p><br>
 
-**Agentic auto-intepretability**
+**Agentic auto-interpretability**
 Designing LLM agents with self-testing and self-interpretability tools to write model evaluation reports
 <p style="font-size:smaller;">
 [1] <a href="https://dl.acm.org/doi/10.5555/3692070.3693872">MAIA (Shaham et al., ICML 2024)</a><br>

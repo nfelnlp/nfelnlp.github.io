@@ -4,6 +4,9 @@ classes: wide
 author_profile: true
 title: "Talks"
 ---
+
+2025-10-20 : Social Computing Lab @ NAIST (Nara, Japan 🇯🇵), hosted by [Eiji Aramaki](https://luululu.com/en/) – Situated Explanations
+
 2025-10-13 : Participant in the NII Shonan Meeting [No. 230: "Large Language Models for Health"](https://shonan.nii.ac.jp/seminars/230/) (Kanagawa, Japan 🇯🇵) 
 
 2025-09-23 : [AI-based Methods for the Humanities](https://www.bifold.berlin/news-events/events/ai-based-methods-for-the-humanities) (BIFOLD Event) @ ECDF, Berlin – Human-centric Explainable Natural Language Processing

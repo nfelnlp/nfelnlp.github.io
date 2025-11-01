@@ -20,6 +20,7 @@ title: "Service"
 
 
 # Conference Reviewer
+**EACL 2026 System Demonstrations**  
 **EMNLP 2025 System Demonstrations** (Emergency Reviews)  
 **ARR May 2025 (EMNLP 2025)** (<a href="https://arrgreatreviewers.org/reviewers/2025_05/">Top 24 reviewer</a>)  
 **COLM 2025**  

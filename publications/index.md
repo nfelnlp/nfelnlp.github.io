@@ -11,17 +11,17 @@ title: "Publications"
 ### Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework
 Laura Kopf, **Nils Feldhus**, Kirill Bykov, Philine Lou Bommer, Anna Hedström, Marina M.-C. Höhne, and Oliver Eberle  
 *NeurIPS 2025* & *Mechanistic Interpretability Workshop @ NeurIPS 2025*  
-[arXiv](https://arxiv.org/abs/2506.15538) | [GitHub](https://github.com/lkopf/prism) | Proceedings available in November
+[OpenReview](https://openreview.net/forum?id=btJUnAPQ7j) | [arXiv](https://arxiv.org/abs/2506.15538) | [GitHub](https://github.com/lkopf/prism)
 
 ### Interpreting Language Models Through Concept Descriptions: A Survey
 **Nils Feldhus** and Laura Kopf  
 *BlackboxNLP @ EMNLP 2025*  
-[arXiv](https://arxiv.org/abs/2510.01048) | [OpenReview](https://openreview.net/forum?id=ek0qLHcWs5) | Proceedings available in November
+[ACL Anthology](https://aclanthology.org/2025.blackboxnlp-1.8/) | [arXiv](https://arxiv.org/abs/2510.01048) | [OpenReview](https://openreview.net/forum?id=ek0qLHcWs5)
 
 ### Human and LLM-based Assessment of Teaching Acts in Expert-led Explanatory Dialogues
 Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning Wachsmuth, and Daniel Sonntag  
 *CODI @ EMNLP 2025*  <sup><sub>(Rejected from ACL 2025, SIGDIAL 2025)</sub></sup>  
-[OpenReview](https://openreview.net/forum?id=JkxMQ4AqnN) | [GitHub](https://github.com/nfelnlp/InstruX) | Proceedings available in November
+[ACL Anthology](https://aclanthology.org/2025.codi-1.15/) | [OpenReview](https://openreview.net/forum?id=JkxMQ4AqnN) | [GitHub](https://github.com/nfelnlp/InstruX)
 
 ### Truth or Twist? Model Selection Strategy for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
 Qianli Wang, Van Bach Nguyen, **Nils Feldhus**, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, and Vera Schmitt  
@@ -32,7 +32,7 @@ Qianli Wang, Van Bach Nguyen, **Nils Feldhus**, Luis Felipe Villa-Arenas, Christ
 ### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, and Vera Schmitt  
 *EMNLP 2025 Findings*  
-[arXiv](https://arxiv.org/abs/2508.14982) | [GitHub](https://github.com/qiaw99/compass) | Proceedings available in November
+[ACL Anthology](https://aclanthology.org/2025.findings-emnlp.29/) | [arXiv](https://arxiv.org/abs/2508.14982) | [GitHub](https://github.com/qiaw99/compass)
 
 ### Free-text Rationale Generation under Readability Level Control
 Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  
