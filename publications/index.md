@@ -23,16 +23,16 @@ Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning 
 *CODI @ EMNLP 2025*  <sup><sub>(Rejected from ACL 2025, SIGDIAL 2025)</sub></sup>  
 [ACL Anthology](https://aclanthology.org/2025.codi-1.15/) | [OpenReview](https://openreview.net/forum?id=JkxMQ4AqnN) | [GitHub](https://github.com/nfelnlp/InstruX)
 
-### Truth or Twist? Model Selection Strategy for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
-Qianli Wang, Van Bach Nguyen, **Nils Feldhus**, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, and Vera Schmitt  
-*INLG 2025* (Oral)  
-[arXiv](https://arxiv.org/abs/2505.13972) | [GitHub](https://github.com/qiaw99/truth-or-twist) | Proceedings available in October
-
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="125px" align="right">
 ### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, and Vera Schmitt  
 *EMNLP 2025 Findings*  
 [ACL Anthology](https://aclanthology.org/2025.findings-emnlp.29/) | [arXiv](https://arxiv.org/abs/2508.14982) | [GitHub](https://github.com/qiaw99/compass)
+
+### Truth or Twist? Model Selection Strategy for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
+Qianli Wang, Van Bach Nguyen, **Nils Feldhus**, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, and Vera Schmitt  
+*INLG 2025* (Oral)  
+[ACL Anthology](https://aclanthology.org/2025.inlg-main.5/) | [arXiv](https://arxiv.org/abs/2505.13972) | [GitHub](https://github.com/qiaw99/truth-or-twist)
 
 ### Free-text Rationale Generation under Readability Level Control
 Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov  

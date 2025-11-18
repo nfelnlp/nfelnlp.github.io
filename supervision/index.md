@@ -26,11 +26,7 @@ Jonas Peschel (with [Charlott Jakob](https://xplainlp.github.io/authors/charlott
 *+1 TBA*
 
 ## Ongoing Bachelor's thesis supervisions
-Minh Anh Nguyen – BSc thesis @ TU Berlin: _Explaining Blind Spots of Model-based Evaluation Metrics for Text Generation_
-
 Moritz Starcke – BSc thesis @ TU Berlin: _Ein systematischer Überblick über LLMs in der medizinischen Diagnostik_
-
-Yilong Wang (with Qianli Wang) – BSc thesis @ TU Berlin: _AIGC: Automatic Iterative Generation for Counterfactuals_
 
 ---
 
@@ -51,6 +47,10 @@ Kiran Rohra (with [Philippe Thomas](https://github.com/erechtheus)) – MSc thes
 Daniel Fernau (with [Tim Polzehl](https://www.tu.berlin/en/qu/ueber-uns/team-personen/gast-wissenschaftler-partner/dr-tim-polzehl) & [Stefan Hillmann](https://www.tu.berlin/index.php?id=29495)) – MSc thesis @ TU Berlin: _Towards Adaptive Conversational Agents: Fine-tuning Language-Models for User Classification to enhance Usability_
 
 ## Completed Bachelor's thesis supervisions
+Minh Anh Nguyen – BSc thesis @ TU Berlin: _Explaining Blind Spots of Model-based Evaluation Metrics for Text Generation_
+
+Yilong Wang (with Qianli Wang) – BSc thesis @ TU Berlin: _AIGC: Automatic Iterative Generation for Counterfactuals_
+
 Aaron Louis Eidt – BSc thesis @ TU Berlin: _Simplifying Outcomes of Language Model Component Analyses_
 
 Maximilian Bleick (with [Aljoscha Burchardt](https://www.dfki.de/~aburch/)) – BSc thesis @ TU Berlin: [_An Investigation of LLM Chatbots Concerning the Echo Chamber Effect_](https://tu.berlin/index.php?id=246820)
