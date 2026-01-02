@@ -25,7 +25,7 @@ I am open to collaborations on rationale generation, text simplification and sum
     <tr>
       <td><nobr>2026-01-02</nobr></td>
       <td>Recap</td>
-      <td>I published my <a href="./recommended/2025.md">2025 Recap</a> highlighting 86 papers that really excite me.</td>
+      <td>I published my <a href="./recommended/2025">2025 Recap</a> highlighting 86 papers that really excite me.</td>
     </tr>
     <tr>
       <td><nobr>2025-09-19</nobr></td>

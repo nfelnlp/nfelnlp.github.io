@@ -37,6 +37,7 @@ This page contains my favorite survey papers and tutorials related to my researc
 ### Annual recaps
 On an annual basis, I publish a list of my favorite papers from major conferences (ACL, EMNLP, COLM, NeurIPS, ICLR, CHI, FAccT, etc.).
 * [2024 Recap](./2024.md) 
+* [2025 Recap](./2024.md) 
 
 
 ## Writing
