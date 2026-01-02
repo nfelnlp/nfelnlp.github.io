@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 Welcome! 👋 I am a Postdoctoral Researcher at the Technische Universität Berlin (TU Berlin)
-under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) (Quality and Usability Lab) and the [Berlin Institute for the Foundations of Learning and Data (BIFOLD)](https://www.bifold.berlin/) supervised by [Alexander Meyer](https://www.bifold.berlin/people/prof-dr-alexander-meyer.html) (DHZC),
+under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) (Quality and Usability Lab) and the [Berlin Institute for the Foundations of Learning and Data (BIFOLD)](https://www.bifold.berlin/) supervised by [Alexander Meyer](https://ikim.charite.de/metas/person/person/address_detail/univ_prof_dr_med_alexander_meyer) (IKIM @ Charité),
 affiliated with the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) as a guest researcher.
 
 # Research interests 👀
@@ -22,6 +22,11 @@ I am open to collaborations on rationale generation, text simplification and sum
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><nobr>2026-01-02</nobr></td>
+      <td>Recap</td>
+      <td>I published my <a href="./recommended/2025.md">2025 Recap</a> highlighting 86 papers that really excite me.</td>
+    </tr>
     <tr>
       <td><nobr>2025-09-19</nobr></td>
       <td>Accept</td>
@@ -131,21 +136,6 @@ I am open to collaborations on rationale generation, text simplification and sum
       <td><nobr>2025-01-25</nobr></td>
       <td>Pre-print</td>
       <td>Co-authored paper in submission: <a href="./publications/#2025">FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation</a>.  </td>
-    </tr>
-    <tr>
-      <td><nobr>2024-12-29</nobr></td>
-      <td>Recap</td>
-      <td>I published my <a href="./recommended/2024.md">2024 Recap</a> showcasing my favorite papers from this year's major conferences.  </td>
-    </tr>
-    <tr>
-      <td><nobr>2024-11-30</nobr></td>
-      <td>Position</td>
-      <td>I am joining <a href="https://www.tu.berlin/en/qu/ueber-uns/team-personen/senior-researchers/nils-feldhus">TU Berlin</a> and <a href="https://www.bifold.berlin/">BIFOLD</a> in January 2025. My project IlluminateCardio will focus on the interpretability of large language models, human-AI alignment, and applications to cardiovascular medicine in collaboration with Prof. Alexander Meyer (Charité). 🏛️🏥  </td>
-    </tr>
-    <tr>
-      <td><nobr>2024-11-30</nobr></td>
-      <td>Accept</td>
-      <td><a href="./publications/#2025">Cross-Refine</a> accepted for COLING 2025.  </td>
     </tr>
   </tbody>
 </table>

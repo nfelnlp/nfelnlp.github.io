@@ -4,6 +4,9 @@ classes: wide
 author_profile: true
 ---
 
+2024-12-29 | I published my <a href="./recommended/2024.md">2024 Recap</a> showcasing my favorite papers from this year's major conferences.  
+2024-11-30 | I am joining <a href="https://www.tu.berlin/en/qu/ueber-uns/team-personen/senior-researchers/nils-feldhus">TU Berlin</a> and <a href="https://www.bifold.berlin/">BIFOLD</a> in January 2025. My project IlluminateCardio will focus on the interpretability of large language models, human-AI alignment, and applications to cardiovascular medicine in collaboration with Prof. Alexander Meyer (Charité). 🏛️🏥  
+2024-11-30 | <a href="./publications/#2025">Cross-Refine</a> accepted for COLING 2025.  
 2024-09-30 | <a href="./publications/#2024">CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems</a> has been accepted to EMNLP 2024 Findings and will be presented by Qianli in Miami, FL, USA. 🗽 His new work <a href="./publications/#2025">Cross-Refine</a> is out on arXiv and currently in submission.  
 2024-09-08 | Traveling to Japan next week! 🗾 I will first give a talk at <a href="https://luululu.com/en/">Eiji Aramaki's Social Computing Lab</a> at NAIST (Nara), attend the <a href="https://sites.google.com/view/yrrsds2024/program">YRRSDS</a> and SIGDIAL 2024 in Kyoto, and then head to Tokyo for <a href="https://inlg2024.github.io/program.html">INLG 2024</a>.  
 2024-07-21 | Paper on <a href="./publications/#2024">sycophancy and political bias evaluation of (German) LLMs</a> accepted to INLG 2024. I will visit Tokyo and present the poster on behalf of Max who I supervised. 🗼  

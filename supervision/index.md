@@ -10,7 +10,7 @@ title: "Supervision"
 ## Ongoing PhD co-supervisions
 [Arthur Hilbert](https://xplainlp.github.io/authors/arthur-hilbert/) (with Vera Schmitt and Sebastian Möller) – PhD @ TU Berlin  
 
-[Qianli Wang](https://xplainlp.github.io/authors/qianli-wang/) (with Vera Schmitt and Sebastian Möller) – PhD @ TU Berlin  
+[Qianli Wang](https://xplainlp.github.io/authors/qianli-wang/) (with Sebastian Möller) – PhD @ TU Berlin  
 
 [Luis Felipe Villa-Arenas](https://xplainlp.github.io/authors/luis-felipe-villa-arenas/) (with Jing Yang, Vera Schmitt and Sebastian Möller) – PhD @ TU Berlin / Deutsche Telekom  
 
@@ -27,6 +27,8 @@ Jonas Peschel (with [Charlott Jakob](https://xplainlp.github.io/authors/charlott
 
 ## Ongoing Bachelor's thesis supervisions
 Moritz Starcke – BSc thesis @ TU Berlin: _Ein systematischer Überblick über LLMs in der medizinischen Diagnostik_
+
+*+1 TBA*
 
 ---
 
