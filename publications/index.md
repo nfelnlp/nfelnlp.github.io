@@ -5,6 +5,15 @@ author_profile: true
 title: "Publications"
 ---
 
+## 2026
+
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/sheep.png?raw=true" width="125px" align="right">
+### Persona Prompting as a Lens on LLM Social Reasoning
+Jing Yang, Moritz Hechtbauer, Elisabeth Khalilov, Evelyn Luise Brinkmann, Vera Schmitt, and **Nils Feldhus**  
+*EACL 2026*  
+Pre-print available soon | Proceedings available in March
+
+
 ## 2025
 
 <img src="https://raw.githubusercontent.com/lkopf/prism/main/prism_logo.svg?raw=true" width="125px" align="right">
@@ -23,7 +32,6 @@ Aliki Anagnostopoulou, **Nils Feldhus**, Yi-Sheng Hsu, Milad Alshomary, Henning 
 *CODI @ EMNLP 2025*  <sup><sub>(Rejected from ACL 2025, SIGDIAL 2025)</sub></sup>  
 [ACL Anthology](https://aclanthology.org/2025.codi-1.15/) | [OpenReview](https://openreview.net/forum?id=JkxMQ4AqnN) | [GitHub](https://github.com/nfelnlp/InstruX)
 
-<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="125px" align="right">
 ### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, and Vera Schmitt  
 *EMNLP 2025 Findings*  
@@ -39,7 +47,6 @@ Yi-Sheng Hsu, **Nils Feldhus**, and Sherzod Hakimov
 *GEM^2 @ ACL 2025* <sup><sub>(Rejected from EMNLP 2024, NAACL 2025, ACL 2025)</sub></sup>  
 [ACL Anthology](https://aclanthology.org/2025.gem-1.11/) | [arXiv](https://arxiv.org/abs/2407.01384) | [GitHub](https://github.com/doyouwantsometea/nle_readability)
 
-<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/fitcf_logo.png?raw=true" width="125px" align="right">
 ### FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation
 Qianli Wang, **Nils Feldhus**, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, and Vera Schmitt  
 *ACL 2025 Findings*  
@@ -66,7 +73,6 @@ Mahdi Dhaini, Ege Erdogan, **Nils Feldhus**, and Gjergji Kasneci
 *FAccT 2025*  
 [ACM Digital Library](https://dl.acm.org/doi/10.1145/3715275.3732192) | [arXiv](https://arxiv.org/abs/2505.01198) | [GitHub](https://github.com/dmah10/fairness-explainable-nlp)
 
-<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/quantization.png?raw=true" width="125px" align="right">
 ### Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability  
 Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Sebastian Möller, Hinrich Schütze, and Vera Schmitt  
 *In submission*  

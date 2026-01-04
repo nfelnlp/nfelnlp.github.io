@@ -23,6 +23,11 @@ I am open to collaborations on rationale generation, text simplification and sum
   </thead>
   <tbody>
     <tr>
+      <td><nobr>2026-01-04</nobr></td>
+      <td>Accept</td>
+      <td>One EACL submission about persona prompting has been accepted to the Main Conference, thanks to the hard work by my colleagues Jing (first author) and Vera and three talented students Jing and I jointly supervised for a course project at TU Berlin.</td>
+    </tr>
+    <tr>
       <td><nobr>2026-01-02</nobr></td>
       <td>Recap</td>
       <td>I published my <a href="./recommended/2025">2025 Recap</a> highlighting 86 papers that really excite me.</td>
@@ -121,11 +126,6 @@ I am open to collaborations on rationale generation, text simplification and sum
       <td><nobr>2025-03-14</nobr></td>
       <td>Supervision</td>
       <td>Honored to be (co-)<a href="./supervision/index.md">supervising</a> four incredibly talented PhD students at TU Berlin from now on: Arthur Hilbert, Qianli Wang, Luis Felipe Villa-Arenas, and Steffen Castle.  </td>
-    </tr>
-    <tr>
-      <td><nobr>2025-02-13</nobr></td>
-      <td>Pre-print</td>
-      <td>First-author paper on <a href="./publications/#2025">explanation strategies and response generation in conversational XAI</a> in submission.  </td>
     </tr>
     <tr>
       <td><nobr>2025-02-07</nobr></td>
