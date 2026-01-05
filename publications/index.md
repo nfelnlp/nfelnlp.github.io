@@ -11,7 +11,17 @@ title: "Publications"
 ### Persona Prompting as a Lens on LLM Social Reasoning
 Jing Yang, Moritz Hechtbauer, Elisabeth Khalilov, Evelyn Luise Brinkmann, Vera Schmitt, and **Nils Feldhus**  
 *EACL 2026*  
-Pre-print available soon | Proceedings available in March
+Pre-print available soon | Proceedings available in March | [GitHub](https://github.com/jingyng/PP-social-reasoning)
+
+### Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations
+Qianli Wang, **Nils Feldhus**, Pepa Atanasova, Fedor Splitt, Simon Ostermann, Sebastian Möller, and Vera Schmitt  
+*In submission*  
+[arXiv](https://arxiv.org/abs/2601.00282)
+
+### Parallel Universes, Parallel Languages: A Comprehensive Study on LLM-based Multilingual Counterfactual Example Generation
+Qianli Wang, Van Bach Nguyen, Yihong Liu, Fedor Splitt, **Nils Feldhus**, Christin Seifert, Hinrich Schütze, Sebastian Möller, and Vera Schmitt  
+*In submission*  
+[arXiv](https://arxiv.org/abs/2601.00263)
 
 
 ## 2025
@@ -113,8 +123,8 @@ Maximilian Bleick, **Nils Feldhus**, Aljoscha Burchardt, and Sebastian Möller
 *ACM GoodIT 2024 (Work in Progress track)*  
 [ACM Digital Library](https://dl.acm.org/doi/10.1145/3677525.3678665)  
 
-### The Value of Text for Multimodal Decision Support using XAI
-Ajay Madhavan Ravichandran, Julianna Grune, **Nils Feldhus**, Roland Roller, Aljoscha Burchardt, and Sebastian Möller  
+### XAI for Better Exploitation of Text in Medical Decision Support
+Ajay Madhavan Ravichandran, Julianna Grune, **Nils Feldhus**, Aljoscha Burchardt, Roland Roller, and Sebastian Möller  
 *BioNLP @ ACL 2024*  
 [ACL Anthology](https://aclanthology.org/2024.bionlp-1.41/)  
 
@@ -176,23 +186,23 @@ Tim Polzehl, Vera Schmitt, **Nils Feldhus**, Joachim Meyer, and Sebastian Mölle
 
 ### XAINES: Explaining AI with Narratives
 Mareike Hartmann, Han Du, **Nils Feldhus**, Ivana Kruijff-Korbayová, and Daniel Sonntag  
-*[KI - Künstliche Intelligenz](https://www.springer.com/journal/13218/)*  
-[Journal article on Springer](https://doi.org/10.1007/s13218-022-00780-8)  
+*KI - Künstliche Intelligenz* (Journal)  
+[Springer](https://doi.org/10.1007/s13218-022-00780-8)  
 
 <a href="https://arxiv.org/abs/2206.06029"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/Mediators_Logo.png?raw=true" width="200px" align="right"></a>  
 ### Mediators: Conversational Agents Explaining NLP Model Behavior
 **Nils Feldhus**, Ajay Madhavan Ravichandran, and Sebastian Möller  
-[*IJCAI-ECAI 2022 Workshop on XAI*](https://sites.google.com/view/xai2022/)  
+*IJCAI-ECAI 2022 Workshop on XAI*  
 [arXiv](https://arxiv.org/abs/2206.06029) | <a href="{{ site.url }}/slides/Mediators_IJCAI_2022.pdf">Slides</a>  
 
 ### Towards Personality-aware Chatbots
 Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, Tim Polzehl, and Sebastian Möller  
-*[SIGDIAL 2022](https://2022.sigdial.org/)*  
+*SIGDIAL 2022*  
 [ACL Anthology](https://aclanthology.org/2022.sigdial-1.15/) | [Video (Live presentation)](https://www.youtube.com/watch?v=06hrn65ypxE)  
 
 ### Towards Automated Dialog Personalization using MBTI Personality Indicators
 Daniel Fernau, Stefan Hillmann, **Nils Feldhus**, and Tim Polzehl  
-*[INTERSPEECH 2022](http://interspeech2022.org/)*  
+*INTERSPEECH 2022*  
 [ISCA Proceedings](https://doi.org/10.21437/Interspeech.2022-376)  
 
 ### A Comparison of Feature Extraction Models for Medical Image Captioning
@@ -216,22 +226,22 @@ Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Fassbinde
 <a href="https://github.com/DFKI-NLP/thermostat"><img src="https://raw.githubusercontent.com/DFKI-NLP/thermostat/main/figures/logo.png?raw=true" width="200px" align="right"></a>  
 ### Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools
 **Nils Feldhus**, Robert Schwarzenberg, and Sebastian Möller  
-*2021 Conference on Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations*  
+*EMNLP 2021 System Demonstrations*  
 [ACL Anthology](https://aclanthology.org/2021.emnlp-demo.11/) | [arXiv](https://arxiv.org/abs/2108.13961) | [GitHub](https://github.com/DFKI-NLP/thermostat) | [Video](https://aclanthology.org/2021.emnlp-demo.11.mp4)  
 
 ### Efficient Explanations from Empirical Explainers
 Robert Schwarzenberg, **Nils Feldhus**, and Sebastian Möller  
-*4th workshop on analyzing and interpreting neural networks for NLP (co-located with EMNLP 2021)* <sup><sub>(Retracted from ACL 2021, Rejected from EMNLP 2021)</sub></sup>    
-[BlackboxNLP 2021 proceedings](https://aclanthology.org/2021.blackboxnlp-1.17/) | [arXiv](https://arxiv.org/abs/2103.15429) | [GitHub](https://github.com/DFKI-NLP/emp-exp)
+*BlackboxNLP @ EMNLP 2021* <sup><sub>(Retracted from ACL 2021, Rejected from EMNLP 2021)</sub></sup>    
+[ACL Anthology](https://aclanthology.org/2021.blackboxnlp-1.17/) | [arXiv](https://arxiv.org/abs/2103.15429) | [GitHub](https://github.com/DFKI-NLP/emp-exp)
 
 ### Combining Open Domain Question Answering with a Task-Oriented Dialog System
 Jan Nehring, **Nils Feldhus**, Harleen Kaur, and Akhyar Ahmed  
-*1st Workshop on Document-grounded Dialogue and Conversational Question Answering (DialDoc 2021)*  
+*DialDoc @ ACL 2021*  
 [ACL Anthology](https://aclanthology.org/2021.dialdoc-1.5/)  
 
 ### European Language Grid: A Joint Platform for the European Language Technology Community
 Georg Rehm et al.  
-*16th Conference of the European Chapter of the Association for Computational Linguistics (EACL): System Demonstrations*  
+*EACL 2021 System Demonstrations*  
 [EACL 2021 Proceedings](https://aclanthology.org/2021.eacl-demos.26/)  
 
 
@@ -239,11 +249,11 @@ Georg Rehm et al.
 
 ### Evaluating German Transformer Language Models with Syntactic Agreement Tests
 Karolina Zaczynska, **Nils Feldhus**\*, Robert Schwarzenberg, Aleksandra Gabryszak, and Sebastian Möller  
-*5th Swiss Text Analytics Conference (SwissText) & 16th Conference on Natural Language Processing (KONVENS)*  
-[SwissText/KONVENS 2020 Proceedings](http://ceur-ws.org/Vol-2624/) | [arXiv](https://arxiv.org/pdf/2007.03765.pdf) | [GitHub](https://github.com/dfki-nlp/gevalm)  
+*SwissText/KONVENS 2020*  
+[Proceedings](http://ceur-ws.org/Vol-2624/) | [arXiv](https://arxiv.org/pdf/2007.03765.pdf) | [GitHub](https://github.com/dfki-nlp/gevalm)  
 <sup>* joint first authorship</sup>
 
 ### Towards an Interoperable Ecosystem of AI and LT Platforms: A Roadmap for the Implementation of Different Levels of Interoperability
 Georg Rehm et al.  
-*1st International Workshop on Language Technology Platforms (c/w LREC 2020)*  
-[IWLTP 2020 Proceedings](https://aclanthology.org/2020.iwltp-1.15/)
+*IWLTP @ LREC 2020*  
+[ACL Anthology](https://aclanthology.org/2020.iwltp-1.15/)
