@@ -5,6 +5,10 @@ author_profile: true
 title: "Talks"
 ---
 
+2026-01-16 : Health NLP Lab @ Uni Tübingen, hosted by [Carsten Eickhoff](https://health-nlp.com) – Describing Features and Circuits in LLMs
+
+2026-01-13 : MLT department @ DFKI Saarbrücken, hosted by [Simon Ostermann](https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology) – Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework
+
 2025-10-20 : Social Computing Lab @ NAIST (Nara, Japan 🇯🇵), hosted by [Eiji Aramaki](https://luululu.com/en/) – Situated Explanations
 
 2025-10-13 : Participant in the NII Shonan Meeting [No. 230: "Large Language Models for Health"](https://shonan.nii.ac.jp/seminars/230/) (Kanagawa, Japan 🇯🇵) 

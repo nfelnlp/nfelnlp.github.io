@@ -13,6 +13,16 @@ Jing Yang, Moritz Hechtbauer, Elisabeth Khalilov, Evelyn Luise Brinkmann, Vera S
 *EACL 2026*  
 Pre-print available soon | Proceedings available in March | [GitHub](https://github.com/jingyng/PP-social-reasoning)
 
+### Order in the Evaluation Court: A Critical Analysis of NLG Evaluation Trends
+Jing Yang, **Nils Feldhus**, Salar Mohtaj, Leonhard Hennig, Qianli Wang, Eleni Metheniti, Sherzod Hakimov, Charlott Jakob, Veronika Solopova, Konrad Rieck, David Schlangen, Sebastian Möller, and Vera Schmitt  
+*In submission*  
+[arXiv](https://arxiv.org/abs/2601.07648)
+
+### iFlip: Iterative Feedback-driven Counterfactual Example Refinement
+Yilong Wang, Qianli Wang, and **Nils Feldhus**  
+*In submission*  
+[arXiv](https://arxiv.org/abs/2601.01446)
+
 ### Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations
 Qianli Wang, **Nils Feldhus**, Pepa Atanasova, Fedor Splitt, Simon Ostermann, Sebastian Möller, and Vera Schmitt  
 *In submission*  
