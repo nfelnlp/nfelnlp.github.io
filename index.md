@@ -132,11 +132,6 @@ I am open to collaborations on rationale generation, text simplification and sum
       <td>Talk</td>
       <td>I gave an <a href="./talks/index.md">invited talk at the University of Groningen</a> about human-centric explainable NLP. 🇳🇱  </td>
     </tr>
-    <tr>
-      <td><nobr>2025-01-25</nobr></td>
-      <td>Pre-print</td>
-      <td>Co-authored paper in submission: <a href="./publications/#2025">FitCF: A Framework for Automatic Feature Importance-based Counterfactual Example Generation</a>.  </td>
-    </tr>
   </tbody>
 </table>
 

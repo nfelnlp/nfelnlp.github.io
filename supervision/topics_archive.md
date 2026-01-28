@@ -1,3 +1,32 @@
+---
+layout: single
+classes: wide
+author_profile: true
+title: "Archived Topics"
+---
+
+<!-- AcAI -->
+**Agentic auto-interpretability (with computational constraints)**
+Designing small-scale LLM agents with self-testing and self-interpretability tools
+<p style="font-size:smaller;">
+[1] <a href="https://dl.acm.org/doi/10.5555/3692070.3693872">MAIA (Shaham et al., ICML 2024)</a><br>
+[2] <a href="https://openreview.net/forum?id=Sx038qxjek">CRITIC (Gou et al., ICLR 2024)</a><br>
+[3] <a href="https://aclanthology.org/2024.naacl-long.110/">Liu et al. (NAACL 2024)</a><br>
+[4] <a href="https://arxiv.org/abs/2506.12152">Kim et al. (2025)</a><br>
+[5] <a href="https://arxiv.org/abs/2405.00208">Ferrando et al. (2024)</a><br>
+</p><br>
+
+<!-- SyClue -->
+**Estimating the influence of LLM sycophancy on user interactions**
+<p style="font-size:smaller;">
+[1] <a href="https://arxiv.org/abs/2505.13995">ELEPHANT (Cheng et al., 2025)</a><br>
+[2] <a href="https://aclanthology.org/2024.acl-long.858/">Farm (Xu et al., 2024)</a><br>
+[3] <a href="https://arxiv.org/abs/2509.10830">The Siren Song of LLMs (Shi et al., 2025)</a><br>
+[4] <a href="https://openreview.net/forum?id=Orvjm9UqH2">Epistemic Alignment (Clark et al., COLM 2025)</a><br>
+[5] <a href="https://doi.org/10.1080/10447318.2025.2574511">Don't Be Fooled (Spitzer et al., IJHCI 2025)</a><br>
+[6] <a href="https://openreview.net/forum?id=MzM99vV5Rx">IQA-EVAL (Li et al., NeurIPS 2024)</a><br>
+</p><br>
+
 <!-- DeLoreason -->
 **Explaining Knowledge Conflicts and Factual Errors (of Temporal Generalization) in LLM Generations**  
 How can we expose and express knowledge conflicts in LLMs resulting from poor temporal generalization?  

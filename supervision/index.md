@@ -17,10 +17,6 @@ title: "Supervision"
 [Steffen Castle](https://dfki-nlp.github.io/authors/steffen-castle/) (with Sebastian Möller) – PhD @ TU Berlin / DFKI  
 
 ## Ongoing Master's thesis supervisions
-Valentin Garbe – MSc thesis @ TU Berlin: _Interpreting LLMs' Decision-Making in API Calling and Tool Use_  
-
-Jiaao Li (with Qianli Wang) – MSc thesis @ TU Berlin: _An Adaptive and Efficient Chain-of-Thought with Code-formatted Reasoning Framework for CodeLLMs_
-
 Jonas Peschel (with [Charlott Jakob](https://xplainlp.github.io/authors/charlott-jakob/)) – MSc thesis @ TU Berlin: _Explaining Retrieval Augmented Generation: Automated Fact-Checking with Faithful Answer Attribution_
 
 *+1 TBA*
@@ -32,6 +28,10 @@ Jonas Peschel (with [Charlott Jakob](https://xplainlp.github.io/authors/charlott
 
 
 ## Completed Master's thesis supervisions
+Valentin Garbe – MSc thesis @ TU Berlin: _Interpreting LLMs' Decision-Making in API Calling and Tool Use_
+
+Jiaao Li (with Qianli Wang) – MSc thesis @ TU Berlin: _An Adaptive and Efficient Chain-of-Thought with Code-formatted Reasoning Framework for CodeLLMs_
+
 Radhika Yadav (with [Sherzod Hakimov](https://sherzod-hakimov.github.io/)) – MSc thesis @ Uni Potsdam: _Exploring and Addressing Overreliance on LLM-Generated Explanations in the Fact-Checking Domain_  
 
 Yi-Sheng Hsu (with [Manfred Stede](https://www.ling.uni-potsdam.de/~stede/)) – MSc thesis @ Uni Potsdam: _Evaluating LLM-generated Explanatory Utterances through Dialogue Completion_  
