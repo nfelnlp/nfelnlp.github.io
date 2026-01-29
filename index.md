@@ -25,7 +25,7 @@ I am open to collaborations on rationale generation, text simplification and sum
     <tr>
       <td><nobr>2026-01-04</nobr></td>
       <td>Accept</td>
-      <td>One EACL submission about persona prompting has been accepted to the Main Conference, thanks to the hard work by my colleagues Jing (first author) and Vera and three talented students Jing and I jointly supervised for a course project at TU Berlin.</td>
+      <td>One EACL submission about <a href="./publications/#2026">persona prompting</a> has been accepted to the Main Conference, thanks to the hard work by my colleagues Jing (first author) and Vera and three talented students Jing and I jointly supervised for a course project at TU Berlin.</td>
     </tr>
     <tr>
       <td><nobr>2026-01-02</nobr></td>

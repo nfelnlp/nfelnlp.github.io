@@ -5,13 +5,10 @@ author_profile: true
 title: "Publications"
 ---
 
-## 2026
+## Pre-prints
 
-<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/sheep.png?raw=true" width="125px" align="right">
-### Persona Prompting as a Lens on LLM Social Reasoning
-Jing Yang, Moritz Hechtbauer, Elisabeth Khalilov, Evelyn Luise Brinkmann, Vera Schmitt, and **Nils Feldhus**  
-*EACL 2026*  
-Pre-print available soon | Proceedings available in March | [GitHub](https://github.com/jingyng/PP-social-reasoning)
+<details>
+<summary>Show</summary>
 
 ### Order in the Evaluation Court: A Critical Analysis of NLG Evaluation Trends
 Jing Yang, **Nils Feldhus**, Salar Mohtaj, Leonhard Hennig, Qianli Wang, Eleni Metheniti, Sherzod Hakimov, Charlott Jakob, Veronika Solopova, Konrad Rieck, David Schlangen, Sebastian Möller, and Vera Schmitt  
@@ -32,6 +29,28 @@ Qianli Wang, **Nils Feldhus**, Pepa Atanasova, Fedor Splitt, Simon Ostermann, Se
 Qianli Wang, Van Bach Nguyen, Yihong Liu, Fedor Splitt, **Nils Feldhus**, Christin Seifert, Hinrich Schütze, Sebastian Möller, and Vera Schmitt  
 *In submission*  
 [arXiv](https://arxiv.org/abs/2601.00263)
+
+### Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes
+Johann Frei, **Nils Feldhus**, Lisa Raithel, Roland Roller, Alexander Meyer, and Frank Kramer  
+*In submission*  
+[arXiv](https://arxiv.org/abs/2507.12261) | [GitHub](https://github.com/j-frei/Infherno/) | [Video](https://www.youtube.com/watch?v=kyj5C2ivbMw) | [Demo](https://infherno.misit-augsburg.de) | [HuggingFace Spaces](https://huggingface.co/spaces/nfel/infherno)
+
+### Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability  
+Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Sebastian Möller, Hinrich Schütze, and Vera Schmitt  
+*In submission*  
+[arXiv](https://arxiv.org/abs/2505.13963)
+
+</details>
+
+---
+
+## 2026
+
+<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/sheep.png?raw=true" width="125px" align="right">
+### Persona Prompting as a Lens on LLM Social Reasoning
+Jing Yang, Moritz Hechtbauer, Elisabeth Khalilov, Evelyn Luise Brinkmann, Vera Schmitt, and **Nils Feldhus**  
+*EACL 2026*  
+[arXiv](https://arxiv.org/abs/2601.20757) | Proceedings available in March | [GitHub](https://github.com/jingyng/PP-social-reasoning)
 
 
 ## 2025
@@ -82,21 +101,10 @@ Max Upravitelev, Arthur Hilbert, Premtim Sahitaj, Tatiana Anikina, **Nils Feldhu
 *FEVER @ ACL 2025*  
 [ACL Anthology](https://aclanthology.org/2025.fever-1.17/)
 
-<img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/fire.png?raw=true" width="125px" align="right">
-### Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes
-Johann Frei, **Nils Feldhus**, Lisa Raithel, Roland Roller, Alexander Meyer, and Frank Kramer  
-*In submission*  
-[arXiv](https://arxiv.org/abs/2507.12261) | [GitHub](https://github.com/j-frei/Infherno/) | [Video](https://www.youtube.com/watch?v=kyj5C2ivbMw) | [Demo](https://infherno.misit-augsburg.de) | [HuggingFace Spaces](https://huggingface.co/spaces/nfel/infherno)
-
 ### Gender Bias in Explainability: Investigating Performance Disparity in Post-hoc Methods
 Mahdi Dhaini, Ege Erdogan, **Nils Feldhus**, and Gjergji Kasneci  
 *FAccT 2025*  
 [ACM Digital Library](https://dl.acm.org/doi/10.1145/3715275.3732192) | [arXiv](https://arxiv.org/abs/2505.01198) | [GitHub](https://github.com/dmah10/fairness-explainable-nlp)
-
-### Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability  
-Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Sebastian Möller, Hinrich Schütze, and Vera Schmitt  
-*In submission*  
-[arXiv](https://arxiv.org/abs/2505.13963)
 
 ### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
 Qianli Wang, Tatiana Anikina, **Nils Feldhus**, Simon Ostermann, Sebastian Möller, and Vera Schmitt  
