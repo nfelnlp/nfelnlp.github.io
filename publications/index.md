@@ -7,9 +7,6 @@ title: "Publications"
 
 ## Pre-prints
 
-<details>
-<summary>Show</summary>
-
 ### Order in the Evaluation Court: A Critical Analysis of NLG Evaluation Trends
 Jing Yang, **Nils Feldhus**, Salar Mohtaj, Leonhard Hennig, Qianli Wang, Eleni Metheniti, Sherzod Hakimov, Charlott Jakob, Veronika Solopova, Konrad Rieck, David Schlangen, Sebastian Möller, and Vera Schmitt  
 *In submission*  
@@ -39,8 +36,6 @@ Johann Frei, **Nils Feldhus**, Lisa Raithel, Roland Roller, Alexander Meyer, and
 Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Sebastian Möller, Hinrich Schütze, and Vera Schmitt  
 *In submission*  
 [arXiv](https://arxiv.org/abs/2505.13963)
-
-</details>
 
 ---
 
