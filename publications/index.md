@@ -27,11 +27,6 @@ Qianli Wang, Van Bach Nguyen, Yihong Liu, Fedor Splitt, **Nils Feldhus**, Christ
 *In submission*  
 [arXiv](https://arxiv.org/abs/2601.00263)
 
-### Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes
-Johann Frei, **Nils Feldhus**, Lisa Raithel, Roland Roller, Alexander Meyer, and Frank Kramer  
-*In submission*  
-[arXiv](https://arxiv.org/abs/2507.12261) | [GitHub](https://github.com/j-frei/Infherno/) | [Video](https://www.youtube.com/watch?v=kyj5C2ivbMw) | [Demo](https://infherno.misit-augsburg.de) | [HuggingFace Spaces](https://huggingface.co/spaces/nfel/infherno)
-
 ### Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability  
 Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Sebastian Möller, Hinrich Schütze, and Vera Schmitt  
 *In submission*  
@@ -41,10 +36,20 @@ Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Sebasti
 
 ## 2026
 
+### Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes
+Johann Frei, **Nils Feldhus**, Lisa Raithel, Roland Roller, Alexander Meyer, and Frank Kramer  
+*EACL 2026 System Demonstrations*  
+Proceedings available in March | [OpenReview](https://openreview.net/forum?id=Xe2sgNQecj) | [arXiv](https://arxiv.org/abs/2507.12261) | [GitHub](https://github.com/j-frei/Infherno/) | [Video](https://www.youtube.com/watch?v=kyj5C2ivbMw) | [Demo](https://infherno.misit-augsburg.de) | [HuggingFace Spaces](https://huggingface.co/spaces/nfel/infherno)
+
+### Simplifying Outcomes of Language Model Component Analyses with ELIA
+Aaron Louis Eidt and **Nils Feldhus**  
+*EACL 2026 System Demonstrations*  
+Proceedings available in March | [OpenReview](https://openreview.net/forum?id=LfEXKJ8aNN) | [GitHub](https://github.com/aaron0eidt/ELIA)
+
 <img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/sheep.png?raw=true" width="125px" align="right">
 ### Persona Prompting as a Lens on LLM Social Reasoning
 Jing Yang, Moritz Hechtbauer, Elisabeth Khalilov, Evelyn Luise Brinkmann, Vera Schmitt, and **Nils Feldhus**  
-*EACL 2026*  
+*EACL 2026* (Oral)  
 [arXiv](https://arxiv.org/abs/2601.20757) | Proceedings available in March | [GitHub](https://github.com/jingyng/PP-social-reasoning)
 
 

@@ -46,7 +46,7 @@ At the moment, I'm not in the position of supervising PhD students on my own, bu
 [3] <a href="https://aclanthology.org/2024.findings-acl.279/">Two-Pronged Human Evaluation of ChatGPT Self-Correction in Radiology Report Simplification (Yang et al., ACL 2024 Findings)</a><br>
 [4] <a href="https://arxiv.org/abs/2406.15963">Effectiveness of ChatGPT in explaining complex medical reports to patients (Sun et al., 2024)</a><br>
 [5] <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2815868">Generative Artificial Intelligence to Transform Inpatient Discharge Summaries to Patient-Friendly Language and Format (Zaretsky et al., JAMA 2024)</a><br>
-[6] <a href="https://aclanthology.org/2024.emnlp-main.1051/">Fool Me Once? Contrasting Textual and Visual Explanations in a Clinical Decision-Support Setting (Kayser et al., EMNLP 2024)</a>
+[6] <a href="https://aclanthology.org/2024.emnlp-main.1051/">Fool Me Once? Contrasting Textual and Visual Explanations in a Clinical Decision-Support Setting (Kayser et al., EMNLP 2024)</a><br>
 [7] <a href="https://doi.org/10.1162/tacl_a_00653">Agrawal & Carpuat (TACL 2024)</a><br>
 [8] <a href="https://aclanthology.org/2025.coling-main.452/">Barayan et al. (COLING 2025)</a><br>
 [9] <a href="https://dl.acm.org/doi/10.1145/3706598.3713229">Buçinca et al. (CHI 2025)</a><br>

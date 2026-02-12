@@ -23,6 +23,11 @@ I am open to collaborations on rationale generation, text simplification and sum
   </thead>
   <tbody>
     <tr>
+      <td><nobr>2026-02-12</nobr></td>
+      <td>Accept</td>
+      <td>Two EACL 2026 System Demonstrations submissions about <a href="./publications/#2026">agentic medical information extraction and the simplification of mechanistic interpretability</a> have been accepted. Excited to attend the conference in Rabat after all! 🇲🇦</td>
+    </tr>
+    <tr>
       <td><nobr>2026-01-04</nobr></td>
       <td>Accept</td>
       <td>One EACL submission about <a href="./publications/#2026">persona prompting</a> has been accepted to the Main Conference, thanks to the hard work by my colleagues Jing (first author) and Vera and three talented students Jing and I jointly supervised for a course project at TU Berlin.</td>
@@ -126,11 +131,6 @@ I am open to collaborations on rationale generation, text simplification and sum
       <td><nobr>2025-03-14</nobr></td>
       <td>Supervision</td>
       <td>Honored to be (co-)<a href="./supervision/index.md">supervising</a> four incredibly talented PhD students at TU Berlin from now on: Arthur Hilbert, Qianli Wang, Luis Felipe Villa-Arenas, and Steffen Castle.  </td>
-    </tr>
-    <tr>
-      <td><nobr>2025-02-07</nobr></td>
-      <td>Talk</td>
-      <td>I gave an <a href="./talks/index.md">invited talk at the University of Groningen</a> about human-centric explainable NLP. 🇳🇱  </td>
     </tr>
   </tbody>
 </table>
