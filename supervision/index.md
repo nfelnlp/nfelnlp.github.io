@@ -10,9 +10,7 @@ title: "Supervision"
 ## Ongoing PhD co-supervisions
 [Arthur Hilbert](https://xplainlp.github.io/authors/arthur-hilbert/) (with Vera Schmitt and Sebastian Möller) – PhD @ TU Berlin  
 
-[Qianli Wang](https://xplainlp.github.io/authors/qianli-wang/) (with Sebastian Möller) – PhD @ TU Berlin  
-
-[Luis Felipe Villa-Arenas](https://xplainlp.github.io/authors/luis-felipe-villa-arenas/) (with Jing Yang, Vera Schmitt and Sebastian Möller) – PhD @ TU Berlin / Deutsche Telekom  
+[Qianli Wang](https://xplainlp.github.io/authors/qianli-wang/) (with Sebastian Möller) – PhD @ TU Berlin   
 
 [Steffen Castle](https://dfki-nlp.github.io/authors/steffen-castle/) (with Sebastian Möller) – PhD @ TU Berlin / DFKI  
 
