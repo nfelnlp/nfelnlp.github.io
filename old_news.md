@@ -4,6 +4,7 @@ classes: wide
 author_profile: true
 ---
 
+2025-03-18 | First time serving as an editor: Together with Britta Schulte, I <a href="./publications/#2025">published the proceedings</a> of the <a href="https://arxiv.org/abs/2503.10298">ISCA-ITG Workshop on Diversity in Large Speech and Language Models</a>.
 2025-02-07 | I gave an <a href="./talks/index.md">invited talk at the University of Groningen</a> about human-centric explainable NLP. 🇳🇱  
 2024-12-29 | I published my <a href="./recommended/2024.md">2024 Recap</a> showcasing my favorite papers from this year's major conferences.  
 2024-11-30 | I am joining <a href="https://www.tu.berlin/en/qu/ueber-uns/team-personen/senior-researchers/nils-feldhus">TU Berlin</a> and <a href="https://www.bifold.berlin/">BIFOLD</a> in January 2025. My project IlluminateCardio will focus on the interpretability of large language models, human-AI alignment, and applications to cardiovascular medicine in collaboration with Prof. Alexander Meyer (Charité). 🏛️🏥  

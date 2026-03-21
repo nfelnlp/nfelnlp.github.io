@@ -11,7 +11,8 @@ title: "Service"
 # Area Chair
 
 ### [ACL Rolling Review](https://aclrollingreview.org/aes)
-**ARR January 2026 (ACL 2026)**  
+**ARR March 2026**  
+**ARR January 2026 (ACL 2026)** (Theme Track: Explainability of NLP Models)  
 **ARR October 2025 (EACL 2026)**  
 **ARR December 2024**  
 **ARR October 2024 (NAACL 2025)**  
@@ -60,6 +61,9 @@ IWLTP @ LREC 2020 (secondary)
 
 
 # Co-Organizer
+[BlackboxNLP – The Ninth Workshop on Analyzing and Interpreting Neural Networks for NLP](https://blackboxnlp.github.io/2026/), co-located with EMNLP 2026 @ Budapest, Hungary.  
+Co-organized with Dana Arad, Yonatan Belinkov, Hanjie Chen, Hosein Mohebbi, Aaron Mueller, Gabriele Sarti, and Martin Tutek. 
+
 [YNLG – The 1st Workshop for Young Researchers in Natural Language Generation](https://2025.inlgmeeting.org/workshops-tutorials-young-researcher.html), co-located with INLG 2025 @ Hanoi, Vietnam. Co-organized with Alyssa Allen, Rudali Huidrom, Michela Lorandi, Adarsa Sivaprasad, and Patricia Schmidtova.  
 
 # Editor

@@ -23,6 +23,11 @@ I am open to collaborations on rationale generation, text simplification and sum
   </thead>
   <tbody>
     <tr>
+      <td><nobr>2026-03-18</nobr></td>
+      <td>Service</td>
+      <td>Thrilled to co-organize <a href="https://blackboxnlp.github.io/2026/">BlackboxNLP</a> at EMNLP 2026 in 🇭🇺Budapest this year! Please consider submitting your work on analyzing and interpreting neural networks for NLP by July 17!</td>
+    </tr>
+    <tr>
       <td><nobr>2026-02-12</nobr></td>
       <td>Accept</td>
       <td>Two EACL 2026 System Demonstrations submissions about <a href="./publications/#2026">agentic medical information extraction and the simplification of mechanistic interpretability</a> have been accepted. Excited to attend the conference in Rabat after all! 🇲🇦</td>
@@ -121,16 +126,6 @@ I am open to collaborations on rationale generation, text simplification and sum
       <td><nobr>2025-04-11</nobr></td>
       <td>Graduation</td>
       <td>Successfully defended my PhD thesis at TU Berlin! 🎓 Thanks to my mentor Sebastian Möller and professors Sina Zarrieß (Uni Bielefeld), Christin Seifert (Uni Marburg) and Matthias Boehm for being part of the committee and awarding the graduation certificate with a "magna cum laude".  </td>
-    </tr>
-    <tr>
-      <td><nobr>2025-03-18</nobr></td>
-      <td>Service</td>
-      <td>First time serving as an editor: Together with Britta Schulte, I <a href="./publications/#2025">published the proceedings</a> of the <a href="https://arxiv.org/abs/2503.10298">ISCA-ITG Workshop on Diversity in Large Speech and Language Models</a>.</td>
-    </tr>
-    <tr>
-      <td><nobr>2025-03-14</nobr></td>
-      <td>Supervision</td>
-      <td>Honored to be (co-)<a href="./supervision/index.md">supervising</a> four incredibly talented PhD students at TU Berlin from now on: Arthur Hilbert, Qianli Wang, Luis Felipe Villa-Arenas, and Steffen Castle.  </td>
     </tr>
   </tbody>
 </table>
