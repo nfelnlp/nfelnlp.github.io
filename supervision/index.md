@@ -17,10 +17,14 @@ title: "Supervision"
 ## Ongoing Master's thesis supervisions
 Jonas Peschel (with [Charlott Jakob](https://xplainlp.github.io/authors/charlott-jakob/)) – MSc thesis @ TU Berlin: _Explaining Retrieval Augmented Generation: Automated Fact-Checking with Faithful Answer Attribution_
 
-*+1 TBA*
+Xhon Taraj – MSc thesis @ TU Berlin: _Evaluating the Role of Context Attributions and Rationales in Building Trust in Clinical Note Simplification_ 
+
+Bowen Zheng – MSc thesis @ TU Berlin: _Grounding LLM Explanations via Structured Concept Spaces_  
+
+*+3 TBA*
 
 ## Ongoing Bachelor's thesis supervisions
-*+2 TBA*
+*+3 TBA*
 
 ---
 

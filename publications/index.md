@@ -22,11 +22,6 @@ Qianli Wang, **Nils Feldhus**, Pepa Atanasova, Fedor Splitt, Simon Ostermann, Se
 *In submission*  
 [arXiv](https://arxiv.org/abs/2601.00282)
 
-### Parallel Universes, Parallel Languages: A Comprehensive Study on LLM-based Multilingual Counterfactual Example Generation
-Qianli Wang, Van Bach Nguyen, Yihong Liu, Fedor Splitt, **Nils Feldhus**, Christin Seifert, Hinrich Schütze, Sebastian Möller, and Vera Schmitt  
-*In submission*  
-[arXiv](https://arxiv.org/abs/2601.00263)
-
 ### Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability  
 Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Sebastian Möller, Hinrich Schütze, and Vera Schmitt  
 *In submission*  
@@ -35,6 +30,11 @@ Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Sebasti
 ---
 
 ## 2026
+
+### Parallel Universes, Parallel Languages: A Comprehensive Study on LLM-based Multilingual Counterfactual Example Generation
+Qianli Wang, Van Bach Nguyen, Yihong Liu, Fedor Splitt, **Nils Feldhus**, Christin Seifert, Hinrich Schütze, Sebastian Möller, and Vera Schmitt  
+*ACL 2026* (Main)  
+Proceedings available in July | [arXiv](https://arxiv.org/abs/2601.00263)
 
 ### Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes
 Johann Frei, **Nils Feldhus**, Lisa Raithel, Roland Roller, Alexander Meyer, and Frank Kramer  

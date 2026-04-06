@@ -23,6 +23,11 @@ I am open to collaborations on rationale generation, text simplification and sum
   </thead>
   <tbody>
     <tr>
+      <td><nobr>2026-04-06</nobr></td>
+      <td>Accept</td>
+      <td>Our paper on multilingual counterfactual generation got into the Main conference of ACL 2026 thanks to the amazing work led by Qianli and co-authors!</td>
+    </tr>
+    <tr>
       <td><nobr>2026-03-18</nobr></td>
       <td>Service</td>
       <td>Thrilled to co-organize <a href="https://blackboxnlp.github.io/2026/">BlackboxNLP</a> at EMNLP 2026 in 🇭🇺Budapest this year! Please consider submitting your work on analyzing and interpreting neural networks for NLP by July 17!</td>
