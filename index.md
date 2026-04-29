@@ -23,9 +23,14 @@ I am open to collaborations on rationale generation, text simplification and sum
   </thead>
   <tbody>
     <tr>
+      <td><nobr>2026-04-29</nobr></td>
+      <td>Accept</td>
+      <td>Two recently accepted workshop papers on <a href="./publications/#2026">quantization effects on factual knowledge recall (TrustNLP) and our participation at the SemEval Shared Task on humor generation</a> will also be presented at ACL 2026.</td>
+    </tr>
+    <tr>
       <td><nobr>2026-04-06</nobr></td>
       <td>Accept</td>
-      <td>Our paper on multilingual counterfactual generation got into the Main conference of ACL 2026 thanks to the amazing work led by Qianli and co-authors!</td>
+      <td>Our paper on <a href="./publications/#2026">multilingual counterfactual generation</a> got into the Main conference of ACL 2026 thanks to the amazing work led by Qianli and co-authors!</td>
     </tr>
     <tr>
       <td><nobr>2026-03-18</nobr></td>
@@ -129,7 +134,7 @@ I am open to collaborations on rationale generation, text simplification and sum
     </tr>
     <tr>
       <td><nobr>2025-04-11</nobr></td>
-      <td>Graduation</td>
+      <td><b>Graduation</b></td>
       <td>Successfully defended my PhD thesis at TU Berlin! 🎓 Thanks to my mentor Sebastian Möller and professors Sina Zarrieß (Uni Bielefeld), Christin Seifert (Uni Marburg) and Matthias Boehm for being part of the committee and awarding the graduation certificate with a "magna cum laude".  </td>
     </tr>
   </tbody>

@@ -21,7 +21,9 @@ Xhon Taraj – MSc thesis @ TU Berlin: _Evaluating the Role of Context Attributi
 
 Bowen Zheng – MSc thesis @ TU Berlin: _Grounding LLM Explanations via Structured Concept Spaces_  
 
-*+3 TBA*
+Yuxin Xue – MSc thesis @ TU Berlin: _Explaining Factual Knowledge Conflicts Through a Temporal Lens_  
+
+*+2 TBA*
 
 ## Ongoing Bachelor's thesis supervisions
 *+3 TBA*

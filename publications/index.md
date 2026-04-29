@@ -22,11 +22,6 @@ Qianli Wang, **Nils Feldhus**, Pepa Atanasova, Fedor Splitt, Simon Ostermann, Se
 *In submission*  
 [arXiv](https://arxiv.org/abs/2601.00282)
 
-### Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability  
-Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Sebastian Möller, Hinrich Schütze, and Vera Schmitt  
-*In submission*  
-[arXiv](https://arxiv.org/abs/2505.13963)
-
 ---
 
 ## 2026
@@ -36,9 +31,19 @@ Qianli Wang, Van Bach Nguyen, Yihong Liu, Fedor Splitt, **Nils Feldhus**, Christ
 *ACL 2026* (Main)  
 Proceedings available in July | [arXiv](https://arxiv.org/abs/2601.00263)
 
+### Through a Compressed Lens: Investigating the Impact of Quantization on Factual Knowledge Recall  
+Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Hinrich Schütze, Sebastian Möller, and Vera Schmitt  
+*TrustNLP @ ACL 2026* (Oral)    
+Proceedings available in July | [arXiv](https://arxiv.org/abs/2505.13963)
+
+### XplaiNLP at SemEval-2026 Task 1: BVAHAHA - Benign Violation Algorithm for Humor and Harmless Absurdity  
+Berk Bubus, Nebi Soyal, Vera Schmitt, **Nils Feldhus**, and Veronika Solopova  
+*SemEval @ ACL 2026*  
+Proceedings available in July  
+
 ### Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes
 Johann Frei, **Nils Feldhus**, Lisa Raithel, Roland Roller, Alexander Meyer, and Frank Kramer  
-*EACL 2026 System Demonstrations*  
+*EACL 2026 System Demonstrations*  <sup><sub>(Rejected from EMNLP 2025 System Demonstrations)</sub></sup>  
 [ACL Anthology](https://aclanthology.org/2026.eacl-demo.13/) | [arXiv](https://arxiv.org/abs/2507.12261) | [OpenReview](https://openreview.net/forum?id=Xe2sgNQecj) | [GitHub](https://github.com/j-frei/Infherno/) | [Video](https://www.youtube.com/watch?v=kyj5C2ivbMw) | [Demo](https://infherno.misit-augsburg.de) | [HuggingFace Spaces](https://huggingface.co/spaces/nfel/infherno)
 
 ### Simplifying Outcomes of Language Model Component Analyses with ELIA
