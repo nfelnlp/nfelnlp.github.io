@@ -7,6 +7,11 @@ title: "Publications"
 
 ## Pre-prints
 
+### Judge Circuits
+Nils Feldhus, Tanja Baeumel, Elena Golimblevskaia, Qianli Wang, Van Bach Nguyen, Aaron Louis Eidt, Christopher Ebert, Wojciech Samek, Jing Yang, Vera Schmitt, Sebastian Möller, and Simon Ostermann
+*In submission*  
+[arXiv](https://arxiv.org/abs/2605.16023)
+
 ### Order in the Evaluation Court: A Critical Analysis of NLG Evaluation Trends
 Jing Yang, **Nils Feldhus**, Salar Mohtaj, Leonhard Hennig, Qianli Wang, Eleni Metheniti, Sherzod Hakimov, Charlott Jakob, Veronika Solopova, Konrad Rieck, David Schlangen, Sebastian Möller, and Vera Schmitt  
 *In submission*  
