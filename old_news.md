@@ -4,6 +4,8 @@ classes: wide
 author_profile: true
 ---
 
+2025-05-16 | <a href="https://arxiv.org/abs/2501.00777">FitCF</a> has been accepted to <a href="https://2025.aclweb.org">ACL 2025 Findings</a>! See you in Vienna! 🎡  
+2025-05-06 | Paper with TU Munich on gender bias in explainability accepted at <a href="https://programs.sigchi.org/facct/2025/program/content/201842">FAccT 2025</a>. 🦉  
 2025-03-18 | First time serving as an editor: Together with Britta Schulte, I <a href="./publications/#2025">published the proceedings</a> of the <a href="https://arxiv.org/abs/2503.10298">ISCA-ITG Workshop on Diversity in Large Speech and Language Models</a>.
 2025-02-07 | I gave an <a href="./talks/index.md">invited talk at the University of Groningen</a> about human-centric explainable NLP. 🇳🇱  
 2024-12-29 | I published my <a href="./recommended/2024.md">2024 Recap</a> showcasing my favorite papers from this year's major conferences.  

@@ -23,6 +23,11 @@ I am open to collaborations on rationale generation, text simplification and sum
   </thead>
   <tbody>
     <tr>
+      <td><nobr>2026-05-18</nobr></td>
+      <td>Pre-print</td>
+      <td><a href="./publications/">New first-author publication</a> on circuit discovery applied to LLM-as-a-judge out now on arXiv!</td>
+    </tr>
+    <tr>
       <td><nobr>2026-04-29</nobr></td>
       <td>Accept</td>
       <td>Two recently accepted workshop papers on <a href="./publications/#2026">quantization effects on factual knowledge recall (TrustNLP) and our participation at the SemEval Shared Task on humor generation</a> will also be presented at ACL 2026.</td>
@@ -121,16 +126,6 @@ I am open to collaborations on rationale generation, text simplification and sum
       <td><nobr>2025-05-28</nobr></td>
       <td>Pre-print</td>
       <td><a href="./publications/#2025">Three papers</a> led by Qianli in submission: One on <a href="https://arxiv.org/abs/2505.13963">quantization effects on explainability and interpretability</a> (in collaboration with LMU Munich) 🗜, one on the <a href="https://arxiv.org/abs/2505.13972">evaluation of LLM-generated counterfactuals</a> (in collaboration with Uni Marburg) 🪢, and one on multilingual datasets for conversational XAI. 🧭  </td>
-    </tr>
-    <tr>
-      <td><nobr>2025-05-16</nobr></td>
-      <td>Accept</td>
-      <td><a href="https://arxiv.org/abs/2501.00777">FitCF</a> has been accepted to <a href="https://2025.aclweb.org">ACL 2025 Findings</a>! See you in Vienna! 🎡  </td>
-    </tr>
-    <tr>
-      <td><nobr>2025-05-06</nobr></td>
-      <td>Accept</td>
-      <td>Paper with TU Munich on gender bias in explainability accepted at <a href="https://programs.sigchi.org/facct/2025/program/content/201842">FAccT 2025</a>. 🦉  </td>
     </tr>
     <tr>
       <td><nobr>2025-04-11</nobr></td>
