@@ -8,15 +8,11 @@ title: "Supervision"
 # [Open Topics](./topics.md)
 
 ## Ongoing PhD co-supervisions
-[Arthur Hilbert](https://xplainlp.github.io/authors/arthur-hilbert/) (with Vera Schmitt and Sebastian Möller) – PhD @ TU Berlin  
-
 [Qianli Wang](https://xplainlp.github.io/authors/qianli-wang/) (with Sebastian Möller) – PhD @ TU Berlin   
 
 [Steffen Castle](https://dfki-nlp.github.io/authors/steffen-castle/) (with Sebastian Möller) – PhD @ TU Berlin / DFKI  
 
 ## Ongoing Master's thesis supervisions
-Jonas Peschel (with [Charlott Jakob](https://xplainlp.github.io/authors/charlott-jakob/)) – MSc thesis @ TU Berlin: _Explaining Retrieval Augmented Generation: Automated Fact-Checking with Faithful Answer Attribution_
-
 Xhon Taraj – MSc thesis @ TU Berlin: _Evaluating the Role of Context Attributions and Rationales in Building Trust in Clinical Note Simplification_ 
 
 Bowen Zheng – MSc thesis @ TU Berlin: _Grounding LLM Explanations via Structured Concept Spaces_  
@@ -32,6 +28,8 @@ Yuxin Xue – MSc thesis @ TU Berlin: _Explaining Factual Knowledge Conflicts Th
 
 
 ## Completed Master's thesis supervisions
+Jonas Peschel (with [Charlott Jakob](https://xplainlp.github.io/authors/charlott-jakob/)) – MSc thesis @ TU Berlin: _Explaining Retrieval Augmented Generation: Automated Fact-Checking with Faithful Answer Attribution_
+
 Valentin Garbe – MSc thesis @ TU Berlin: _Interpreting LLMs' Decision-Making in API Calling and Tool Use_
 
 Jiaao Li (with Qianli Wang) – MSc thesis @ TU Berlin: _An Adaptive and Efficient Chain-of-Thought with Code-formatted Reasoning Framework for CodeLLMs_

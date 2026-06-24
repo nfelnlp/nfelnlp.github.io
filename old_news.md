@@ -4,6 +4,10 @@ classes: wide
 author_profile: true
 ---
 
+2025-06-19 | Paper on feature description methods and polysemanticity out on <a href="https://arxiv.org/abs/2506.15538">arXiv</a>.  
+2025-06-19 | <a href="./publications/#2025">FEVER Shared Task submission</a> accepted for ACL 2025.  
+2025-05-28 | The study on <a href="https://arxiv.org/abs/2407.01384">readability of free-text rationales</a> by Yi-Sheng was accepted at the <a href="https://gem-benchmark.com/workshop">GEM^2</a> Workshop at ACL 2025. 🧐
+2025-05-28 | Our <a href="./publications/#2025">table understanding study</a> led by Ekaterina has been accepted at the <a href="https://table-representation-learning.github.io/ACL2025/">Table Representation Learning Workshop</a> of ACL 2025. 📊  
 2025-05-16 | <a href="https://arxiv.org/abs/2501.00777">FitCF</a> has been accepted to <a href="https://2025.aclweb.org">ACL 2025 Findings</a>! See you in Vienna! 🎡  
 2025-05-06 | Paper with TU Munich on gender bias in explainability accepted at <a href="https://programs.sigchi.org/facct/2025/program/content/201842">FAccT 2025</a>. 🦉  
 2025-03-18 | First time serving as an editor: Together with Britta Schulte, I <a href="./publications/#2025">published the proceedings</a> of the <a href="https://arxiv.org/abs/2503.10298">ISCA-ITG Workshop on Diversity in Large Speech and Language Models</a>.

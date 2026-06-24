@@ -8,7 +8,7 @@ title: "Publications"
 ## Pre-prints
 
 ### Judge Circuits
-**Nils Feldhus**, Tanja Baeumel, Elena Golimblevskaia, Qianli Wang, Van Bach Nguyen, Aaron Louis Eidt, Christopher Ebert, Wojciech Samek, Jing Yang, Vera Schmitt, Sebastian Möller, and Simon Ostermann  
+**Nils Feldhus**, Tanja Baeumel, Elena Golimblevskaia, Qianli Wang, Van Bach Nguyen, Aaron Louis Eidt, Selin Kahvecioglu, Christopher Ebert, Wojciech Samek, Jing Yang, Vera Schmitt, Sebastian Möller, and Simon Ostermann  
 [arXiv](https://arxiv.org/abs/2605.16023)
 
 ### Investigating the Interplay between Contextual and Parametric Chain-of-Thought Faithfulness under Optimization
@@ -34,7 +34,7 @@ Qianli Wang, **Nils Feldhus**, Pepa Atanasova, Fedor Splitt, Simon Ostermann, Se
 ### Parallel Universes, Parallel Languages: A Comprehensive Study on LLM-based Multilingual Counterfactual Example Generation
 Qianli Wang, Van Bach Nguyen, Yihong Liu, Fedor Splitt, **Nils Feldhus**, Christin Seifert, Hinrich Schütze, Sebastian Möller, and Vera Schmitt  
 *ACL 2026* (Main)  
-Proceedings available in July | [arXiv](https://arxiv.org/abs/2601.00263)
+[ACL Anthology](https://aclanthology.org/2026.acl-long.12/) | [arXiv](https://arxiv.org/abs/2601.00263)
 
 ### Through a Compressed Lens: Investigating the Impact of Quantization on Factual Knowledge Recall  
 Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Hinrich Schütze, Sebastian Möller, and Vera Schmitt  
