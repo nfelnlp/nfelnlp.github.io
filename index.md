@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 ---
 
-Welcome! 👋 I am an incoming Postdoctoral Researcher at the Computational Linguistics Group of the [University of Groningen (RUG)](https://www.rug.nl/research/clcg/research/cl/?lang=en) supervised by Tommaso Caselli, starting July 2026.
+Welcome! 👋 I am a Postdoctoral Researcher at the Computational Linguistics Group of the [University of Groningen (RUG)](https://www.rug.nl/research/clcg/research/cl/?lang=en) supervised by Tommaso Caselli.
 
 I've been affiliated with the Technische Universität Berlin (TU Berlin)
 under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) (Quality and Usability Lab) and the [Berlin Institute for the Foundations of Learning and Data (BIFOLD)](https://www.bifold.berlin/) supervised by [Alexander Meyer](https://ikim.charite.de/metas/person/person/address_detail/univ_prof_dr_med_alexander_meyer) (IKIM @ Charité) as well as the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology).

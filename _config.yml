@@ -26,10 +26,10 @@ author:
   name             : ""
   pronouns         : # example: "she/her"
   bio              : ""
-  location         : "Berlin, Germany"
-  employer         : "TU Berlin, BIFOLD, DFKI"
+  location         : "Groningen, Netherlands"
+  employer         : "University of Groningen"
   uri              : # URL
-  email            : "feldhus@tu-berlin.de"
+  email            : "n.feldhus@rug.nl"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

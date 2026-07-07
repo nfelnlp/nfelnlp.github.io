@@ -19,10 +19,14 @@ Bowen Zheng – MSc thesis @ TU Berlin: _Grounding LLM Explanations via Structur
 
 Yuxin Xue – MSc thesis @ TU Berlin: _Explaining Factual Knowledge Conflicts Through a Temporal Lens_  
 
-*+2 TBA*
+Yoana Tsoneva – MSc thesis @ TU Berlin: _Persona Prompting and Sociodemographic Entanglement in Healthcare LLMs: A Mechanistic Interpretability Study_
+
+Moritz Maximilian Hechtbauer (with Nils Schwager) – MSc thesis @ TU Berlin: _Agentic Auto-Interpretability under Computational Constraints_ 
 
 ## Ongoing Bachelor's thesis supervisions
-*+3 TBA*
+Marcel Andreas Franziskus Riedel – BSc thesis @ TU Berlin: _Flattery vs. Correction: How Sycophantic LLMs Behavior Shape User Perception and Verification Behavior_
+
+*+2 TBA*
 
 ---
 

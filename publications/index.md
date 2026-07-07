@@ -15,7 +15,7 @@ title: "Publications"
 Jingyi Sun, Qianli Wang, Pepa Atanasova, **Nils Feldhus**, and Isabelle Augenstein  
 [arXiv](https://arxiv.org/abs/2605.24960)
 
-### Order in the Evaluation Court: A Critical Analysis of NLG Evaluation Trends
+### What Are We Measuring in NLG? A Meta-Analysis of Evaluation Trends 2020-2025 
 Jing Yang, **Nils Feldhus**, Salar Mohtaj, Leonhard Hennig, Qianli Wang, Eleni Metheniti, Sherzod Hakimov, Charlott Jakob, Veronika Solopova, Konrad Rieck, David Schlangen, Sebastian Möller, and Vera Schmitt  
 [arXiv](https://arxiv.org/abs/2601.07648)
 
@@ -39,12 +39,12 @@ Qianli Wang, Van Bach Nguyen, Yihong Liu, Fedor Splitt, **Nils Feldhus**, Christ
 ### Through a Compressed Lens: Investigating the Impact of Quantization on Factual Knowledge Recall  
 Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Hinrich Schütze, Sebastian Möller, and Vera Schmitt  
 *TrustNLP @ ACL 2026* (Oral)    
-Proceedings available in July | [arXiv](https://arxiv.org/abs/2505.13963)
+[ACL Anthology](https://doi.org/10.18653/v1/2026.trustnlp-main.2) | [arXiv](https://arxiv.org/abs/2505.13963)
 
 ### XplaiNLP at SemEval-2026 Task 1: BVAHAHA - Benign Violation Algorithm for Humor and Harmless Absurdity  
 Berk Bubus, Nebi Soyal, Vera Schmitt, **Nils Feldhus**, and Veronika Solopova  
 *SemEval @ ACL 2026*  
-Proceedings available in July  
+[ACL Anthology](https://doi.org/10.18653/v1/2026.semeval-1.195) 
 
 ### Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes
 Johann Frei, **Nils Feldhus**, Lisa Raithel, Roland Roller, Alexander Meyer, and Frank Kramer  
