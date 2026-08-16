@@ -26,7 +26,7 @@ Moritz Maximilian Hechtbauer (with Nils Schwager) – MSc thesis @ TU Berlin: _A
 ## Ongoing Bachelor's thesis supervisions
 Marcel Andreas Franziskus Riedel – BSc thesis @ TU Berlin: _Flattery vs. Correction: How Sycophantic LLMs Behavior Shape User Perception and Verification Behavior_
 
-*+2 TBA*
+Amina Phuong Wolff – BSc thesis @ TU Berlin: _Uniformity of Language Models: Reproduction and German–English Cross-Language Analysis of the “Artificial Hivemind” Phenomenon_
 
 ---
 

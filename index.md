@@ -6,8 +6,10 @@ author_profile: true
 
 Welcome! 👋 I am a Postdoctoral Researcher at the Computational Linguistics Group of the [University of Groningen (RUG)](https://www.rug.nl/research/clcg/research/cl/?lang=en) supervised by Tommaso Caselli.
 
-I've been affiliated with the Technische Universität Berlin (TU Berlin)
-under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) (Quality and Usability Lab) and the [Berlin Institute for the Foundations of Learning and Data (BIFOLD)](https://www.bifold.berlin/) supervised by [Alexander Meyer](https://ikim.charite.de/metas/person/person/address_detail/univ_prof_dr_med_alexander_meyer) (IKIM @ Charité) as well as the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology).
+I'm a guest researcher with the [Multilinguality and Language Technology](https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology) department at the German Research Center for Artificial Intelligence (DFKI) in Saarbrücken and the [IKIM](https://ikim.charite.de/metas/person/person/address_detail/nils_feldhus) at Charité in Berlin.
+
+Recently, I was affiliated with the Technische Universität Berlin (TU Berlin)
+under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) (Quality and Usability Lab) and the [Berlin Institute for the Foundations of Learning and Data (BIFOLD)](https://www.bifold.berlin/) supervised by [Alexander Meyer](https://ikim.charite.de/metas/person/person/address_detail/univ_prof_dr_med_alexander_meyer) (IKIM @ Charité) as well as the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) during my PhD.
 
 # Research interests 👀
 Advancing the interpretability of language models with the goal of increasing trust in and simplifying access to explanations!  
@@ -23,6 +25,11 @@ I am open to collaborations on rationale generation, concept explanations, text 
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><nobr>2026-08-17</nobr></td>
+      <td><b>Accept</b></td>
+      <td>Proud to announce that Minh Anh and Akhil got their papers on NLG evaluation (documentation via Metric Cards; semantic similarity for medical texts) accepted to INLG and KONVENS, respectively.</td>
+    </tr>
     <tr>
       <td><nobr>2026-06-24</nobr></td>
       <td><b>Position</b></td>
@@ -92,26 +99,6 @@ I am open to collaborations on rationale generation, concept explanations, text 
       <td><nobr>2025-08-20</nobr></td>
       <td>Accept</td>
       <td>Our <a href="./publications/#2025">multilingual conversational XAI datasets paper</a> led by Qianli has been accepted for Findings of EMNLP 2025! See you in 🇨🇳 Suzhou!</td>
-    </tr>
-    <tr>
-      <td><nobr>2025-08-12</nobr></td>
-      <td>Service</td>
-      <td>I'm co-organizing the inaugural <a href="https://ynlg-workshop.github.io">YNLG Workshop</a> for Young Researchers in Natural Language Generation! Hope to see you in 🇻🇳 Hanoi!</td>
-    </tr>
-    <tr>
-      <td><nobr>2025-07-31</nobr></td>
-      <td>Award</td>
-      <td>Our TableEval paper has won the Best Runner-up Paper Award at the Table Representation Learning Workshop! 🥳</td>
-    </tr>
-    <tr>
-      <td><nobr>2025-07-17</nobr></td>
-      <td>Pre-print</td>
-      <td>Demo paper and first publication from my IlluminateCardio project on translating free-form clinical notes to structured FHIR resources available on <a href="https://arxiv.org/abs/2507.12261">arXiv</a>. This is a collaboration with Uni Augsburg and Charité.</td>
-    </tr>
-    <tr>
-      <td><nobr>2025-04-11</nobr></td>
-      <td><b>Graduation</b></td>
-      <td>Successfully defended my PhD thesis at TU Berlin! 🎓 Thanks to my mentor Sebastian Möller and professors Sina Zarrieß (Uni Bielefeld), Christin Seifert (Uni Marburg) and Matthias Boehm for being part of the committee and awarding the graduation certificate with a "magna cum laude".  </td>
     </tr>
   </tbody>
 </table>

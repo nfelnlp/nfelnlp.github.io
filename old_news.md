@@ -4,12 +4,16 @@ classes: wide
 author_profile: true
 ---
 
+2025-08-12 | I'm co-organizing the inaugural <a href="https://ynlg-workshop.github.io">YNLG Workshop</a> for Young Researchers in Natural Language Generation! Hope to see you in 🇻🇳 Hanoi!  
+2025-07-31 | Our TableEval paper has won the Best Runner-up Paper Award at the Table Representation Learning Workshop! 🥳  
+2025-07-17 | Demo paper and first publication from my IlluminateCardio project on translating free-form clinical notes to structured FHIR resources available on <a href="https://arxiv.org/abs/2507.12261">arXiv</a>. This is a collaboration with Uni Augsburg and Charité.  
 2025-06-19 | Paper on feature description methods and polysemanticity out on <a href="https://arxiv.org/abs/2506.15538">arXiv</a>.  
 2025-06-19 | <a href="./publications/#2025">FEVER Shared Task submission</a> accepted for ACL 2025.  
 2025-05-28 | The study on <a href="https://arxiv.org/abs/2407.01384">readability of free-text rationales</a> by Yi-Sheng was accepted at the <a href="https://gem-benchmark.com/workshop">GEM^2</a> Workshop at ACL 2025. 🧐
 2025-05-28 | Our <a href="./publications/#2025">table understanding study</a> led by Ekaterina has been accepted at the <a href="https://table-representation-learning.github.io/ACL2025/">Table Representation Learning Workshop</a> of ACL 2025. 📊  
 2025-05-16 | <a href="https://arxiv.org/abs/2501.00777">FitCF</a> has been accepted to <a href="https://2025.aclweb.org">ACL 2025 Findings</a>! See you in Vienna! 🎡  
 2025-05-06 | Paper with TU Munich on gender bias in explainability accepted at <a href="https://programs.sigchi.org/facct/2025/program/content/201842">FAccT 2025</a>. 🦉  
+**2025-04-11** | Successfully defended my PhD thesis at TU Berlin! 🎓 Thanks to my mentor Sebastian Möller and professors Sina Zarrieß (Uni Bielefeld), Christin Seifert (Uni Marburg) and Matthias Boehm for being part of the committee and awarding the graduation certificate with a "magna cum laude".  
 2025-03-18 | First time serving as an editor: Together with Britta Schulte, I <a href="./publications/#2025">published the proceedings</a> of the <a href="https://arxiv.org/abs/2503.10298">ISCA-ITG Workshop on Diversity in Large Speech and Language Models</a>.
 2025-02-07 | I gave an <a href="./talks/index.md">invited talk at the University of Groningen</a> about human-centric explainable NLP. 🇳🇱  
 2024-12-29 | I published my <a href="./recommended/2024.md">2024 Recap</a> showcasing my favorite papers from this year's major conferences.  

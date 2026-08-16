@@ -11,6 +11,7 @@ title: "Service"
 # Area Chair
 
 ### [ACL Rolling Review](https://aclrollingreview.org/aes)
+**ARR August 2026**  
 **ARR May 2026**  
 **ARR March 2026**  
 **ARR January 2026 (ACL 2026)** (Theme Track: Explainability of NLP Models)  
@@ -23,6 +24,7 @@ title: "Service"
 
 
 # Conference Reviewer
+**EMNLP 2026 System Demonstrations** (Emergency Reviews)  
 **INLG 2026**  
 **EACL 2026 Student Research Workshop**  
 **EACL 2026 System Demonstrations**  

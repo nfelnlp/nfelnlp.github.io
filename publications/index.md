@@ -31,10 +31,20 @@ Qianli Wang, **Nils Feldhus**, Pepa Atanasova, Fedor Splitt, Simon Ostermann, Se
 
 ## 2026
 
+### Metric Cards Make Blind Spots Legible
+Minh Anh Nguyen and **Nils Feldhus**  
+*INLG 2026*  
+Proceedings available in October | [GitHub](https://github.com/ma-nguyen/nlg-metric-card)
+
+### Semantic Similarity is Multidimensional: Variation-Aware Evaluation for Medical Text
+Akhil Juneja, **Nils Feldhus**, and Roland Roller  
+*KONVENS 2026*  
+Proceedings available in September | [GitHub](https://github.com/akjuneja/SemEvalVar)
+
 ### Parallel Universes, Parallel Languages: A Comprehensive Study on LLM-based Multilingual Counterfactual Example Generation
 Qianli Wang, Van Bach Nguyen, Yihong Liu, Fedor Splitt, **Nils Feldhus**, Christin Seifert, Hinrich Schütze, Sebastian Möller, and Vera Schmitt  
 *ACL 2026* (Main)  
-[ACL Anthology](https://aclanthology.org/2026.acl-long.12/) | [arXiv](https://arxiv.org/abs/2601.00263)
+[ACL Anthology](https://aclanthology.org/2026.acl-long.12/) | [arXiv](https://arxiv.org/abs/2601.00263) | [GitHub](https://github.com/qiaw99/multicfe)
 
 ### Through a Compressed Lens: Investigating the Impact of Quantization on Factual Knowledge Recall  
 Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Hinrich Schütze, Sebastian Möller, and Vera Schmitt  
@@ -44,7 +54,7 @@ Qianli Wang, Mingyang Wang, **Nils Feldhus**, Simon Ostermann, Yuan Cao, Hinrich
 ### XplaiNLP at SemEval-2026 Task 1: BVAHAHA - Benign Violation Algorithm for Humor and Harmless Absurdity  
 Berk Bubus, Nebi Soyal, Vera Schmitt, **Nils Feldhus**, and Veronika Solopova  
 *SemEval @ ACL 2026*  
-[ACL Anthology](https://doi.org/10.18653/v1/2026.semeval-1.195) 
+[ACL Anthology](https://doi.org/10.18653/v1/2026.semeval-1.195) | [GitHub](https://github.com/berkbubus/BVAHAHA)
 
 ### Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes
 Johann Frei, **Nils Feldhus**, Lisa Raithel, Roland Roller, Alexander Meyer, and Frank Kramer  
