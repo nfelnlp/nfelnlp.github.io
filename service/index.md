@@ -68,9 +68,9 @@ IWLTP @ LREC 2020 (secondary)
 [BlackboxNLP – The Ninth Workshop on Analyzing and Interpreting Neural Networks for NLP](https://blackboxnlp.github.io/2026/), co-located with EMNLP 2026 @ Budapest, Hungary.  
 Co-organized with Dana Arad, Yonatan Belinkov, Hanjie Chen, Hosein Mohebbi, Aaron Mueller, Gabriele Sarti, and Martin Tutek. 
 
-[YNLG – The 2nd Workshop for Young Researchers in Natural Language Generation](https://2025.inlgmeeting.org/workshops-tutorials-young-researcher.html), co-located with INLG 2026 @ Utrecht, Netherlands. Co-organized with Miriam Anschütz, Rudali Huidrom, Kristyna Onderkova, Patricia Schmidtova, Adarsa Sivaprasad, Barkavi Sundar, and Yongxin Zhou.
+[YNLG – The 2nd Workshop for Young Researchers in Natural Language Generation](https://ynlg-workshop.github.io), co-located with INLG 2026 @ Utrecht, Netherlands. Co-organized with Miriam Anschütz, Rudali Huidrom, Kristyna Onderkova, Patricia Schmidtova, Adarsa Sivaprasad, Barkavi Sundar, and Yongxin Zhou.
 
-[YNLG – The 1st Workshop for Young Researchers in Natural Language Generation](https://2025.inlgmeeting.org/workshops-tutorials-young-researcher.html), co-located with INLG 2025 @ Hanoi, Vietnam. Co-organized with Alyssa Allen, Rudali Huidrom, Michela Lorandi, Adarsa Sivaprasad, and Patricia Schmidtova.  
+[YNLG – The 1st Workshop for Young Researchers in Natural Language Generation](https://ynlg-workshop.github.io/previous_editions/2025.html), co-located with INLG 2025 @ Hanoi, Vietnam. Co-organized with Alyssa Allen, Rudali Huidrom, Michela Lorandi, Adarsa Sivaprasad, and Patricia Schmidtova.  
 
 # Editor
 ### Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models

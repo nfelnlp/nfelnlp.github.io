@@ -27,7 +27,7 @@ I am open to collaborations on rationale generation, concept explanations, text 
   <tbody>
     <tr>
       <td><nobr>2026-08-17</nobr></td>
-      <td><b>Accept</b></td>
+      <td>Accept</td>
       <td>Proud to announce that Minh Anh and Akhil got their papers on NLG evaluation (documentation via Metric Cards; semantic similarity for medical texts) accepted to INLG and KONVENS, respectively.</td>
     </tr>
     <tr>
