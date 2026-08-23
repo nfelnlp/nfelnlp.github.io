@@ -4,9 +4,11 @@ classes: wide
 author_profile: true
 ---
 
-Welcome! 👋 I am a Postdoctoral Researcher at the Computational Linguistics Group of the [University of Groningen (RUG)](https://www.rug.nl/research/clcg/research/cl/?lang=en) supervised by Tommaso Caselli.
+Welcome! 👋 
 
-I'm a guest researcher with the [Multilinguality and Language Technology](https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology) department at the German Research Center for Artificial Intelligence (DFKI) in Saarbrücken and the [IKIM](https://ikim.charite.de/metas/person/person/address_detail/nils_feldhus) at Charité in Berlin.
+I am a Postdoctoral Researcher at the Computational Linguistics Group of the [University of Groningen (RUG)](https://www.rug.nl/research/clcg/research/cl/?lang=en) supervised by Tommaso Caselli.
+
+I'm also a guest researcher with the [Multilinguality and Language Technology](https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology) department at the German Research Center for Artificial Intelligence (DFKI) in Saarbrücken and the [IKIM](https://ikim.charite.de/metas/person/person/address_detail/nils_feldhus) at Charité in Berlin.
 
 Recently, I was affiliated with the Technische Universität Berlin (TU Berlin)
 under the supervision of [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) (Quality and Usability Lab) and the [Berlin Institute for the Foundations of Learning and Data (BIFOLD)](https://www.bifold.berlin/) supervised by [Alexander Meyer](https://ikim.charite.de/metas/person/person/address_detail/univ_prof_dr_med_alexander_meyer) (IKIM @ Charité) as well as the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) during my PhD.
@@ -25,6 +27,11 @@ I am open to collaborations on rationale generation, concept explanations, text 
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><nobr>2026-08-23</nobr></td>
+      <td>Accept</td>
+      <td>At the EMNLP main conference in Budapest, my co-authors (from TU Berlin, DFKI, Uni Potsdam, Uni Marburg, Uni Salerno, among others) and I will present a total of seven papers (3x Main + 3x Findings + 1x Demo) across interpretability, dialogue, NLG evaluation, and summarization.</td>
+    </tr>
     <tr>
       <td><nobr>2026-08-17</nobr></td>
       <td>Accept</td>
@@ -89,16 +96,6 @@ I am open to collaborations on rationale generation, concept explanations, text 
       <td><nobr>2025-09-01</nobr></td>
       <td>Talks</td>
       <td>Excited to give a talk on human-centric explainable NLP at the <a href="https://www.bifold.berlin/news-events/events/ai-based-methods-for-the-humanities/agenda-and-program">AI-based Methods for the Humanities</a> event on September 23! I'll also participate in the <a href="https://shonan.nii.ac.jp/seminars/230/">"LLMs for Health" NII Shonan Meeting 🇯🇵</a> in October.</td>
-    </tr>
-    <tr>
-      <td><nobr>2025-08-22</nobr></td>
-      <td>Accept</td>
-      <td>Our paper on <a href="./publications/#2025">evaluating LLM-generated counterfactuals</a> led by Qianli has been accepted at INLG 2025 in 🇻🇳 Hanoi!</td>
-    </tr>
-    <tr>
-      <td><nobr>2025-08-20</nobr></td>
-      <td>Accept</td>
-      <td>Our <a href="./publications/#2025">multilingual conversational XAI datasets paper</a> led by Qianli has been accepted for Findings of EMNLP 2025! See you in 🇨🇳 Suzhou!</td>
     </tr>
   </tbody>
 </table>

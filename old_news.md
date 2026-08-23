@@ -4,6 +4,8 @@ classes: wide
 author_profile: true
 ---
 
+2025-08-22 | Our paper on <a href="./publications/#2025">evaluating LLM-generated counterfactuals</a> led by Qianli has been accepted at INLG 2025 in 🇻🇳 Hanoi!  
+2025-08-20 | Our <a href="./publications/#2025">multilingual conversational XAI datasets paper</a> led by Qianli has been accepted for Findings of EMNLP 2025! See you in 🇨🇳 Suzhou!  
 2025-08-12 | I'm co-organizing the inaugural <a href="https://ynlg-workshop.github.io">YNLG Workshop</a> for Young Researchers in Natural Language Generation! Hope to see you in 🇻🇳 Hanoi!  
 2025-07-31 | Our TableEval paper has won the Best Runner-up Paper Award at the Table Representation Learning Workshop! 🥳  
 2025-07-17 | Demo paper and first publication from my IlluminateCardio project on translating free-form clinical notes to structured FHIR resources available on <a href="https://arxiv.org/abs/2507.12261">arXiv</a>. This is a collaboration with Uni Augsburg and Charité.  

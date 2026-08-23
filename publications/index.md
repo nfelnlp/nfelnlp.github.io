@@ -15,21 +15,44 @@ title: "Publications"
 Jingyi Sun, Qianli Wang, Pepa Atanasova, **Nils Feldhus**, and Isabelle Augenstein  
 [arXiv](https://arxiv.org/abs/2605.24960)
 
-### What Are We Measuring in NLG? A Meta-Analysis of Evaluation Trends 2020-2025 
-Jing Yang, **Nils Feldhus**, Salar Mohtaj, Leonhard Hennig, Qianli Wang, Eleni Metheniti, Sherzod Hakimov, Charlott Jakob, Veronika Solopova, Konrad Rieck, David Schlangen, Sebastian Möller, and Vera Schmitt  
-[arXiv](https://arxiv.org/abs/2601.07648)
-
-### iFlip: Iterative Feedback-driven Counterfactual Example Refinement
-Yilong Wang, Qianli Wang, and **Nils Feldhus**  
-[arXiv](https://arxiv.org/abs/2601.01446)
-
-### Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations
-Qianli Wang, **Nils Feldhus**, Pepa Atanasova, Fedor Splitt, Simon Ostermann, Sebastian Möller, and Vera Schmitt  
-[arXiv](https://arxiv.org/abs/2601.00282)
-
 ---
 
 ## 2026
+
+### Evaluating LLM-generated Explanatory Dialogue Turns through Dialogue Completion
+Yi-Sheng Hsu, **Nils Feldhus**, and Manfred Stede  
+*EMNLP 2026 (Main)*  
+Proceedings available in October
+
+### Training-Free Character-Length Control in Summarization with Diffusion Language Models
+Steffen Castle, **Nils Feldhus**, Christopher Ebert, Leonhard Hennig, and Sebastian Möller  
+*EMNLP 2026 (Main)*  
+Proceedings available in October
+
+### What Are We Measuring in NLG? A Meta-Analysis of Evaluation Trends 2020-2025 
+Jing Yang, **Nils Feldhus**, Salar Mohtaj, Leonhard Hennig, Qianli Wang, Eleni Metheniti, Sherzod Hakimov, Charlott Jakob, Veronika Solopova, Konrad Rieck, David Schlangen, Sebastian Möller, and Vera Schmitt  
+*EMNLP 2026 (Main)*  
+Proceedings available in October | [arXiv](https://arxiv.org/abs/2601.07648)
+
+### SimXAI: A Simple Drop-in Layer Increases Interaction Quality and Understanding in Conversational XAI
+Van Bach Nguyen, Qianli Wang, **Nils Feldhus**, Jörg Schlötterer, and Christin Seifert  
+*EMNLP 2026 Findings*  
+Proceedings available in October 
+
+### iFlip: Iterative Feedback-driven Counterfactual Example Refinement
+Yilong Wang, Qianli Wang, and **Nils Feldhus**  
+*EMNLP 2026 Findings*  
+Proceedings available in October | [arXiv](https://arxiv.org/abs/2601.01446)
+
+### Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations
+Qianli Wang, **Nils Feldhus**, Pepa Atanasova, Fedor Splitt, Simon Ostermann, Sebastian Möller, and Vera Schmitt  
+*EMNLP 2026 Findings*  
+Proceedings available in October | [arXiv](https://arxiv.org/abs/2601.00282)
+
+### MUDIPA: A Human-in-the-Loop AI-Assisted Platform for Discourse Graph Annotation in Multi-party Dialogues
+Laura De Santis, Gaetano Cimino, **Nils Feldhus**, Giuseppe Carenini, and Vincenzo Deufemia  
+*EMNLP 2026 System Demonstrations*  
+Proceedings available in October | [GitHub](https://github.com/Laura2480/MuDiPA)
 
 ### Metric Cards Make Blind Spots Legible
 Minh Anh Nguyen and **Nils Feldhus**  
