@@ -7,7 +7,7 @@ title: "Publications"
 
 ## Pre-prints
 
-### Judge Circuits
+### Judge Circuits Explain Format-Induced Inconsistency in LLM-as-a-Judge
 **Nils Feldhus**, Tanja Baeumel, Elena Golimblevskaia, Qianli Wang, Van Bach Nguyen, Aaron Louis Eidt, Selin Kahvecioglu, Christopher Ebert, Wojciech Samek, Jing Yang, Vera Schmitt, Sebastian Möller, and Simon Ostermann  
 [arXiv](https://arxiv.org/abs/2605.16023)
 
@@ -21,7 +21,7 @@ Jingyi Sun, Qianli Wang, Pepa Atanasova, **Nils Feldhus**, and Isabelle Augenste
 
 ### Evaluating LLM-generated Explanatory Dialogue Turns through Dialogue Completion
 Yi-Sheng Hsu, **Nils Feldhus**, and Manfred Stede  
-*EMNLP 2026 (Main)*  
+*EMNLP 2026 (Main)*  <sup><sub>(Rejected from BEA 2025, INLG 2025)</sub></sup>  
 Proceedings available in October
 
 ### Training-Free Character-Length Control in Summarization with Diffusion Language Models
@@ -46,13 +46,18 @@ Proceedings available in October | [arXiv](https://arxiv.org/abs/2601.01446)
 
 ### Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations
 Qianli Wang, **Nils Feldhus**, Pepa Atanasova, Fedor Splitt, Simon Ostermann, Sebastian Möller, and Vera Schmitt  
-*EMNLP 2026 Findings*  
+*EMNLP 2026 Findings*  <sup><sub>(Rejected from ACL 2026)</sub></sup>  
 Proceedings available in October | [arXiv](https://arxiv.org/abs/2601.00282)
 
 ### MUDIPA: A Human-in-the-Loop AI-Assisted Platform for Discourse Graph Annotation in Multi-party Dialogues
 Laura De Santis, Gaetano Cimino, **Nils Feldhus**, Giuseppe Carenini, and Vincenzo Deufemia  
 *EMNLP 2026 System Demonstrations*  
 Proceedings available in October | [GitHub](https://github.com/Laura2480/MuDiPA)
+
+### Limitations of Automated Simulatability: LLM Simulators Can Bypass Explanations
+Antonin Poché, Fanny Jourdan, **Nils Feldhus**, Qianli Wang, Jing Yang, Simon Ostermann, Nicholas Asher, Philippe Muller, and Vera Schmitt  
+*BlackboxNLP @ EMNLP 2026*  
+Proceedings available in October
 
 ### Metric Cards Make Blind Spots Legible
 Minh Anh Nguyen and **Nils Feldhus**  

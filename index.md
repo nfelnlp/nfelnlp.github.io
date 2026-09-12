@@ -87,16 +87,6 @@ I am open to collaborations on rationale generation, concept explanations, text 
       <td>Accept</td>
       <td>My survey with Laura Kopf on <a href="./publications/#2025">concept descriptions for interpreting language models</a> will appear at the <a href="https://blackboxnlp.github.io/2025/">BlackboxNLP</a> workshop, co-located with EMNLP 2025 in Suzhou!</td>
     </tr>
-    <tr>
-      <td><nobr>2025-09-07</nobr></td>
-      <td>Accept</td>
-      <td>Our paper on <a href="./publications/#2025">explanation dialogues and measurement of teaching acts</a> led by Aliki has been accepted by the <a href="https://sites.google.com/view/codi-crac2025/home">CODI-CRAC</a> workshop at EMNLP 2025!</td>
-    </tr>
-    <tr>
-      <td><nobr>2025-09-01</nobr></td>
-      <td>Talks</td>
-      <td>Excited to give a talk on human-centric explainable NLP at the <a href="https://www.bifold.berlin/news-events/events/ai-based-methods-for-the-humanities/agenda-and-program">AI-based Methods for the Humanities</a> event on September 23! I'll also participate in the <a href="https://shonan.nii.ac.jp/seminars/230/">"LLMs for Health" NII Shonan Meeting 🇯🇵</a> in October.</td>
-    </tr>
   </tbody>
 </table>
 
