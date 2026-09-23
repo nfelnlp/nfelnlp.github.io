@@ -4,6 +4,8 @@ classes: wide
 author_profile: true
 ---
 
+2025-09-19 | Extremely excited about the <a href="https://neurips.cc/virtual/2025/poster/117141">NeurIPS 2025</a> acceptance of the <a href="./publications/#2025">PRISM paper</a> led by Laura Kopf!  
+2025-09-18 | My survey with Laura Kopf on <a href="./publications/#2025">concept descriptions for interpreting language models</a> will appear at the <a href="https://blackboxnlp.github.io/2025/">BlackboxNLP</a> workshop, co-located with EMNLP 2025 in Suzhou!  
 2025-09-07 | Our paper on <a href="./publications/#2025">explanation dialogues and measurement of teaching acts</a> led by Aliki has been accepted by the <a href="https://sites.google.com/view/codi-crac2025/home">CODI-CRAC</a> workshop at EMNLP 2025!  
 <nobr>2025-09-01</nobr> | Excited to give a talk on human-centric explainable NLP at the <a href="https://www.bifold.berlin/news-events/events/ai-based-methods-for-the-humanities/agenda-and-program">AI-based Methods for the Humanities</a> event on September 23! I'll also participate in the <a href="https://shonan.nii.ac.jp/seminars/230/">"LLMs for Health" NII Shonan Meeting 🇯🇵</a> in October.  
 2025-08-22 | Our paper on <a href="./publications/#2025">evaluating LLM-generated counterfactuals</a> led by Qianli has been accepted at INLG 2025 in 🇻🇳 Hanoi!  

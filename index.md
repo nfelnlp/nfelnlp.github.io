@@ -28,6 +28,11 @@ I am open to collaborations on rationale generation, concept explanations, text 
   </thead>
   <tbody>
     <tr>
+      <td><nobr>2026-09-23</nobr></td>
+      <td>Accept</td>
+      <td>The simulatability evaluation study by Antonin and the RAG hallucination detection extended abstract by Steffen have been accepted at <a href="./publications/#2026">BlackboxNLP</a>. Also, a new pre-print on chain-of-thought faithfulness evaluation via SAE concept alignment led by Qianli is out now.</td>
+    </tr>
+    <tr>
       <td><nobr>2026-08-23</nobr></td>
       <td>Accept</td>
       <td>At the EMNLP main conference in Budapest, my co-authors (from TU Berlin, DFKI, Uni Potsdam, Uni Marburg, Uni Salerno, among others) and I will present a total of seven papers (3x Main + 3x Findings + 1x Demo) across interpretability, dialogue, NLG evaluation, and summarization.</td>
@@ -76,16 +81,6 @@ I am open to collaborations on rationale generation, concept explanations, text 
       <td><nobr>2026-01-02</nobr></td>
       <td>Recap</td>
       <td>I published my <a href="./recommended/2025">2025 Recap</a> highlighting 86 papers that really excite me.</td>
-    </tr>
-    <tr>
-      <td><nobr>2025-09-19</nobr></td>
-      <td>Accept</td>
-      <td>Extremely excited about the <a href="https://neurips.cc/virtual/2025/poster/117141">NeurIPS 2025</a> acceptance of the <a href="./publications/#2025">PRISM paper</a> led by Laura Kopf!</td>
-    </tr>
-    <tr>
-      <td><nobr>2025-09-18</nobr></td>
-      <td>Accept</td>
-      <td>My survey with Laura Kopf on <a href="./publications/#2025">concept descriptions for interpreting language models</a> will appear at the <a href="https://blackboxnlp.github.io/2025/">BlackboxNLP</a> workshop, co-located with EMNLP 2025 in Suzhou!</td>
     </tr>
   </tbody>
 </table>

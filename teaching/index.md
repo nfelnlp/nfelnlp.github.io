@@ -5,6 +5,10 @@ author_profile: true
 title: "Teaching"
 ---
 
+## Winter Semester 2026
+🛠️ 2026-09 – 2026-12 : [Language Models and Applications](https://rooster.rug.nl/2026-2027?courseOffering=LIX030M10.2026-2027.1) @ University of Groningen (with Rik van Noord & Malvina Nissim)
+
+
 ## Winter Semester 2025/26
 🌿 2025-10 – 2026-03 : [AI Visualization & Interpretability seminar](./aivi.md) @ TU Berlin  
 🛠️ 2025-10 – 2026-03 : [NLP and its Applications](https://www.tu.berlin/index.php?id=292135) @ TU Berlin (with Vera Schmitt, Veronika Solopova, and Jing Yang)

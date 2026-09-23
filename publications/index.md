@@ -7,6 +7,10 @@ title: "Publications"
 
 ## Pre-prints
 
+### From Concept Alignment to Causal Grounding: An Intervention Test of Chain-of-Thought Faithfulness
+Qianli Wang, Yilong Wang, Dennis Wei, Jingyi Sun, Simon Ostermann, Pepa Atanasova, and **Nils Feldhus**  
+[arXiv](https://arxiv.org/abs/2609.23065)
+
 ### Judge Circuits Explain Format-Induced Inconsistency in LLM-as-a-Judge
 **Nils Feldhus**, Tanja Baeumel, Elena Golimblevskaia, Qianli Wang, Van Bach Nguyen, Aaron Louis Eidt, Selin Kahvecioglu, Christopher Ebert, Wojciech Samek, Jing Yang, Vera Schmitt, Sebastian Möller, and Simon Ostermann  
 [arXiv](https://arxiv.org/abs/2605.16023)
@@ -22,7 +26,7 @@ Jingyi Sun, Qianli Wang, Pepa Atanasova, **Nils Feldhus**, and Isabelle Augenste
 ### Evaluating LLM-generated Explanatory Dialogue Turns through Dialogue Completion
 Yi-Sheng Hsu, **Nils Feldhus**, and Manfred Stede  
 *EMNLP 2026 (Main)*  <sup><sub>(Rejected from BEA 2025, INLG 2025)</sub></sup>  
-Proceedings available in October
+Proceedings available in October | [GitHub](https://github.com/doyouwantsometea/dialog_completion/)
 
 ### Training-Free Character-Length Control in Summarization with Diffusion Language Models
 Steffen Castle, **Nils Feldhus**, Christopher Ebert, Leonhard Hennig, and Sebastian Möller  
@@ -57,7 +61,7 @@ Proceedings available in October | [GitHub](https://github.com/Laura2480/MuDiPA)
 ### Limitations of Automated Simulatability: LLM Simulators Can Bypass Explanations
 Antonin Poché, Fanny Jourdan, **Nils Feldhus**, Qianli Wang, Jing Yang, Simon Ostermann, Nicholas Asher, Philippe Muller, and Vera Schmitt  
 *BlackboxNLP @ EMNLP 2026*  
-Proceedings available in October
+Proceedings available in October | [arXiv](https://arxiv.org/abs/2609.08585)
 
 ### Metric Cards Make Blind Spots Legible
 Minh Anh Nguyen and **Nils Feldhus**  
@@ -67,7 +71,7 @@ Proceedings available in October | [GitHub](https://github.com/ma-nguyen/nlg-met
 ### Semantic Similarity is Multidimensional: Variation-Aware Evaluation for Medical Text
 Akhil Juneja, **Nils Feldhus**, and Roland Roller  
 *KONVENS 2026*  
-Proceedings available in September | [GitHub](https://github.com/akjuneja/SemEvalVar)
+[Proceedings](https://www.korpuslab.uni-hamburg.de/en/konvens2026/96.pdf) | [GitHub](https://github.com/akjuneja/SemEvalVar)
 
 ### Parallel Universes, Parallel Languages: A Comprehensive Study on LLM-based Multilingual Counterfactual Example Generation
 Qianli Wang, Van Bach Nguyen, Yihong Liu, Fedor Splitt, **Nils Feldhus**, Christin Seifert, Hinrich Schütze, Sebastian Möller, and Vera Schmitt  
