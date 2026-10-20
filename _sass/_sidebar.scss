@@ -13,12 +13,17 @@
   @include clearfix();
   margin-bottom: 1em;
 
-  @media screen and (min-width: 1024px) {
-    position: fixed;
-    padding-top: $masthead-height;
-  }
-
+  /*
+     Sticky instead of fixed: a fixed sidebar leaves the flow, its Susy percentage width
+     then resolves against the viewport and keeps growing on wide screens until it covers
+     the main column, stealing clicks from the links there. Staying in its grid column
+     keeps it clear of `.page` and still pins it under the masthead while scrolling.
+  */
   @include breakpoint($large) {
+    position: -webkit-sticky;
+    position: sticky;
+    top: calc(#{$masthead-height} + 1em);
+
     @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;

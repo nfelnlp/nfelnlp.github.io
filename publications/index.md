@@ -8,7 +8,7 @@ title: "Publications"
 ## Pre-prints
 
 ### From Concept Alignment to Causal Grounding: An Intervention Test of Chain-of-Thought Faithfulness
-Qianli Wang, Yilong Wang, Dennis Wei, Jingyi Sun, Simon Ostermann, Pepa Atanasova, and **Nils Feldhus**  
+Qianli Wang, Yilong Wang, Dennis Wei, Jingyi Sun, Simon Ostermann, Isabelle Augenstein, Pepa Atanasova, and **Nils Feldhus**  
 [arXiv](https://arxiv.org/abs/2609.23065)
 
 ### Judge Circuits Explain Format-Induced Inconsistency in LLM-as-a-Judge
@@ -66,7 +66,7 @@ Proceedings available in October | [arXiv](https://arxiv.org/abs/2609.08585)
 ### Metric Cards Make Blind Spots Legible
 Minh Anh Nguyen and **Nils Feldhus**  
 *INLG 2026*  
-Proceedings available in October | [GitHub](https://github.com/ma-nguyen/nlg-metric-card)
+[Proceedings](https://2026.inlgmeeting.org/static/proceedings/long/watermarked_pdfs/20.pdf) | [GitHub](https://github.com/ma-nguyen/nlg-metric-card)
 
 ### Semantic Similarity is Multidimensional: Variation-Aware Evaluation for Medical Text
 Akhil Juneja, **Nils Feldhus**, and Roland Roller  
