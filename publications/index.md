@@ -26,42 +26,42 @@ Jingyi Sun, Qianli Wang, Pepa Atanasova, **Nils Feldhus**, and Isabelle Augenste
 ### Evaluating LLM-generated Explanatory Dialogue Turns through Dialogue Completion
 Yi-Sheng Hsu, **Nils Feldhus**, and Manfred Stede  
 *EMNLP 2026 (Main)*  <sup><sub>(Rejected from BEA 2025, INLG 2025)</sub></sup>  
-Proceedings available in October | [GitHub](https://github.com/doyouwantsometea/dialog_completion/)
+[ACL Anthology](https://aclanthology.org/2026.emnlp-main.72/) | [GitHub](https://github.com/doyouwantsometea/dialog_completion/)
 
 ### Training-Free Character-Length Control in Summarization with Diffusion Language Models
 Steffen Castle, **Nils Feldhus**, Christopher Ebert, Leonhard Hennig, and Sebastian Möller  
 *EMNLP 2026 (Main)*  
-Proceedings available in October
+[ACL Anthology](https://aclanthology.org/2026.emnlp-main.121/) | [GitHub](https://github.com/DFKI-NLP/delta-diffusion)
 
 ### What Are We Measuring in NLG? A Meta-Analysis of Evaluation Trends 2020-2025 
 Jing Yang, **Nils Feldhus**, Salar Mohtaj, Leonhard Hennig, Qianli Wang, Eleni Metheniti, Sherzod Hakimov, Charlott Jakob, Veronika Solopova, Konrad Rieck, David Schlangen, Sebastian Möller, and Vera Schmitt  
 *EMNLP 2026 (Main)*  
-Proceedings available in October | [arXiv](https://arxiv.org/abs/2601.07648)
+[ACL Anthology](https://aclanthology.org/2026.emnlp-main.418/) | [arXiv](https://arxiv.org/abs/2601.07648) | [Website](https://jingyng.github.io/NLG-Evaluation-Trends/) | [GitHub](https://github.com/jingyng/NLG-Evaluation-Trends)
 
 ### SimXAI: A Simple Drop-in Layer Increases Interaction Quality and Understanding in Conversational XAI
 Van Bach Nguyen, Qianli Wang, **Nils Feldhus**, Jörg Schlötterer, and Christin Seifert  
 *EMNLP 2026 Findings*  
-Proceedings available in October 
+[ACL Anthology](https://aclanthology.org/2026.findings-emnlp.20/)
 
 ### iFlip: Iterative Feedback-driven Counterfactual Example Refinement
 Yilong Wang, Qianli Wang, and **Nils Feldhus**  
 *EMNLP 2026 Findings*  
-Proceedings available in October | [arXiv](https://arxiv.org/abs/2601.01446)
+[ACL Anthology](https://aclanthology.org/2026.findings-emnlp.38/) | [arXiv](https://arxiv.org/abs/2601.01446)
 
 ### Can Large Language Models Still Explain Themselves? Investigating the Impact of Quantization on Self-Explanations
 Qianli Wang, **Nils Feldhus**, Pepa Atanasova, Fedor Splitt, Simon Ostermann, Sebastian Möller, and Vera Schmitt  
 *EMNLP 2026 Findings*  <sup><sub>(Rejected from ACL 2026)</sub></sup>  
-Proceedings available in October | [arXiv](https://arxiv.org/abs/2601.00282)
+[ACL Anthology](https://aclanthology.org/2026.findings-emnlp.39/) | [arXiv](https://arxiv.org/abs/2601.00282)
 
 ### MUDIPA: A Human-in-the-Loop AI-Assisted Platform for Discourse Graph Annotation in Multi-party Dialogues
 Laura De Santis, Gaetano Cimino, **Nils Feldhus**, Giuseppe Carenini, and Vincenzo Deufemia  
 *EMNLP 2026 System Demonstrations*  
-Proceedings available in October | [GitHub](https://github.com/Laura2480/MuDiPA)
+[ACL Anthology](https://aclanthology.org/2026.emnlp-demos.63/) | [GitHub](https://github.com/Laura2480/MuDiPA)
 
 ### Limitations of Automated Simulatability: LLM Simulators Can Bypass Explanations
 Antonin Poché, Fanny Jourdan, **Nils Feldhus**, Qianli Wang, Jing Yang, Simon Ostermann, Nicholas Asher, Philippe Muller, and Vera Schmitt  
 *BlackboxNLP @ EMNLP 2026*  
-Proceedings available in October | [arXiv](https://arxiv.org/abs/2609.08585)
+[ACL Anthology](https://aclanthology.org/2026.blackboxnlp-1.60/) | [arXiv](https://arxiv.org/abs/2609.08585)
 
 ### Metric Cards Make Blind Spots Legible
 Minh Anh Nguyen and **Nils Feldhus**  
